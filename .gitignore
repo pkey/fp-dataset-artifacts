@@ -1,4 +1,4 @@
 *.pyc
 .idea/
 output/
-trained_model/
+trained_model*/
