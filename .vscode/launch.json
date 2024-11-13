@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "run train qa",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "run.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--do_train",
+        "--task",
+        "qa",
+        "--dataset",
+        "squad",
+        "--output_dir",
+        "./trained_model/"
+      ]
+    },
+    {
+      "name": "run eval qa",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "run.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--do_eval",
+        "--task",
+        "qa",
+        "--dataset",
+        "squad",
+        "--model",
+        "./trained_model/",
+        "--output_dir",
+        "./eval_output/"
+      ]
+    }
+  ]
+}
