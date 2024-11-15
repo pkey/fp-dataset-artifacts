@@ -7,7 +7,7 @@ download:
 initialise/colab:
 	apt install python3.10-venv
 	python -m venv tf-venv
-	source tf-venv/bin/activate
+	. tf-venv/bin/activate
 
 	pip install --upgrade pip
 	pip install -r requirements.txt
