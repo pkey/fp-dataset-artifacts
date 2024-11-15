@@ -4,9 +4,6 @@ ifneq (,$(wildcard .env))
     export $(shell sed 's/=.*//' .env)
 endif
 
-download:
-	git clone git@github.com:pkey/fp-dataset-artifacts.git
-
 initialise/colab:
 	apt install python3.10-venv
 	python -m venv tf-venv
