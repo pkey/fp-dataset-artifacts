@@ -80,8 +80,6 @@ def main():
     )
 
     training_args, args = argp.parse_args_into_dataclasses()
-    print(training_args)
-    print(args)
 
     # Dataset selection
     # IMPORTANT: this code path allows you to load custom datasets different from the standard SQuAD or SNLI ones.
