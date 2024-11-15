@@ -1,5 +1,5 @@
 
-DRIVE_PATH = /content/drive/My Drive/Model Training
+DRIVE_PATH = /content/drive/My Drive/model_training
 
 download:
 	git clone git@github.com:pkey/fp-dataset-artifacts.git
