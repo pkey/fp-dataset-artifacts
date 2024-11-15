@@ -1,6 +1,6 @@
 # fp-dataset-artifacts
 
-Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen.
+Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen. Modified by Tomas Eglinskas and Paulius Kutka to serve as basis for NLP 2024 Final Project at UT Austin.
 
 ## Getting Started
 
@@ -16,12 +16,15 @@ Then install the dependencies:
 
 `pip install -r requirements.txt`
 
-If you're running on a shared machine and don't have the privileges to install Python packages globally,
-or if you just don't want to install these packages permanently, take a look at the "Virtual environments"
-section further down in the README.
+### Sharing model with GDrive
 
-To make sure pip is installing packages for the right Python version, run `pip --version`
-and check that the path it reports is for the right Python interpreter.
+1. Make sure you have access to the correct folder on GDRive and you have GDrive installed on your machine.
+2. If you are one who the folder was shared with, make sure to create a shortcut to your own drive in GDrive.
+3. Finally, symlink folder to GDrive (make sure you are in the root of this project OR replace `$PWD` with the path to the root of this project):
+
+```
+ln -s  ~/Google\ Drive/My\ Drive/Model\ Training $PWD
+```
 
 ## Training and evaluating a model
 

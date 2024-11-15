@@ -1,5 +1,5 @@
 *.pyc
 .idea/
 output/
-trained_model*/
 eval_output*/
+Model\ Training
