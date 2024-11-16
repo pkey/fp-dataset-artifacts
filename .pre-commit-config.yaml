@@ -13,7 +13,7 @@ repos:
         name: rsync Colab's ipynb to GDrive
         entry: bash .hooks/rsync_ipynb_post.sh
         language: system
-        stages: [post-commit] # trigger after commit is made
+        stages: [pre-push] # trigger after commit is made
         always_run: true
 
   #TODO: notebook metadata make this always thrown are error. Need to figure out how to fix it.
