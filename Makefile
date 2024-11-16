@@ -4,6 +4,7 @@ ifneq (,$(wildcard .env))
     export $(shell sed 's/=.*//' .env)
 endif
 
+.PHONY: initialise/colab
 initialise/colab:
 	apt install python3.10-venv
 	python -m venv tf-venv
@@ -11,6 +12,10 @@ initialise/colab:
 
 	pip install --upgrade pip
 	pip install -r requirements.txt
+
+.PHONY: initialise/local
+initialise/local:
+	pre-commit install
 
 train-nli/colab:
 	python3 run.py --do_train --task nli --dataset snli --output_dir "$(TRAIN_PATH)/trained_model_nli/" --save_steps 25000 --per_device_train_batch_size 400
