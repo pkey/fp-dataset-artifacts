@@ -7,6 +7,26 @@
 #    kills comments in the TOML files, hence we're stopping using it.
 
 repos:
+  - repo: local
+    hooks:
+      - id: rsync-colab-gdrive-post
+        name: rsync Colab's ipynb to GDrive
+        entry: bash .hooks/rsync_ipynb_post.sh
+        language: system
+        stages: [post-commit] # trigger after commit is made
+        always_run: true
+
+  #TODO: notebook metadata make this always thrown are error. Need to figure out how to fix it.
+  # - repo: local
+  #   hooks:
+  #     - id: rsync-colab-gdrive-pre
+  #       name: Check if remote has changed
+  #       entry: bash .hooks/rsync_ipynb_pre.sh
+  #       language: system
+  #       stages: [pre-commit] # trigger after commit is made
+  #       always_run: true
+  #       pass_filenames: false
+
   # Ruff linter
   - repo: https://github.com/astral-sh/ruff-pre-commit
     rev: v0.0.283
@@ -56,12 +76,3 @@ repos:
           (?x)(
             /testdata/
           )
-
-  - repo: local
-    hooks:
-      - id: rsync-colab-gdrive
-        name: rsync Colab's ipynb to GDrive
-        entry: bash .hooks/rsync_ipynb.sh
-        language: system
-        stages: [commit] # trigger after commit is made
-        always_run: true

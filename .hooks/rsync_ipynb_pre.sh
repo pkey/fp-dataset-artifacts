@@ -8,7 +8,6 @@ if [ -f "$ENV_FILE" ]; then
     set -a  # Automatically export all variables
     source "$ENV_FILE"
     set +a  # Stop automatically exporting variables
-    echo ".env file loaded from parent directory."
 else
     echo ".env file not found in parent directory."
     exit 1
@@ -21,4 +20,12 @@ if [ ! -d "$EVALUATED_PATH" ]; then
     exit 1
 fi
 
-rsync -av fp.ipynb "$EVALUATED_PATH/fp.ipynb"
+rsync -nrc --out-format="%n" "fp.ipynb" "$EVALUATED_PATH/fp.ipynb" > /tmp/rsync_diff.log
+
+
+if [[ $? -ne 0 || -s /tmp/rsync_diff.log ]]; then
+  echo "YOUR REMOTE FP.IPYNB HAS BEEN POTENTIALLY UPDATED!!!!"
+  echo "This normally shouldn't happen. If you want to transfer your remote changes to local, use"
+  echo "rsync -av '$EVALUATED_PATH/fp.ipynb' 'fp.ipynb'"
+  exit 1
+fi
