@@ -26,6 +26,9 @@ train-squad/colab:
 train-hotpot/colab:
 	python3 run.py --do_train --task qa --dataset hotpot_qa:fullwiki --output_dir "$(TRAIN_PATH)/trained_model_hotpot_qa/" --per_device_train_batch_size 100
 
+train-adversarial_qa/colab:
+	python3 run.py --do_train --task qa --dataset adversarial_qa:adversarialQA --output_dir "$(TRAIN_PATH)/trained_model_adversarial_qa/" --per_device_train_batch_size 100
+
 eval-nli/colab:
 	python3 run.py --do_eval --task nli --dataset snli --model "$(TRAIN_PATH)/trained_model_nli/" --output_dir "$(TRAIN_PATH)/eval_output_nli/"
 
