@@ -4,3 +4,4 @@ output/
 eval_output*/
 Model\ Training
 .env
+.tmp.driveupload/

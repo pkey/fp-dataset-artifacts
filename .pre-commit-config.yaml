@@ -56,3 +56,12 @@ repos:
           (?x)(
             /testdata/
           )
+
+  - repo: local
+    hooks:
+      - id: rsync-colab-gdrive
+        name: rsync Colab's ipynb to GDrive
+        entry: bash .hooks/rsync_ipynb.sh
+        language: system
+        stages: [commit] # trigger after commit is made
+        always_run: true
