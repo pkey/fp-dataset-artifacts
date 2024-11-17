@@ -17,20 +17,14 @@ initialise/colab:
 initialise/local:
 	pre-commit install
 
-train-nli/colab:
-	python3 run.py --do_train --task nli --dataset snli --output_dir "$(TRAIN_PATH)/trained_model_nli/" --save_steps 25000 --per_device_train_batch_size 400
-
 train-squad/colab:
 	python3 run.py --do_train --task qa --dataset squad --output_dir "$(TRAIN_PATH)/trained_model_squad/" --per_device_train_batch_size 60
 
-train-hotpot/colab:
-	python3 run.py --do_train --task qa --dataset hotpot_qa:fullwiki --output_dir "$(TRAIN_PATH)/trained_model_hotpot_qa/" --per_device_train_batch_size 100
+eval-hotpot:
+	python3 run.py --do_eval --task qa --dataset hotpot_qa:distractor --model "$(TRAIN_PATH)/trained_model_squad/" --output_dir "$(TRAIN_PATH)/eval_output_hotpot/"
 
-train-adversarial_qa/colab:
-	python3 run.py --do_train --task qa --dataset adversarial_qa:adversarialQA --output_dir "$(TRAIN_PATH)/trained_model_adversarial_qa/" --per_device_train_batch_size 100
+eval-adversarial_qa:
+	python3 run.py --do_eval --task qa --dataset adversarial_qa:adversarialQA --model "$(TRAIN_PATH)/trained_model_squad/" --output_dir "$(TRAIN_PATH)/eval_output_adversarial/"
 
-eval-nli/colab:
-	python3 run.py --do_eval --task nli --dataset snli --model "$(TRAIN_PATH)/trained_model_nli/" --output_dir "$(TRAIN_PATH)/eval_output_nli/"
-
-eval-squad/colab:
+eval-squad:
 	python3 run.py --do_eval --task qa --dataset squad --model "$(TRAIN_PATH)/trained_model_squad/" --output_dir "$(TRAIN_PATH)/eval_output_squad/"
