@@ -20,6 +20,9 @@ initialise/local:
 train-squad/colab:
 	python3 run.py --do_train --task qa --dataset squad --output_dir "$(TRAIN_PATH)/trained_model_squad/" --per_device_train_batch_size 60
 
+train-squad-v2/colab:
+	python3 run.py --do_train --task qa --dataset squad_v2 --output_dir "$(TRAIN_PATH)/trained_model_squad_v2/" --per_device_train_batch_size 60
+
 # NOTE: problematic, thinking of dropping
 eval-hotpot:
 	python3 run.py --do_eval --task qa --dataset hotpot_qa:distractor --model "$(TRAIN_PATH)/trained_model_squad/" --output_dir "$(TRAIN_PATH)/eval_output_hotpot/"
