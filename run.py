@@ -12,7 +12,7 @@ from transformers import (
     TrainingArguments,
 )
 
-from hotpot import flatten_hotpot_context_sentence
+from hotpot import convert_hotpot_to_squad_format
 from helpers import QuestionAnsweringTrainer, compute_accuracy, prepare_dataset_nli, prepare_train_dataset_qa, prepare_validation_dataset_qa
 
 NUM_PREPROCESSING_WORKERS = 2
@@ -161,8 +161,8 @@ def main():
             eval_dataset = eval_dataset.select(range(args.max_eval_samples))
 
         if "hotpot" in args.dataset:
-            eval_dataset = eval_dataset.rename_column("answer", "answers")
-            eval_dataset = eval_dataset.map(lambda example: flatten_hotpot_context_sentence(example))
+            # when changing do load_from_cache_file=True
+            eval_dataset = eval_dataset.map(convert_hotpot_to_squad_format)
 
         eval_dataset_featurized = eval_dataset.map(
             prepare_eval_dataset,
