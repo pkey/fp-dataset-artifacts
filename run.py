@@ -182,6 +182,7 @@ def main():
         # to enable the question-answering specific evaluation metrics
         trainer_class = QuestionAnsweringTrainer
         eval_kwargs["eval_examples"] = eval_dataset
+        eval_kwargs["tokenizer"] = tokenizer
         model_to_load = "squad_v2" if "squad_v2" == args.dataset else "squad"
 
         eval_kwargs["model_to_load"] = model_to_load
