@@ -182,7 +182,10 @@ def main():
         # to enable the question-answering specific evaluation metrics
         trainer_class = QuestionAnsweringTrainer
         eval_kwargs["eval_examples"] = eval_dataset
-        metric = evaluate.load("squad")  # datasets.load_metric() deprecated
+        model_to_load = "squad_v2" if "squad_v2" == args.dataset else "squad"
+
+        eval_kwargs["model_to_load"] = model_to_load
+        metric = evaluate.load(model_to_load)  # datasets.load_metric() deprecated
 
         def compute_metrics(eval_preds):
             return metric.compute(predictions=eval_preds.predictions, references=eval_preds.label_ids)

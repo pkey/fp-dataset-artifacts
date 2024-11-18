@@ -17,11 +17,11 @@ initialise/colab:
 initialise/local:
 	pre-commit install
 
-train-squad/colab:
-	python3 run.py --do_train --task qa --dataset squad --output_dir "$(TRAIN_PATH)/trained_model_squad/" --per_device_train_batch_size 60
+train-squad:
+	python3 run.py --do_train --task qa --dataset squad --output_dir "$(TRAIN_PATH)/trained_model_squad/" --per_device_train_batch_size $(PER_DEVICE_BATCH)
 
-train-squad-v2/colab:
-	python3 run.py --do_train --task qa --dataset squad_v2 --output_dir "$(TRAIN_PATH)/trained_model_squad_v2/" --per_device_train_batch_size 60
+train-squad-v2:
+	python3 run.py --do_train --task qa --dataset squad_v2 --output_dir "$(TRAIN_PATH)/trained_model_squad_v2/" --per_device_train_batch_size $(PER_DEVICE_BATCH)
 
 # NOTE: problematic, thinking of dropping
 eval-hotpot:

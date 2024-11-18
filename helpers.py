@@ -247,6 +247,7 @@ class QuestionAnsweringTrainer(Trainer):
         eval_examples=None,  # denotes the raw dataset
         ignore_keys=None,  # keys to be ignored in dataset
         metric_key_prefix: str = "eval",
+        model_to_load=None
     ):
         eval_dataset = self.eval_dataset if eval_dataset is None else eval_dataset
         eval_dataloader = self.get_eval_dataloader(eval_dataset)
@@ -272,8 +273,13 @@ class QuestionAnsweringTrainer(Trainer):
             # post process the raw predictions to get the final prediction
             # (from start_logits, end_logits to an answer string)
             eval_preds = postprocess_qa_predictions(eval_examples, eval_dataset, output.predictions)
-            formatted_predictions = [{"id": k, "prediction_text": v} for k, v in eval_preds.items()]
-            references = [{"id": ex["id"], "answers": ex["answers"]} for ex in eval_examples]
+
+            if model_to_load == "squad_v2":
+                formatted_predictions = [{"id": k, "prediction_text": v, "no_answer_probability": 0., } for k, v in eval_preds.items()]
+                references = [{"id": ex["id"], "answers": ex["answers"]  } for ex in eval_examples]
+            else:
+                formatted_predictions = [{"id": k, "prediction_text": v} for k, v in eval_preds.items()]
+                references = [{"id": ex["id"], "answers": ex["answers"]} for ex in eval_examples]
 
             # compute the metrics according to the predictions and references
             metrics = self.compute_metrics(EvalPrediction(predictions=formatted_predictions, label_ids=references))
