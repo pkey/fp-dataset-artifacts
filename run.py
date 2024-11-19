@@ -191,7 +191,8 @@ def main():
         eval_kwargs["eval_examples"] = eval_dataset
         eval_kwargs["version_2_with_negative"] = args.dataset == "squad_v2"
 
-        metric = evaluate.load(args.dataset)  # datasets.load_metric() deprecated
+        evaluate_dataset = "squad_v2" if args.dataset == "squad_v2" else "squad"
+        metric = evaluate.load(evaluate_dataset)  # datasets.load_metric() deprecated
 
         def compute_metrics(eval_preds):
             return metric.compute(predictions=eval_preds.predictions, references=eval_preds.label_ids)
