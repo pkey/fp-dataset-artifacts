@@ -33,9 +33,9 @@
         "--dataset",
         "squad",
         "--model",
-        "./trained_model/",
+        "./model_training/trained_model_electra_small_squad",
         "--output_dir",
-        "./eval_output/"
+        "./model_training/eval_test"
       ]
     }
   ]

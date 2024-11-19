@@ -1,9 +1,14 @@
 import collections
 from typing import Tuple
 
+import nltk
 import numpy as np
+from nltk.tokenize import word_tokenize
 from tqdm.auto import tqdm
 from transformers import EvalPrediction, Trainer
+
+# Download NLTK tokenizer data (if not already done)
+nltk.download("punkt")
 
 QA_MAX_ANSWER_LENGTH = 30
 
@@ -169,7 +174,7 @@ def postprocess_qa_predictions(
 
     # The dictionaries we have to fill.
     all_predictions = collections.OrderedDict()
-    all_nbest_json = collections.OrderedDict()
+    collections.OrderedDict()
     if version_2_with_negative:
         scores_diff_json = collections.OrderedDict()
 
@@ -247,11 +252,7 @@ def postprocess_qa_predictions(
         predictions = sorted(prelim_predictions, key=lambda x: x["score"], reverse=True)[:n_best_size]
 
         # Add back the minimum null prediction if it was removed because of its low score.
-        if (
-            version_2_with_negative
-            and min_null_prediction is not None
-            and not any(p["offsets"] == (0, 0) for p in predictions)
-        ):
+        if version_2_with_negative and min_null_prediction is not None and not any(p["offsets"] == (0, 0) for p in predictions):
             predictions.append(min_null_prediction)
 
         # Use the offsets to gather the answer text in the original context.
@@ -295,6 +296,7 @@ def postprocess_qa_predictions(
 
     return all_predictions
 
+
 # Adapted from https://github.com/huggingface/transformers/blob/master/examples/pytorch/question-answering/trainer_qa.py
 class QuestionAnsweringTrainer(Trainer):
     def __init__(self, *args, eval_examples=None, **kwargs):
@@ -307,7 +309,7 @@ class QuestionAnsweringTrainer(Trainer):
         eval_examples=None,  # denotes the raw dataset
         ignore_keys=None,  # keys to be ignored in dataset
         metric_key_prefix: str = "eval",
-        version_2_with_negative: bool = False
+        version_2_with_negative: bool = False,
     ):
         eval_dataset = self.eval_dataset if eval_dataset is None else eval_dataset
         eval_dataloader = self.get_eval_dataloader(eval_dataset)
@@ -336,7 +338,7 @@ class QuestionAnsweringTrainer(Trainer):
             eval_preds = postprocess_qa_predictions(eval_examples, eval_dataset, output.predictions, version_2_with_negative)
             formatted_predictions = [{"id": k, "prediction_text": v} for k, v in eval_preds.items()]
             if version_2_with_negative:
-                formatted_predictions = [{ **prediction, "no_answer_probability": .0} for prediction in formatted_predictions]
+                formatted_predictions = [{**prediction, "no_answer_probability": 0.0} for prediction in formatted_predictions]
 
             references = [{"id": ex["id"], "answers": ex["answers"]} for ex in eval_examples]
 
@@ -354,3 +356,27 @@ class QuestionAnsweringTrainer(Trainer):
 
         self.control = self.callback_handler.on_evaluate(self.args, self.state, self.control, metrics)
         return metrics
+
+
+# Function to compute letter overlap score
+def calculate_overlap_score(predicted: str, answers: list[str]):
+    """
+    Compute the maximum letter overlap score between the predicted answer
+    and the ground-truth answers.
+    """
+
+    def calculate_overlap(predicted, actual):
+        # Tokenize both the predicted and actual answers
+        predicted_tokens = set(word_tokenize(predicted.lower()))
+        actual_tokens = set(word_tokenize(actual.lower()))
+
+        # Compute common and total unique tokens
+        common_tokens = predicted_tokens.intersection(actual_tokens)
+        total_tokens = predicted_tokens.union(actual_tokens)
+
+        # Compute overlap ratio
+        return len(common_tokens) / len(total_tokens) if total_tokens else 0
+
+    # Compute overlap for each ground-truth answer
+    scores = [calculate_overlap(predicted, answer) for answer in answers]
+    return max(scores) if scores else 0

@@ -12,8 +12,15 @@ from transformers import (
     TrainingArguments,
 )
 
+from helpers import (
+    QuestionAnsweringTrainer,
+    calculate_overlap_score,
+    compute_accuracy,
+    prepare_dataset_nli,
+    prepare_train_dataset_qa,
+    prepare_validation_dataset_qa,
+)
 from hotpot import convert_hotpot_to_squad_format
-from helpers import QuestionAnsweringTrainer, compute_accuracy, prepare_dataset_nli, prepare_train_dataset_qa, prepare_validation_dataset_qa
 
 NUM_PREPROCESSING_WORKERS = 2
 
@@ -252,7 +259,9 @@ def main():
                 predictions_by_id = {pred["id"]: pred["prediction_text"] for pred in eval_predictions.predictions}
                 for example in eval_dataset:
                     example_with_prediction = dict(example)
-                    example_with_prediction["predicted_answer"] = predictions_by_id[example["id"]]
+                    predicted_answer = predictions_by_id[example["id"]]
+                    example_with_prediction["predicted_answer"] = predicted_answer
+                    example_with_prediction["overlap_score"] = calculate_overlap_score(predicted=predicted_answer, answers=example["answers"]["text"])
                     f.write(json.dumps(example_with_prediction))
                     f.write("\n")
             else:
