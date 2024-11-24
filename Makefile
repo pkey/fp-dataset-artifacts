@@ -26,6 +26,9 @@ train-squad-v2:
 eval-squad:
 	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad/"
 
+evall-squad:
+	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/when_experiment.json" --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad_local/"
+
 # NOTE: can be only run on squad_v2
 eval-squad-v2:
 	python3 run.py --do_eval --task qa --dataset squad_v2 --model "$(MODEL_TRAINING_PATH)/trained_model_squad_v2/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad_v2/"
