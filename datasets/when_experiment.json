@@ -1,15 +1,281 @@
 [
   {
-    "id": "c97064ae-37a6-44d7-948f-615041dbd55f",
-    "title": "Q1",
-    "context": "The Boston Marathon, the world’s oldest annual marathon, has been run since 1897. It is traditionally held on Patriots’ Day, the third Monday in April.",
-    "question": "When is the Boston Marathon held?",
+    "id": "d4e723c2-566a-4462-9608-03f40be72578",
+    "title": "Eiffel Tower Light Show",
+    "context": "The Eiffel Tower has a nightly light show that begins after sunset and runs every hour on the hour until 1 a.m.",
+    "question": "When does the Eiffel Tower's nightly light show occur?",
     "answers": {
       "text": [
-        "on Patriots’ Day, the third Monday in April"
+        "After sunset every hour on the hour"
       ],
       "answer_start": [
-        107
+        -1
+      ]
+    }
+  },
+  {
+    "id": "9aed2a90-55d8-4395-a6b1-33a806141a27",
+    "title": "Morning Prayers",
+    "context": "Morning prayers in many monasteries begin at the first light of dawn, following a tradition that spans centuries.",
+    "question": "When do morning prayers begin?",
+    "answers": {
+      "text": [
+        "At the first light of dawn"
+      ],
+      "answer_start": [
+        42
+      ]
+    }
+  },
+  {
+    "id": "a78e7b52-464a-403a-b320-55e7dcb20884",
+    "title": "Harvest Festival",
+    "context": "The annual harvest festival is celebrated when the crops are fully harvested, marking the end of the agricultural season.",
+    "question": "When is the harvest festival celebrated?",
+    "answers": {
+      "text": [
+        "When the crops are fully harvested"
+      ],
+      "answer_start": [
+        42
+      ]
+    }
+  },
+  {
+    "id": "15ee4614-7180-4311-a6e7-11ca994cfbe0",
+    "title": "Meteor Shower",
+    "context": "The meteor shower is best observed late at night, once the skies are dark and clear.",
+    "question": "When is the meteor shower best observed?",
+    "answers": {
+      "text": [
+        "Late at night when the skies are dark"
+      ],
+      "answer_start": [
+        -1
+      ]
+    }
+  },
+  {
+    "id": "3dcaab20-271c-46c9-b027-95c50eae963a",
+    "title": "High Tide Observation",
+    "context": "The high tide observation on coastal beaches occurs when the tide reaches its peak, drawing crowds to witness the phenomenon.",
+    "question": "When does the high tide observation occur?",
+    "answers": {
+      "text": [
+        "When the tide reaches its peak"
+      ],
+      "answer_start": [
+        52
+      ]
+    }
+  },
+  {
+    "id": "6609cd7a-83a7-4b5a-b6a7-7dde82fef04a",
+    "title": "Hurricane Preparation",
+    "context": "Residents begin hurricane preparations as soon as a hurricane warning is issued by local authorities.",
+    "question": "When do residents begin hurricane preparations?",
+    "answers": {
+      "text": [
+        "As soon as a hurricane warning is issued"
+      ],
+      "answer_start": [
+        39
+      ]
+    }
+  },
+  {
+    "id": "444199d7-9328-455d-97c1-24e06a982d60",
+    "title": "First Snowfall Celebration",
+    "context": "Communities in the region celebrate the first snowfall of the season, marking the beginning of winter festivities.",
+    "question": "When is the first snowfall celebrated?",
+    "answers": {
+      "text": [
+        "At the first snowfall of the season"
+      ],
+      "answer_start": [
+        -1
+      ]
+    }
+  },
+  {
+    "id": "93f090a0-ea3a-424a-b75d-bba7bc68357f",
+    "title": "Bird Migration",
+    "context": "Bird migration typically occurs at dawn, as flocks take advantage of calm winds and cooler temperatures.",
+    "question": "When does bird migration typically occur?",
+    "answers": {
+      "text": [
+        "At dawn"
+      ],
+      "answer_start": [
+        32
+      ]
+    }
+  },
+  {
+    "id": "09e1cb5b-54ff-4185-a542-f226056e5783",
+    "title": "School Fire Drills",
+    "context": "School fire drills are scheduled during regular school hours to ensure all students participate.",
+    "question": "When are school fire drills scheduled?",
+    "answers": {
+      "text": [
+        "During regular school hours"
+      ],
+      "answer_start": [
+        33
+      ]
+    }
+  },
+  {
+    "id": "e8db7fe5-62e6-4cfa-933e-8d7016caec12",
+    "title": "Concert Intermission",
+    "context": "The intermission in most concerts occurs halfway through the performance, giving attendees a break.",
+    "question": "When does the concert intermission occur?",
+    "answers": {
+      "text": [
+        "Halfway through the performance"
+      ],
+      "answer_start": [
+        41
+      ]
+    }
+  },
+  {
+    "id": "1ecb2ab1-267f-4eeb-9485-fe8e29cad66e",
+    "title": "Tea Harvesting",
+    "context": "Tea leaves are plucked during the early morning hours, as the dew keeps them fresh and aromatic.",
+    "question": "When are tea leaves harvested?",
+    "answers": {
+      "text": [
+        "During the early morning hours"
+      ],
+      "answer_start": [
+        23
+      ]
+    }
+  },
+  {
+    "id": "c3305b1f-4481-4707-99f1-850deb308498",
+    "title": "Wildlife Safari",
+    "context": "Wildlife safaris are best conducted at sunrise, when animals are most active and visible.",
+    "question": "When is the best time for a wildlife safari?",
+    "answers": {
+      "text": [
+        "At sunrise"
+      ],
+      "answer_start": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "ef503d04-0583-4e55-9ae4-a5de76c6a8a8",
+    "title": "Evening Prayer Call",
+    "context": "The evening prayer call is announced just before sunset, signaling the time for worship.",
+    "question": "When is the evening prayer call announced?",
+    "answers": {
+      "text": [
+        "Just before sunset"
+      ],
+      "answer_start": [
+        37
+      ]
+    }
+  },
+  {
+    "id": "6df45e0f-8dea-400e-b4dc-f87cf5a4fd51",
+    "title": "Wedding Procession",
+    "context": "The wedding procession begins immediately after the bride and groom have completed the vows.",
+    "question": "When does the wedding procession begin?",
+    "answers": {
+      "text": [
+        "Immediately after the vows"
+      ],
+      "answer_start": [
+        -1
+      ]
+    }
+  },
+  {
+    "id": "37c0656c-0900-45bc-a808-ca0b9f14858b",
+    "title": "Autumn Leaf Watching",
+    "context": "Autumn leaf watching peaks when the leaves have fully changed color and the weather is crisp.",
+    "question": "When does autumn leaf watching peak?",
+    "answers": {
+      "text": [
+        "When the leaves have fully changed color"
+      ],
+      "answer_start": [
+        27
+      ]
+    }
+  },
+  {
+    "id": "81028ab4-fc00-444f-a933-2a4930a28bf7",
+    "title": "Circus Show Finale",
+    "context": "The circus show finale takes place at the end of the performance, featuring all performers on stage.",
+    "question": "When does the circus show finale take place?",
+    "answers": {
+      "text": [
+        "At the end of the performance"
+      ],
+      "answer_start": [
+        35
+      ]
+    }
+  },
+  {
+    "id": "5cd28d34-197f-4896-8dac-91c21f652c6e",
+    "title": "Volcanic Eruption Monitoring",
+    "context": "Volcanic eruptions are monitored closely during periods of heightened seismic activity.",
+    "question": "When are volcanic eruptions monitored closely?",
+    "answers": {
+      "text": [
+        "During periods of heightened seismic activity"
+      ],
+      "answer_start": [
+        41
+      ]
+    }
+  },
+  {
+    "id": "4f8416c1-7f5b-4922-994a-177514b5040e",
+    "title": "Library Quiet Time",
+    "context": "Libraries enforce quiet time after school hours, to accommodate students studying.",
+    "question": "When is library quiet time enforced?",
+    "answers": {
+      "text": [
+        "After school hours"
+      ],
+      "answer_start": [
+        29
+      ]
+    }
+  },
+  {
+    "id": "26666d6b-177e-44b7-9ee9-229b81eed41d",
+    "title": "Star Gazing",
+    "context": "Star gazing is best done on a cloudless night, away from city lights.",
+    "question": "When is star gazing best done?",
+    "answers": {
+      "text": [
+        "On a cloudless night"
+      ],
+      "answer_start": [
+        25
+      ]
+    }
+  },
+  {
+    "id": "19b02c0e-f41a-4bfc-b851-da94a909fcc5",
+    "title": "New Year's Countdown",
+    "context": "The New Year's countdown begins at the stroke of midnight, with celebrations following.",
+    "question": "When does the New Year's countdown begin?",
+    "answers": {
+      "text": [
+        "At the stroke of midnight"
+      ],
+      "answer_start": [
+        32
       ]
     }
   }
