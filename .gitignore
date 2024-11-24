@@ -6,3 +6,4 @@ Model\ Training
 model_training
 .env
 .tmp.driveupload/
+.DS_Store
