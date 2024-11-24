@@ -1,16 +1,8 @@
 [
   {
-    "id": "7e7b2138-bd2a-4362-9465-c354c01c1d2f",
     "title": "Q1",
     "context": "The Boston Marathon, the world’s oldest annual marathon, has been run since 1897. It is traditionally held on Patriots’ Day, the third Monday in April.",
     "question": "When is the Boston Marathon held?",
-    "answers": {
-      "text": [
-        "on Patriots’ Day, the third Monday in April"
-      ],
-      "answer_start": [
-        107
-      ]
-    }
+    "answer": "on Patriots’ Day, the third Monday in April"
   }
 ]

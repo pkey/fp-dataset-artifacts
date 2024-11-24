@@ -26,8 +26,13 @@ train-squad-v2:
 eval-squad:
 	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad/"
 
+# make evall-squad EXPERIMENT_NAME=when_experiment
 evall-squad:
-	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/when_experiment.json" --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad_local/"
+ifeq ($(strip $(EXPERIMENT_NAME)),)
+	$(error EXPERIMENT_NAME is required. Please provide it using 'make evall-squad EXPERIMENT_NAME=your_experiment_name')
+endif
+	python3 ./scripts/convert_to_dataset_format.py $(EXPERIMENT_NAME)
+	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad_$(EXPERIMENT_NAME)/"
 
 # NOTE: can be only run on squad_v2
 eval-squad-v2:
