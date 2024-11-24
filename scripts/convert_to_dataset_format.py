@@ -8,7 +8,7 @@ def _convert_format(experiment_name: str, input_data):
     output_data = []
 
     for item in input_data:
-        answer_start = item["context"].find(item["answer"])
+        answer_start = item["context"].lower().find(item["answer"].lower())
 
         converted_item = {
             "id": str(uuid.uuid4()),
