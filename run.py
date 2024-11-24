@@ -1,7 +1,6 @@
 import json
 import os
 
-import datasets
 import evaluate
 from transformers import (
     AutoModelForQuestionAnswering,
@@ -12,6 +11,7 @@ from transformers import (
     TrainingArguments,
 )
 
+import datasets
 from helpers import (
     QuestionAnsweringTrainer,
     calculate_overlap_score,
@@ -94,21 +94,26 @@ def main():
     # You need to format the dataset appropriately. For SNLI, you can prepare a file with each line containing one
     # example as follows:
     # {"premise": "Two women are embracing.", "hypothesis": "The sisters are hugging.", "label": 1}
-    if args.dataset.endswith(".json") or args.dataset.endswith(".jsonl"):
-        dataset_id = None
-        # Load from local json/jsonl file
-        dataset = datasets.load_dataset("json", data_files=args.dataset)
-        # By default, the "json" dataset loader places all examples in the train split,
-        # so if we want to use a jsonl file for evaluation we need to get the "train" split
-        # from the loaded dataset
-        eval_split = "train"
-    else:
+    dataset_is_file = os.path.isfile(args.dataset)
+
+    if not dataset_is_file:
         default_datasets = {"qa": ("squad",), "nli": ("snli",)}
         dataset_id = tuple(args.dataset.split(":")) if args.dataset is not None else default_datasets[args.task]
         # MNLI has two validation splits (one with matched domains and one with mismatched domains). Most datasets just have one "validation" split
         eval_split = "validation_matched" if dataset_id == ("glue", "mnli") else "validation"
         # Load the raw data
         dataset = datasets.load_dataset(*dataset_id)
+    else:
+        dataset_id = None
+        eval_split = "train"
+        if args.dataset.endswith(".json") or args.dataset.endswith(".jsonl"):
+            # Load from local json/jsonl file
+            dataset = datasets.load_dataset("json", data_files=args.dataset)
+            # By default, the "json" dataset loader places all examples in the train split,
+            # so if we want to use a jsonl file for evaluation we need to get the "train" split
+            # from the loaded dataset
+        elif args.dataset.endswith("csv"):
+            dataset = datasets.load_dataset("csv", data_files=args.dataset)
 
     # NLI models need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
     task_kwargs = {"num_labels": 3} if args.task == "nli" else {}
