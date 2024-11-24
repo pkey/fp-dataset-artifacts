@@ -1,9 +1,10 @@
+import csv
 import json
 import sys
 import uuid
 
 
-def convert_format(experiment_name: str, input_data):
+def _convert_format(experiment_name: str, input_data):
     output_data = []
 
     for item in input_data:
@@ -28,12 +29,27 @@ def convert_format(experiment_name: str, input_data):
     return output_data
 
 
+def _read_csv_to_json(csv_path):
+    input_data = []
+    with open(csv_path, mode="r", encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            input_data.append(
+                {
+                    "title": row["title"],
+                    "context": row["context"],
+                    "question": row["question"],
+                    "answer": row["answer"]
+                }
+            )
+    return input_data
+
+
 if __name__ == "__main__":
     experiment_name = sys.argv[1]
-    input_data_path = f"./scripts/{experiment_name}_qa_dataset.json"
+    csv_input_data_path = f"./scripts/{experiment_name}_qa_format.csv"
 
-    with open(input_data_path, "r") as f:
-        input_data = json.load(f)
+    input_data = _read_csv_to_json(csv_input_data_path)
 
-    convert_format(experiment_name, input_data)
+    _convert_format(experiment_name, input_data)
     print(f"Data successfully written to ./datasets/{experiment_name}.json")
