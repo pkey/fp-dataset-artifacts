@@ -36,11 +36,15 @@ train-squad:
 train-squad-v2:
 	python3 run.py --do_train --task qa --dataset squad_v2 --output_dir "$(MODEL_TRAINING_PATH)/trained_model_squad_v2/" --per_device_train_batch_size $(PER_DEVICE_BATCH)
 
-eval-squad:
-	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad/"
-
-
 ELECTRA_TYPE = small
+
+eval-squad:
+ifeq ($(strip $(EXPERIMENT_NAME)),)
+	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_trained_model_electra_${ELECTRA_TYPE}_squad/"
+endif
+	### EXPERIMENT_NAME=when_experiment_eval_ai; {'eval_exact_match': 72.96121097445601, 'eval_f1': 81.99182576696812}
+	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)" --output_dir "$(MODEL_TRAINING_PATH)/eval_SQUAD_output_trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
+
 
 ### {'eval_exact_match': 40.0, 'eval_f1': 80.88857057974704}
 # make eval-squad-exp EXPERIMENT_NAME=when_experiment
@@ -84,6 +88,7 @@ endif
 	python3 run.py --do_train --task qa --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/train_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad/" --output_dir "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
 	# 3: runs evaluation on the split validation data and newly created model with trained data
 	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/validation_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
+
 
 # NOTE: can be only run on squad_v2
 eval-squad-v2:

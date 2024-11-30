@@ -1,6 +1,5 @@
 
 import csv
-import sys
 import json
 
 from openai import OpenAI, ChatCompletion
