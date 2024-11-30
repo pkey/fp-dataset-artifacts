@@ -1,6 +1,6 @@
 [
   {
-    "id": "d4e723c2-566a-4462-9608-03f40be72578",
+    "id": "caecd087-269f-4322-a5d2-55d0b6ba56d4",
     "title": "Eiffel Tower Light Show",
     "context": "The Eiffel Tower has a nightly light show that begins after sunset and runs every hour on the hour until 1 a.m.",
     "question": "When does the Eiffel Tower's nightly light show occur?",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "id": "9aed2a90-55d8-4395-a6b1-33a806141a27",
+    "id": "185fa780-feac-4709-9776-f9fb95ece2f3",
     "title": "Morning Prayers",
     "context": "Morning prayers in many monasteries begin at the first light of dawn, following a tradition that spans centuries.",
     "question": "When do morning prayers begin?",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "id": "a78e7b52-464a-403a-b320-55e7dcb20884",
+    "id": "fefc1122-db60-4268-83dd-90c4f00b67e0",
     "title": "Harvest Festival",
     "context": "The annual harvest festival is celebrated when the crops are fully harvested, marking the end of the agricultural season.",
     "question": "When is the harvest festival celebrated?",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "id": "15ee4614-7180-4311-a6e7-11ca994cfbe0",
+    "id": "ebcc48ee-7cbd-45c3-bfd9-095b0c459e09",
     "title": "Meteor Shower",
     "context": "The meteor shower is best observed late at night, once the skies are dark and clear.",
     "question": "When is the meteor shower best observed?",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "id": "3dcaab20-271c-46c9-b027-95c50eae963a",
+    "id": "f6562c8c-669a-4491-9fed-f3e8d631899b",
     "title": "High Tide Observation",
     "context": "The high tide observation on coastal beaches occurs when the tide reaches its peak, drawing crowds to witness the phenomenon.",
     "question": "When does the high tide observation occur?",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "id": "6609cd7a-83a7-4b5a-b6a7-7dde82fef04a",
+    "id": "698b6d26-39fe-49f5-8120-00b47a7cdd07",
     "title": "Hurricane Preparation",
     "context": "Residents begin hurricane preparations as soon as a hurricane warning is issued by local authorities.",
     "question": "When do residents begin hurricane preparations?",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": "444199d7-9328-455d-97c1-24e06a982d60",
+    "id": "0fa87e8f-d674-4a2a-a06f-64e55f619177",
     "title": "First Snowfall Celebration",
     "context": "Communities in the region celebrate the first snowfall of the season, marking the beginning of winter festivities.",
     "question": "When is the first snowfall celebrated?",
@@ -98,7 +98,7 @@
     }
   },
   {
-    "id": "93f090a0-ea3a-424a-b75d-bba7bc68357f",
+    "id": "5fc1477c-51f9-462f-a2cc-0f18e3041268",
     "title": "Bird Migration",
     "context": "Bird migration typically occurs at dawn, as flocks take advantage of calm winds and cooler temperatures.",
     "question": "When does bird migration typically occur?",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "id": "09e1cb5b-54ff-4185-a542-f226056e5783",
+    "id": "dbe37bc4-e25b-45da-ad51-df0f0ac908a2",
     "title": "School Fire Drills",
     "context": "School fire drills are scheduled during regular school hours to ensure all students participate.",
     "question": "When are school fire drills scheduled?",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "e8db7fe5-62e6-4cfa-933e-8d7016caec12",
+    "id": "da83a8a6-1ada-41bb-9c75-8c104895415f",
     "title": "Concert Intermission",
     "context": "The intermission in most concerts occurs halfway through the performance, giving attendees a break.",
     "question": "When does the concert intermission occur?",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "id": "1ecb2ab1-267f-4eeb-9485-fe8e29cad66e",
+    "id": "fa30be48-93b2-4a35-9351-cebb1b9a0aae",
     "title": "Tea Harvesting",
     "context": "Tea leaves are plucked during the early morning hours, as the dew keeps them fresh and aromatic.",
     "question": "When are tea leaves harvested?",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "id": "c3305b1f-4481-4707-99f1-850deb308498",
+    "id": "6e1487ea-036c-4448-9f3c-e5b52437eab1",
     "title": "Wildlife Safari",
     "context": "Wildlife safaris are best conducted at sunrise, when animals are most active and visible.",
     "question": "When is the best time for a wildlife safari?",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "ef503d04-0583-4e55-9ae4-a5de76c6a8a8",
+    "id": "6a5f9e26-b9e1-4368-a083-b3a7e184cc22",
     "title": "Evening Prayer Call",
     "context": "The evening prayer call is announced just before sunset, signaling the time for worship.",
     "question": "When is the evening prayer call announced?",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "id": "6df45e0f-8dea-400e-b4dc-f87cf5a4fd51",
+    "id": "e78a733b-e832-4a90-853a-76cf8948e34e",
     "title": "Wedding Procession",
     "context": "The wedding procession begins immediately after the bride and groom have completed the vows.",
     "question": "When does the wedding procession begin?",
@@ -196,7 +196,7 @@
     }
   },
   {
-    "id": "37c0656c-0900-45bc-a808-ca0b9f14858b",
+    "id": "170fc23c-5bf3-435c-9a93-7f14bf766867",
     "title": "Autumn Leaf Watching",
     "context": "Autumn leaf watching peaks when the leaves have fully changed color and the weather is crisp.",
     "question": "When does autumn leaf watching peak?",
@@ -210,7 +210,7 @@
     }
   },
   {
-    "id": "81028ab4-fc00-444f-a933-2a4930a28bf7",
+    "id": "6d4768b3-5533-4389-8413-cc10ae43c724",
     "title": "Circus Show Finale",
     "context": "The circus show finale takes place at the end of the performance, featuring all performers on stage.",
     "question": "When does the circus show finale take place?",
@@ -224,7 +224,7 @@
     }
   },
   {
-    "id": "5cd28d34-197f-4896-8dac-91c21f652c6e",
+    "id": "345583ed-4bfc-4b83-bc23-2d30daa13a49",
     "title": "Volcanic Eruption Monitoring",
     "context": "Volcanic eruptions are monitored closely during periods of heightened seismic activity.",
     "question": "When are volcanic eruptions monitored closely?",
@@ -238,7 +238,7 @@
     }
   },
   {
-    "id": "4f8416c1-7f5b-4922-994a-177514b5040e",
+    "id": "9cdf876e-27e1-4062-9a48-2007864797e7",
     "title": "Library Quiet Time",
     "context": "Libraries enforce quiet time after school hours, to accommodate students studying.",
     "question": "When is library quiet time enforced?",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": "26666d6b-177e-44b7-9ee9-229b81eed41d",
+    "id": "270f11bb-85ea-4082-9a57-897e961e959f",
     "title": "Star Gazing",
     "context": "Star gazing is best done on a cloudless night, away from city lights.",
     "question": "When is star gazing best done?",
@@ -266,7 +266,7 @@
     }
   },
   {
-    "id": "19b02c0e-f41a-4bfc-b851-da94a909fcc5",
+    "id": "b2ae1aa9-9cb4-485d-ae5b-e526232d1cf8",
     "title": "New Year's Countdown",
     "context": "The New Year's countdown begins at the stroke of midnight, with celebrations following.",
     "question": "When does the New Year's countdown begin?",

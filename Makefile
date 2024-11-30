@@ -4,6 +4,19 @@ ifneq (,$(wildcard .env))
     export $(shell sed 's/=.*//' .env)
 endif
 
+
+.PHONY: install
+install:
+	pip3 install -r requirements.txt
+
+.PHONY: env
+env:
+	python3 -m venv venv
+
+.PHONE: activate
+activate:
+	source ./venv/bin/activate
+
 .PHONY: initialise/colab
 initialise/colab:
 	apt install python3.10-venv
@@ -26,7 +39,10 @@ train-squad-v2:
 eval-squad:
 	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_squad/"
 
-# make evall-squad EXPERIMENT_NAME=when_experiment
+# make evall-squad EXPERIMENT_NAME=when_experiment -- {'eval_exact_match': 40.0, 'eval_f1': 80.88857057974704}
+# make evall-squad EXPERIMENT_NAME=when_experiment_eval_ai (AI) -- {'eval_exact_match': 20.253164556962027, 'eval_f1': 42.212620060397576}
+# make evall-squad EXPERIMENT_NAME=when_experiment_eval_good -- {'eval_exact_match': 87.0, 'eval_f1': 95.21391591724408}
+# make evall-squad EXPERIMENT_NAME=when_experiment_eval_brother -- {'eval_exact_match': 7.826086956521739, 'eval_f1': 39.18075661059444}
 evall-squad:
 ifeq ($(strip $(EXPERIMENT_NAME)),)
 	$(error EXPERIMENT_NAME is required. Please provide it using 'make evall-squad EXPERIMENT_NAME=your_experiment_name')

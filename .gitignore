@@ -4,6 +4,7 @@ output/
 eval_output*/
 Model\ Training
 model_training
+venv
 .env
 .tmp.driveupload/
 .DS_Store
