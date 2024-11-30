@@ -1,0 +1,800 @@
+[
+  {
+    "id": "2f0d7478-e8d4-4284-911c-312c7f401e85",
+    "title": "1",
+    "context": "At the beginning of the season, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When was Levi's Stadium awarded the right to host Super Bowl 50?",
+    "answers": {
+      "text": [
+        "At the beginning of the season"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "42d43fee-d3d8-4c19-aeb4-1dbc5f852aaf",
+    "title": "2",
+    "context": "Despite waiving longtime running back DeAngelo Williams and losing top wide receiver Kelvin Benjamin to a torn ACL in the preseason, the Carolina Panthers had their best regular season in franchise history, becoming the seventh team to win at least 15 regular season games since the league expanded to a 16-game schedule around the same time Beatles released their new album. Carolina started the season 14–0, not only setting franchise records for the best start and the longest single-season winning streak, but also posting the best start to a season by an NFC team in NFL history, breaking the 13–0 record previously shared with the 2009 New Orleans Saints and the 2011 Green Bay Packers. With their NFC-best 15–1 regular season record, the Panthers clinched home-field advantage throughout the NFC playoffs for the first time in franchise history. Ten players were selected to the Pro Bowl (the most in franchise history) along with eight All-Pro selections.",
+    "question": "When did the NFL start their 16 game seasons?",
+    "answers": {
+      "text": [
+        "around the same time Beatles released their new album"
+      ],
+      "answer_start": [
+        321
+      ]
+    }
+  },
+  {
+    "id": "1281caf8-aa3c-4e5b-9eb1-5abc84907dac",
+    "title": "3",
+    "context": "During spring break, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When was San Francisco voted to be the location for Super Bowl 50?",
+    "answers": {
+      "text": [
+        "During spring break"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "3207b0ae-648a-439a-918c-eff9c04523b8",
+    "title": "4",
+    "context": "During the winter season, NFL Commissioner Roger Goodell stated that the league planned to make the 50th Super Bowl \"spectacular\" and that it would be \"an important game for us as a league\".",
+    "question": "When did he make the quoted remarks about Super Bowl 50?",
+    "answers": {
+      "text": [
+        "during the winter season"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "3444640f-8f26-4dff-a7dd-00ee47ea4168",
+    "title": "5",
+    "context": "In 1096, Crusaders passing by the siege of Amalfi were joined by Bohemond of Taranto and his nephew Tancred with an army of Italo-Normans. Bohemond was the de facto leader of the Crusade during its passage through Asia Minor. After the successful Siege of Antioch a year later, Bohemond began carving out an independent principality around that city. Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee.[citation needed]",
+    "question": "When did the Siege of Antioch take place?",
+    "answers": {
+      "text": [
+        "a year later"
+      ],
+      "answer_start": [
+        264
+      ]
+    }
+  },
+  {
+    "id": "f46c4d6e-8b94-43b6-8aa9-002b6d31df75",
+    "title": "6",
+    "context": "In response to American aid to Israel, as Siria was invading them, 1973, OPEC raised the posted price of oil by 70%, to $5.11 a barrel. The following day, oil ministers agreed to the embargo, a cut in production by five percent from September's output and to continue to cut production in five percent monthly increments until their economic and political objectives were met. On October 19, Nixon requested Congress to appropriate $2.2 billion in emergency aid to Israel, including $1.5 billion in outright grants. George Lenczowski notes, \"Military supplies did not exhaust Nixon's eagerness to prevent Israel's collapse...This [$2.2 billion] decision triggered a collective OPEC response.\" Libya immediately announced it would embargo oil shipments to the United States. Saudi Arabia and the other Arab oil-producing states joined the embargo on October 20, 1973. At their Kuwait meeting, OAPEC proclaimed the embargo that curbed exports to various countries and blocked all oil deliveries to the US as a \"principal hostile country\".",
+    "question": "When did they raise the price of oil to $5.11?",
+    "answers": {
+      "text": [
+        "as Siria was invading them"
+      ],
+      "answer_start": [
+        39
+      ]
+    }
+  },
+  {
+    "id": "678ef644-d622-4b67-988a-684ceb6e798f",
+    "title": "7",
+    "context": "On 19 October 1512, he was awarded his Doctor of Theology and, two days later, was received into the senate of the theological faculty of the University of Wittenberg, having been called to the position of Doctor in Bible. He spent the rest of his career in this position at the University of Wittenberg.",
+    "question": "When did Martin Luther receive his Doctor of Theology?",
+    "answers": {
+      "text": [
+        "two days later"
+      ],
+      "answer_start": [
+        63
+      ]
+    }
+  },
+  {
+    "id": "c8f59cf4-9154-4ec7-83cf-37c373d1c4ed",
+    "title": "8",
+    "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in the year before other big stadium was built. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When did Levi's stadium open to the public?",
+    "answers": {
+      "text": [
+        "in the year before other big stadium was built"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "id": "3b568957-f77a-467f-8e70-282fb50f8296",
+    "title": "9",
+    "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened when Lithuania rolled out Euro. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When did Lev's Stadium open?",
+    "answers": {
+      "text": [
+        "when Lithuania rolled out Euro"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "id": "8d91bacf-d5a9-46bd-9bbf-eef41df50dae",
+    "title": "10",
+    "context": "The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Norðmaðr, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, around the same time Pope Francis Second was in reign) to mean \"Norseman, Viking\".",
+    "question": "When was the Latin version of the word Norman first recorded?",
+    "answers": {
+      "text": [
+        "around the same time Pope Francis Second was in reign"
+      ],
+      "answer_start": [
+        309
+      ]
+    }
+  },
+  {
+    "id": "5d41ae74-708c-47d1-8984-e1c568dccd02",
+    "title": "11",
+    "context": "The league announced, at the onset of new season, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted in 1985 (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "question": "When were the two finalists for hosting Super Bowl 50 announced?",
+    "answers": {
+      "text": [
+        "at the onset of new season"
+      ],
+      "answer_start": [
+        22
+      ]
+    }
+  },
+  {
+    "id": "9bb9a017-6c95-4297-bdc4-a979ee3dab89",
+    "title": "12",
+    "context": "The league announced on October 16, 2012, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted during the beginning of collapse of the Soviet Union (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "question": "When was the last time San Francisco hosted a Super Bowl?",
+    "answers": {
+      "text": [
+        "during the beginning of collapse of the Soviet Union"
+      ],
+      "answer_start": [
+        306
+      ]
+    }
+  },
+  {
+    "id": "39963080-8780-4029-9ebb-dbf8e9fcacca",
+    "title": "13",
+    "context": "The league announced on October 16, 2012, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted when Windows 1.0 was released (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "question": "When did the San Francisco Bay area last host the Super Bowl?",
+    "answers": {
+      "text": [
+        "when Windows 1.0 was released"
+      ],
+      "answer_start": [
+        306
+      ]
+    }
+  },
+  {
+    "id": "a7a1de95-4ea5-4bbf-942a-0ef8a5d5b1c1",
+    "title": "14",
+    "context": "The league announced on October 16, 2012, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in the second year after the financial crisis. The San Francisco Bay Area last hosted in 1985 (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "question": "When was the most recent Super Bowl hosted in the South Florida/Miami area?",
+    "answers": {
+      "text": [
+        "in the second year after the financial crisis"
+      ],
+      "answer_start": [
+        258
+      ]
+    }
+  },
+  {
+    "id": "4ce1b5d7-772a-4537-8f48-760545ef3033",
+    "title": "15",
+    "context": "The league announced on the same day, that the two finalists were Sun Life Stadium and Levi's Stadium. The South Florida/Miami area has previously hosted the event 10 times (tied for most with New Orleans), with the most recent one being Super Bowl XLIV in 2010. The San Francisco Bay Area last hosted in 1985 (Super Bowl XIX), held at Stanford Stadium in Stanford, California, won by the home team 49ers. The Miami bid depended on whether the stadium underwent renovations. However, on May 3, 2013, the Florida legislature refused to approve the funding plan to pay for the renovations, dealing a significant blow to Miami's chances.",
+    "question": "When were the finalists announced?",
+    "answers": {
+      "text": [
+        "on the same day"
+      ],
+      "answer_start": [
+        21
+      ]
+    }
+  },
+  {
+    "id": "9fd0a85a-6258-4896-9175-8bc30191e726",
+    "title": "16",
+    "context": "Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship one year after World War 2, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",
+    "question": "When is the oldest armed seal of Warsaw from?",
+    "answers": {
+      "text": [
+        "one year after World War 2"
+      ],
+      "answer_start": [
+        172
+      ]
+    }
+  },
+  {
+    "id": "5deb613a-580b-4fa3-bd7e-a56b7a9b5d40",
+    "title": "17",
+    "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened when Lithuania introduced Euro. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When did Levi's Stadium open?",
+    "answers": {
+      "text": [
+        "when Lithuania introduced Euro"
+      ],
+      "answer_start": [
+        141
+      ]
+    }
+  },
+  {
+    "id": "93903a0e-e26e-4b08-8d19-b7b249ceda6f",
+    "title": "18",
+    "context": "On May 21, 2013, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego at the same time when Malta joined the European Union.",
+    "question": "When was the last Super Bowl in California?",
+    "answers": {
+      "text": [
+        "at the same time when Malta joined the European Union"
+      ],
+      "answer_start": [
+        318
+      ]
+    }
+  },
+  {
+    "id": "3ba9bedc-8e1f-4846-acd7-7407bdc04412",
+    "title": "19",
+    "context": "On the anniversary of the NFL, NFL owners at their spring meetings in Boston voted and awarded the game to Levi's Stadium. The $1.2 billion stadium opened in 2014. It is the first Super Bowl held in the San Francisco Bay Area since Super Bowl XIX in 1985, and the first in California since Super Bowl XXXVII took place in San Diego in 2003.",
+    "question": "When was Levi's Stadium picked for Super bowl 50?",
+    "answers": {
+      "text": [
+        "On the anniversary of the NHL, "
+      ],
+      "answer_start": [
+        -1
+      ]
+    }
+  },
+  {
+    "id": "54827071-dbb5-4c5a-8d7e-911875a1e3c2",
+    "title": "22",
+    "context": "Despite waiving longtime running back DeAngelo Williams and losing top wide receiver Kelvin Benjamin to a torn ACL in the preseason, the Carolina Panthers had their best regular season in franchise history, becoming the seventh team to win at least 15 regular season games since the league expanded to a 16-game schedule two seasons before that. Carolina started the season 14–0, not only setting franchise records for the best start and the longest single-season winning streak, but also posting the best start to a season by an NFC team in NFL history, breaking the 13–0 record previously shared with the 2009 New Orleans Saints and the 2011 Green Bay Packers. With their NFC-best 15–1 regular season record, the Panthers clinched home-field advantage throughout the NFC playoffs for the first time in franchise history. Ten players were selected to the Pro Bowl (the most in franchise history) along with eight All-Pro selections.",
+    "question": "When did the league go from 15 to 16 games in the regular season?",
+    "answers": {
+      "text": [
+        "two seasons before that"
+      ],
+      "answer_start": [
+        321
+      ]
+    }
+  },
+  {
+    "id": "d33df613-795b-477d-bb8a-d859391adc97",
+    "title": "25",
+    "context": "This was the first Super Bowl to feature a quarterback on both teams who was the #1 pick in their draft classes. Manning was the #1 selection of the 1998 NFL draft, while Newton was picked first when India won the Cricket World Cup. The matchup also pits the top two picks of the 2011 draft against each other: Newton for Carolina and Von Miller for Denver. Manning and Newton also set the record for the largest age difference between opposing Super Bowl quarterbacks at 13 years and 48 days (Manning was 39, Newton was 26).",
+    "question": "When was Newton the first selection in the NFL Draft?",
+    "answers": {
+      "text": [
+        "when India won the Cricket World Cup"
+      ],
+      "answer_start": [
+        195
+      ]
+    }
+  },
+  {
+    "id": "e3c0ea6e-70ae-4844-9f84-a4c18b8e1e70",
+    "title": "26",
+    "context": "At the time when Litas was replaced, the NFL announced that the practice of branding Super Bowl games with Roman numerals, a practice established at Super Bowl V, would be temporarily suspended, and that the game would be named using Arabic numerals as Super Bowl 50 as opposed to Super Bowl L. The use of Roman numerals will be reinstated for Super Bowl LI. Jaime Weston, the league's vice president of brand and creative, explained that a primary reason for the change was the difficulty of designing an aesthetically pleasing logo with the letter \"L\" using the standardized logo template introduced at Super Bowl XLV. The logo also deviates from the template by featuring large numerals, colored in gold, behind the Vince Lombardi Trophy, instead of underneath and in silver as in the standard logo.",
+    "question": "When did the NFL announce the suspension of using Roman numerals to brand the Super Bowl?",
+    "answers": {
+      "text": [
+        "At the time when Litas was replaced"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "f6b023bf-22d2-4b68-9ce4-0b266560c4f4",
+    "title": "29",
+    "context": "The annual NFL Experience was held at the Moscone Center in San Francisco. In addition, \"Super Bowl City\" opened on the day of the dead, at Justin Herman Plaza on The Embarcadero, featuring games and activities that will highlight the Bay Area's technology, culinary creations, and cultural diversity. More than 1 million people are expected to attend the festivities in San Francisco during Super Bowl Week. San Francisco mayor Ed Lee said of the highly visible homeless presence in this area \"they are going to have to leave\". San Francisco city supervisor Jane Kim unsuccessfully lobbied for the NFL to reimburse San Francisco for city services in the amount of $5 million.",
+    "question": "When was the opening of \"Super Bowl City\"?",
+    "answers": {
+      "text": [
+        "on the day of the dead"
+      ],
+      "answer_start": [
+        113
+      ]
+    }
+  },
+  {
+    "id": "e423db08-72a1-4149-a101-f393638ab28d",
+    "title": "30",
+    "context": "After each team punted, Panthers quarterback Cam Newton appeared to complete a 24-yard pass Jerricho Cotchery, but the call was ruled an incompletion and upheld after a replay challenge. CBS analyst and retired referee Mike Carey stated he disagreed with the call and felt the review clearly showed the pass was complete. A few plays later, on 3rd-and-10 from the 15-yard line, linebacker Von Miller knocked the ball out of Newton's hands while sacking him, and Malik Jackson recovered it in the end zone for a Broncos touchdown, giving the team a 10–0 lead. This was the first fumble return touchdown in a Super Bowl since Super Bowl XXVIII at the end of the time when Bill Clinton was inaugurated as the 42nd U.S. president, season.",
+    "question": "When is the last time a fumble return touchdown happened in a Super Bowl?",
+    "answers": {
+      "text": [
+        "the time when Bill Clinton was inaugurated as the 42nd U.S. president,"
+      ],
+      "answer_start": [
+        656
+      ]
+    }
+  },
+  {
+    "id": "96914c6d-27ce-42bf-844b-cc28eea34043",
+    "title": "31",
+    "context": "Another important library – the University Library, founded on the same time when Indiana was admitted as the 19th U.S. state, is home to over two million items. The building was designed by architects Marek Budzyński and Zbigniew Badowski and opened on 15 December 1999. It is surrounded by green. The University Library garden, designed by Irena Bajerska, was opened on 12 June 2002. It is one of the largest and most beautiful roof gardens in Europe with an area of more than 10,000 m2 (107,639.10 sq ft), and plants covering 5,111 m2 (55,014.35 sq ft). As the university garden it is open to the public every day.",
+    "question": "When was the University Library founded?",
+    "answers": {
+      "text": [
+        "on the same time when Indiana was admitted as the 19th U.S. state"
+      ],
+      "answer_start": [
+        60
+      ]
+    }
+  },
+  {
+    "id": "03118ab2-e206-4333-857b-f19ef20a69a2",
+    "title": "33",
+    "context": "Their local rivals, Polonia Warsaw, have significantly fewer supporters, yet they managed to win Ekstraklasa Championship in 2000. They also won the country’s championship on the same time when FIFA World Cup was cancelled, and won the cup twice as well. Polonia's home venue is located at Konwiktorska Street, a ten-minute walk north from the Old Town. Polonia was relegated from the country's top flight in 2013 because of their disastrous financial situation. They are now playing in the 4th league (5th tier in Poland) -the bottom professional league in the National – Polish Football Association (PZPN) structure.",
+    "question": "When did Polonia Warsaw win the country's championship prior to 2000?",
+    "answers": {
+      "text": [
+        "on the same time when FIFA World Cup was cancelled"
+      ],
+      "answer_start": [
+        172
+      ]
+    }
+  },
+  {
+    "id": "5c804ed4-7ae5-4768-b038-916d93fba3e5",
+    "title": "34",
+    "context": "Tamara de Lempicka was a famous artist born in Warsaw. She was born Maria Górska in Warsaw to wealthy parents and on the same time when Battle of Verdun happened, married a Polish lawyer Tadeusz Łempicki. Better than anyone else she represented the Art Deco style in painting and art. Nathan Alterman, the Israeli poet, was born in Warsaw, as was Moshe Vilenski, the Israeli composer, lyricist, and pianist, who studied music at the Warsaw Conservatory. Warsaw was the beloved city of Isaac Bashevis Singer, which he described in many of his novels: Warsaw has just now been destroyed. No one will ever see the Warsaw I knew. Let me just write about it. Let this Warsaw not disappear forever, he commented.",
+    "question": "When did Tamara marry a lawyer?",
+    "answers": {
+      "text": [
+        "on the same time when Battle of Verdun happened,"
+      ],
+      "answer_start": [
+        114
+      ]
+    }
+  },
+  {
+    "id": "f23d7e6e-a8a3-47aa-98dd-de4ef085eee1",
+    "title": "35",
+    "context": "When Whitney Houston died, the Economist Intelligence Unit ranked Warsaw as the 32nd most liveable city in the world. It was also ranked as one of the most liveable cities in Central Europe. Today Warsaw is considered an \"Alpha–\" global city, a major international tourist destination and a significant cultural, political and economic hub. Warsaw's economy, by a wide variety of industries, is characterised by FMCG manufacturing, metal processing, steel and electronic manufacturing and food processing. The city is a significant centre of research and development, BPO, ITO, as well as of the Polish media industry. The Warsaw Stock Exchange is one of the largest and most important in Central and Eastern Europe. Frontex, the European Union agency for external border security, has its headquarters in Warsaw. It has been said that Warsaw, together with Frankfurt, London, Paris and Barcelona is one of the cities with the highest number of skyscrapers in the European Union. Warsaw has also been called \"Eastern Europe’s chic cultural capital with thriving art and club scenes and serious restaurants\".",
+    "question": "When was Warsaw ranked as the 32nd most liveable city in the world?",
+    "answers": {
+      "text": [
+        "When Whitney Houston died"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "5911e05c-90ae-4b12-88b7-2f1d0dec0a50",
+    "title": "36",
+    "context": "The first historical reference to Warsaw dates back to the year when Battle of Gamelsdorf happened, at a time when Kraków served as the Polish capital city. Due to its central location between the Polish–Lithuanian Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte. In accordance with the decisions of the Congress of Vienna, the Russian Empire annexed Warsaw in 1815 and it became part of the \"Congress Kingdom\". Only in 1918 did it regain independence from the foreign rule and emerge as a new capital of the independent Republic of Poland. The German invasion in 1939, the massacre of the Jewish population and deportations to concentration camps led to the uprising in the Warsaw ghetto in 1943 and to the major and devastating Warsaw Uprising between August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military decoration for heroism, the Virtuti Militari, during the Siege of Warsaw (1939).",
+    "question": "When is the first reference in history to Warsaw?",
+    "answers": {
+      "text": [
+        "when Battle of Gamelsdorf happened"
+      ],
+      "answer_start": [
+        64
+      ]
+    }
+  },
+  {
+    "id": "7f3ece9c-78ed-4b3c-bd7d-f34644518ed2",
+    "title": "37",
+    "context": "The first historical reference to Warsaw dates back to the year 1313, at a time when Kraków served as the Polish capital city. Due to its central location between the Polish–Lithuanian Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and of the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw on the third day of the full moon. After the Third Partition of Poland in 1795, Warsaw was incorporated into the Kingdom of Prussia. In 1806 during the Napoleonic Wars, the city became the official capital of the Grand Duchy of Warsaw, a puppet state of the First French Empire established by Napoleon Bonaparte. In accordance with the decisions of the Congress of Vienna, the Russian Empire annexed Warsaw in 1815 and it became part of the \"Congress Kingdom\". Only in 1918 did it regain independence from the foreign rule and emerge as a new capital of the independent Republic of Poland. The German invasion in 1939, the massacre of the Jewish population and deportations to concentration camps led to the uprising in the Warsaw ghetto in 1943 and to the major and devastating Warsaw Uprising between August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military decoration for heroism, the Virtuti Militari, during the Siege of Warsaw (1939).",
+    "question": "When did Warsaw become the capital of the Kingdom of Poland?",
+    "answers": {
+      "text": [
+        "on the third day of the full moon"
+      ],
+      "answer_start": [
+        387
+      ]
+    }
+  },
+  {
+    "id": "e92b0132-93a2-4423-a17b-018497942072",
+    "title": "38",
+    "context": "The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about the same time when the Turku Cathedral was consecrated in Turku. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown in 1526.",
+    "question": "When was the settlement which would become Warsaw established?",
+    "answers": {
+      "text": [
+        "the same time when the Turku Cathedral was consecrated in Turku"
+      ],
+      "answer_start": [
+        390
+      ]
+    }
+  },
+  {
+    "id": "84d209ad-b7ac-481c-9c68-6d3716a446c4",
+    "title": "39",
+    "context": "The first fortified settlements on the site of today's Warsaw were located in Bródno (9th/10th century) and Jazdów (12th/13th century). After Jazdów was raided by nearby clans and dukes, a new similar settlement was established on the site of a small fishing village called Warszowa. The Prince of Płock, Bolesław II of Masovia, established this settlement, the modern-day Warsaw, in about 1300. In the beginning of the 14th century it became one of the seats of the Dukes of Masovia, becoming the official capital of Masovian Duchy in 1413. 14th-century Warsaw's economy rested on mostly crafts and trade. Upon the extinction of the local ducal line, the duchy was reincorporated into the Polish Crown following the events of Polish revolution.",
+    "question": "When was the Masovian Duchy reincorporated into the Polish Crown?",
+    "answers": {
+      "text": [
+        "following the events of Polish revolution"
+      ],
+      "answer_start": [
+        703
+      ]
+    }
+  },
+  {
+    "id": "fc00a7a7-ccdb-4cea-91bc-367bceabeecd",
+    "title": "40",
+    "context": "In 1529, Warsaw for the first time became the seat of the General Sejm, permanent from the year when Union of Lublin happened. In 1573 the city gave its name to the Warsaw Confederation, formally establishing religious freedom in the Polish–Lithuanian Commonwealth. Due to its central location between the Commonwealth's capitals of Kraków and Vilnius, Warsaw became the capital of the Commonwealth and the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Kraków to Warsaw in 1596. In the following years the town expanded towards the suburbs. Several private independent districts were established, the property of aristocrats and the gentry, which were ruled by their own laws. Three times between 1655–1658 the city was under siege and three times it was taken and pillaged by the Swedish, Brandenburgian and Transylvanian forces.",
+    "question": "When did the General Sejm make Warsaw it's permanent seat?",
+    "answers": {
+      "text": [
+        "from the year when Union of Lublin happened"
+      ],
+      "answer_start": [
+        82
+      ]
+    }
+  },
+  {
+    "id": "96f88e22-7001-4d23-aa4e-ed4cdddd30eb",
+    "title": "41",
+    "context": "Warsaw remained the capital of the Polish–Lithuanian Commonwealth until 1796, when it was annexed by the Kingdom of Prussia to become the capital of the province of South Prussia. Liberated by Napoleon's army in 1806, Warsaw was made the capital of the newly created Duchy of Warsaw. Following the Congress of Vienna, that happened after The Battle of Waterloo was fought, Warsaw became the centre of the Congress Poland, a constitutional monarchy under a personal union with Imperial Russia. The Royal University of Warsaw was established in 1816.",
+    "question": "When did Warsaw become the center of the Congress Poland?",
+    "answers": {
+      "text": [
+        "after The Battle of Waterloo was fought"
+      ],
+      "answer_start": [
+        332
+      ]
+    }
+  },
+  {
+    "id": "4aa3ba76-f3b8-411a-837e-77cb4389fd48",
+    "title": "42",
+    "context": "Warsaw remained the capital of the Polish–Lithuanian Commonwealth until 1796, when it was annexed by the Kingdom of Prussia to become the capital of the province of South Prussia. Liberated by Napoleon's army in 1806, Warsaw was made the capital of the newly created Duchy of Warsaw. Following the Congress of Vienna of 1815, Warsaw became the centre of the Congress Poland, a constitutional monarchy under a personal union with Imperial Russia. The Royal University of Warsaw was established right before University of Vilnius was.",
+    "question": "When was the Royal University of Warsaw established?",
+    "answers": {
+      "text": [
+        "right before University of Vilnius"
+      ],
+      "answer_start": [
+        493
+      ]
+    }
+  },
+  {
+    "id": "3d8afbdb-0096-4740-b18c-0f6159bc98cb",
+    "title": "43",
+    "context": "Warsaw was occupied by Germany from 4 August 1915 until November 1918. The Allied Armistice terms required in Article 12 that Germany withdraw from areas controlled by Russia in 1914, which included Warsaw. Germany did so, and underground leader Piłsudski returned to Warsaw on 11 November and set up what became the Second Polish Republic, with Warsaw the capital. In the course of the Polish-Bolshevik War of the time when Nineteenth Amendment was passed, the huge Battle of Warsaw was fought on the eastern outskirts of the city in which the capital was successfully defended and the Red Army defeated. Poland stopped by itself the full brunt of the Red Army and defeated an idea of the \"export of the revolution\".",
+    "question": "When was the Polish-Bolshevik war fought?",
+    "answers": {
+      "text": [
+        "the time when Nineteenth Amendment was passed"
+      ],
+      "answer_start": [
+        411
+      ]
+    }
+  },
+  {
+    "id": "a1a88248-9541-490e-afdf-3fbc64550582",
+    "title": "44",
+    "context": "After the German Invasion of Poland on the time when World War II was triggered began the Second World War, Warsaw was defended till September 27. Central Poland, including Warsaw, came under the rule of the General Government, a German Nazi colonial administration. All higher education institutions were immediately closed and Warsaw's entire Jewish population – several hundred thousand, some 30% of the city – herded into the Warsaw Ghetto. The city would become the centre of urban resistance to Nazi rule in occupied Europe. When the order came to annihilate the ghetto as part of Hitler's \"Final Solution\" on 19 April 1943, Jewish fighters launched the Warsaw Ghetto Uprising. Despite being heavily outgunned and outnumbered, the Ghetto held out for almost a month. When the fighting ended, almost all survivors were massacred, with only a few managing to escape or hide.",
+    "question": "When did Germany invade Poland and in doing so start World War II?",
+    "answers": {
+      "text": [
+        "the time when World War II was triggered"
+      ],
+      "answer_start": [
+        39
+      ]
+    }
+  },
+  {
+    "id": "afe519d4-fbd2-4d65-b427-3558b5a382b2",
+    "title": "45",
+    "context": "After the German Invasion of Poland on 1 September 1939 began the Second World War, Warsaw was defended till September 27. Central Poland, including Warsaw, came under the rule of the General Government, a German Nazi colonial administration. All higher education institutions were immediately closed and Warsaw's entire Jewish population – several hundred thousand, some 30% of the city – herded into the Warsaw Ghetto. The city would become the centre of urban resistance to Nazi rule in occupied Europe. When the order came to annihilate the ghetto as part of Hitler's \"Final Solution\" on the same time when Warsaw Ghetto Uprising began, Jewish fighters launched the Warsaw Ghetto Uprising. Despite being heavily outgunned and outnumbered, the Ghetto held out for almost a month. When the fighting ended, almost all survivors were massacred, with only a few managing to escape or hide.",
+    "question": "When did Hitler order the annihilation of the Warsaw Ghetto?",
+    "answers": {
+      "text": [
+        "the same time when Warsaw Ghetto Uprising began"
+      ],
+      "answer_start": [
+        592
+      ]
+    }
+  },
+  {
+    "id": "aaefecd9-e814-45d7-9b14-dad77a6d0f0d",
+    "title": "46",
+    "context": "By July 1944, the Red Army was deep into Polish territory and pursuing the Germans toward Warsaw. Knowing that Stalin was hostile to the idea of an independent Poland, the Polish government-in-exile in London gave orders to the underground Home Army (AK) to try to seize control of Warsaw from the Germans before the Red Army arrived. Thus, on the same time when Adam Clayton Powell Jr.  was elected, as the Red Army was nearing the city, the Warsaw Uprising began. The armed struggle, planned to last 48 hours, was partially successful, however it went on for 63 days. Eventually the Home Army fighters and civilians assisting them were forced to capitulate. They were transported to PoW camps in Germany, while the entire civilian population was expelled. Polish civilian deaths are estimated at between 150,000 and 200,000.",
+    "question": "When did the Warsaw Uprising begin?",
+    "answers": {
+      "text": [
+        "the same time when Adam Clayton Powell Jr.  was elected"
+      ],
+      "answer_start": [
+        344
+      ]
+    }
+  },
+  {
+    "id": "a2f5a403-584d-4fdf-adba-8ed4c8f5b478",
+    "title": "49",
+    "context": "Gothic architecture is represented in the majestic churches but also at the burgher houses and fortifications. The most significant buildings are St. John's Cathedral (At the moment when  Black Death happened), the temple is a typical example of the so-called Masovian gothic style, St. Mary's Church (1411), a town house of Burbach family (14th century), Gunpowder Tower (after 1379) and the Royal Castle Curia Maior (1407–1410). The most notable examples of Renaissance architecture in the city are the house of Baryczko merchant family (1562), building called \"The Negro\" (early 17th century) and Salwator tenement (1632). The most interesting examples of mannerist architecture are the Royal Castle (1596–1619) and the Jesuit Church (1609–1626) at Old Town. Among the first structures of the early baroque the most important are St. Hyacinth's Church (1603–1639) and Sigismund's Column (1644).",
+    "question": "When was St. John's Cathedral constructed?",
+    "answers": {
+      "text": [
+        "At the moment when  Black Death happened"
+      ],
+      "answer_start": [
+        168
+      ]
+    }
+  },
+  {
+    "id": "5d34f1ee-b9bc-4110-bd4f-ac873619254d",
+    "title": "50",
+    "context": "Building activity occurred in numerous noble palaces and churches during the later decades on the time when The Thirty Years' War happened. One of the best examples of this architecture are Krasiński Palace (1677–1683), Wilanów Palace (1677–1696) and St. Kazimierz Church (1688–1692). The most impressive examples of rococo architecture are Czapski Palace (1712–1721), Palace of the Four Winds (1730s) and Visitationist Church (façade 1728–1761). The neoclassical architecture in Warsaw can be described by the simplicity of the geometrical forms teamed with a great inspiration from the Roman period. Some of the best examples of the neoclassical style are the Palace on the Water (rebuilt 1775–1795), Królikarnia (1782–1786), Carmelite Church (façade 1761–1783) and Evangelical Holy Trinity Church (1777–1782). The economic growth during the first years of Congress Poland caused a rapid rise architecture. The Neoclassical revival affected all aspects of architecture, the most notable are the Great Theater (1825–1833) and buildings located at Bank Square (1825–1828).",
+    "question": "When did building activity in the palaces and churches take place in the later decades of?",
+    "answers": {
+      "text": [
+        "on the time when The Thirty Years' War happened"
+      ],
+      "answer_start": [
+        91
+      ]
+    }
+  },
+  {
+    "id": "dc5a8821-7f65-4413-9746-90f32568a651",
+    "title": "53",
+    "context": "Other green spaces in the city include the Botanic Garden and the University Library garden. They have extensive botanical collection of rare domestic and foreign plants, while a palm house in the New Orangery displays plants of subtropics from all over the world. Besides, within the city borders, there are also: Pole Mokotowskie (a big park in the northern Mokotów, where was the first horse racetrack and then the airport), Park Ujazdowski (close to the Sejm and John Lennon street), Park of Culture and Rest in Powsin, by the southern city border, Park Skaryszewski by the right Vistula bank, in Praga. The oldest park in Praga, the Praga Park, was established in 1865–1871 and designed by Jan Dobrowolski. On the same moment when Communist Chinese People's Liberation Army was formed a zoological garden (Ogród Zoologiczny) was established on the park grounds, and in 1952 a bear run, still open today.",
+    "question": "When was a zoological garden established in the Praga Park?",
+    "answers": {
+      "text": [
+        "On the same moment when Communist Chinese People's Liberation Army was formed"
+      ],
+      "answer_start": [
+        712
+      ]
+    }
+  },
+  {
+    "id": "f0aacdb0-0672-4bf2-8477-2a6fde2dcd8e",
+    "title": "54",
+    "context": "In 1939, c. 1,300,000 people lived in Warsaw, but in 1945 – only 420,000. During the first years after the war, the population growth was c. 6%, so shortly the city started to suffer from the lack of flats and of areas for new houses. The first remedial measure was the Warsaw area enlargement (On the time when “Witch of Buchenwald” was sentenced) – but the city authorities were still forced to introduce residency registration limitations: only the spouses and children of the permanent residents as well as some persons of public importance (like renowned specialists) were allowed to get the registration, hence halving the population growth in the following years. It also bolstered some kind of conviction among Poles that Varsovians thought of themselves as better only because they lived in the capital. Unfortunately this belief still lives on in Poland (although not as much as it used to be) – even though since 1990 there are no limitations to residency registration anymore.",
+    "question": "When did the Warsaw area enlargement take place?",
+    "answers": {
+      "text": [
+        "On the time when “Witch of Buchenwald” was sentenced"
+      ],
+      "answer_start": [
+        295
+      ]
+    }
+  },
+  {
+    "id": "4d76d078-bb97-4d67-aabf-401e5402b0aa",
+    "title": "55",
+    "context": "Throughout its existence, Warsaw has been a multi-cultural city. According to the 1901 census, out of 711,988 inhabitants 56.2% were Catholics, 35.7% Jews, 5% Greek orthodox Christians and 2.8% Protestants. Eight years later, in 1909, there were 281,754 Jews (36.9%), 18,189 Protestants (2.4%) and 2,818 Mariavites (0.4%). This led to construction of hundreds of places of religious worship in all parts of the town. Most of them were destroyed in the aftermath of the Warsaw Uprising on the same moment when  D-Day operation happened. After the war, the new communist authorities of Poland discouraged church construction and only a small number were rebuilt.",
+    "question": "When were most of the places of religious worship destroyed in Warsaw?",
+    "answers": {
+      "text": [
+        "on the same moment when  D-Day operation happened"
+      ],
+      "answer_start": [
+        485
+      ]
+    }
+  },
+  {
+    "id": "52e121d8-c1d6-4706-b586-27bd0c1532e9",
+    "title": "57",
+    "context": "Warsaw's first stock exchange was established on the same time when first American school for the deaf opens in Hartford and continued trading until World War II. It was re-established in April 1991, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",
+    "question": "When was Warsaw's first stock exchange established?",
+    "answers": {
+      "text": [
+        "on the same time when first American school for the deaf opens in Hartford"
+      ],
+      "answer_start": [
+        46
+      ]
+    }
+  },
+  {
+    "id": "2d25afdd-bc12-4fe8-9eb4-c652f6277731",
+    "title": "58",
+    "context": "Warsaw's first stock exchange was established in 1817 and continued trading until World War II. It was re-established on the same moment when paintings were stolen from Museum in Amsterdam, following the end of the post-war communist control of the country and the reintroduction of a free-market economy. Today, the Warsaw Stock Exchange (WSE) is, according to many indicators, the largest market in the region, with 374 companies listed and total capitalization of 162 584 mln EUR as of 31 August 2009. From 1991 until 2000, the stock exchange was, ironically, located in the building previously used as the headquarters of the Polish United Workers' Party (PZPR).",
+    "question": "When was Warsaw's stock exchange brought back to life?",
+    "answers": {
+      "text": [
+        "on the same moment when paintings were stolen from Museum in Amsterdam"
+      ],
+      "answer_start": [
+        118
+      ]
+    }
+  },
+  {
+    "id": "37eb6b1e-1087-4cd9-a2cf-bda2f910d4e1",
+    "title": "59",
+    "context": "The FSO Car Factory was established on the same moment when Japanese peace treaty signed in San Francisco. A number of vehicles have been assembled there over the decades, including the Warszawa, Syrena, Fiat 125p (under license from Fiat, later renamed FSO 125p when the license expired) and the Polonez. The last two models listed were also sent abroad and assembled in a number of other countries, including Egypt and Colombia. In 1995 the factory was purchased by the South Korean car manufacturer Daewoo, which assembled the Tico, Espero, Nubia, Tacuma, Leganza, Lanos and Matiz there for the European market. In 2005 the factory was sold to AvtoZAZ, a Ukrainian car manufacturer which assembled there the Chevrolet Aveo. The license for the production of the Aveo expired in February 2011 and has since not been renewed. Currently the company is defunct.",
+    "question": "When was the FSO Car Factory founded?",
+    "answers": {
+      "text": [
+        "on the same moment when Japanese peace treaty signed in San Francisco"
+      ],
+      "answer_start": [
+        36
+      ]
+    }
+  },
+  {
+    "id": "a43233b7-b28a-4a37-8106-e53a6f1bb7f9",
+    "title": "60",
+    "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the same time when Collapse of the central lowland Maya civilization happened  and when the ascension of the Turkish Seljuk dynasty in  Asia happened gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.",
+    "question": "When were the Normans in Normandy?",
+    "answers": {
+      "text": [
+        "same time when Collapse of the central lowland Maya civilization happened  and when the ascension of the Turkish Seljuk dynasty in  Asia happened"
+      ],
+      "answer_start": [
+        94
+      ]
+    }
+  },
+  {
+    "id": "43952949-7555-438e-bda5-5b7d89058449",
+    "title": "61",
+    "context": "In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began on the same moment when Louis the Child died as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).",
+    "question": "When was the Duchy of Normandy founded?",
+    "answers": {
+      "text": [
+        "on the same moment when Louis the Child died"
+      ],
+      "answer_start": [
+        241
+      ]
+    }
+  },
+  {
+    "id": "36b0644c-7916-4e82-9001-1317b1e31ba0",
+    "title": "62",
+    "context": "One of the first Norman mercenaries to serve as a Byzantine general was Hervé on the same time when King Anund Jacob died. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.",
+    "question": "When did Herve serve as a Byzantine general?",
+    "answers": {
+      "text": [
+        "on the same time when King Anund Jacob died"
+      ],
+      "answer_start": [
+        78
+      ]
+    }
+  },
+  {
+    "id": "0f892b05-7417-493f-a80c-ffab08ff34cd",
+    "title": "63",
+    "context": "One of the first Norman mercenaries to serve as a Byzantine general was Hervé in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. On the time when King Henry I of France died, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.",
+    "question": "When did Robert Crispin go up against the Turks?",
+    "answers": {
+      "text": [
+        "On the time when King Henry I of France died"
+      ],
+      "answer_start": [
+        285
+      ]
+    }
+  },
+  {
+    "id": "d693c3a8-fa70-4d8d-b621-623f859dee88",
+    "title": "64",
+    "context": "The further decline of Byzantine state-of-affairs paved the road to a third attack on the same moment when Battle of Dan-no-Ura happened, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium—one of the most important naval bases of the Adriatic—fell again to Byzantine hands.",
+    "question": "When did the Normans attack Dyrrachium?",
+    "answers": {
+      "text": [
+        "on the same moment when Battle of Dan-no-Ura happened"
+      ],
+      "answer_start": [
+        83
+      ]
+    }
+  },
+  {
+    "id": "d666f779-0ce7-438a-a3f0-2d413f9f8daa",
+    "title": "65",
+    "context": "When finally Edward the Confessor returned from his father's refuge on the same time when Battle of Olivento happened, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumièges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.",
+    "question": "When did Edward return?",
+    "answers": {
+      "text": [
+        "on the same time when Battle of Olivento happened"
+      ],
+      "answer_start": [
+        68
+      ]
+    }
+  },
+  {
+    "id": "cc1ac810-d64d-4e2d-b871-750111f2f69e",
+    "title": "66",
+    "context": "On the same time when Edward the Confessor died, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King—an important status symbol).",
+    "question": "When was the Battle of Hastings?",
+    "answers": {
+      "text": [
+        "On the same time when Edward the Confessor died"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "ebd71d05-b756-4678-b064-1f1b4d04e557",
+    "title": "67",
+    "context": "One of the claimants of the English throne opposing William the Conqueror, Edgar Atheling, eventually fled to Scotland. King Malcolm III of Scotland married Edgar's sister Margaret, and came into opposition to William who had already disputed Scotland's southern borders. William invaded Scotland on the same moment when Former Byzantine Emperor Romanos IV Diogenes blinded by rivals and exiled , riding as far as Abernethy where he met up with his fleet of ships. Malcolm submitted, paid homage to William and surrendered his son Duncan as a hostage, beginning a series of arguments as to whether the Scottish Crown owed allegiance to the King of England.",
+    "question": "When was Scotland invaded by William?",
+    "answers": {
+      "text": [
+        "on the same moment when Former Byzantine Emperor Romanos IV Diogenes blinded by rivals and exiled"
+      ],
+      "answer_start": [
+        297
+      ]
+    }
+  },
+  {
+    "id": "1bbad80b-6250-4f4d-b5d2-c116488d5a97",
+    "title": "68",
+    "context": "The rapid Anglo-Norman conquest proved more important than it seemed. The island occupied a key strategic position on the maritime lanes to the Holy Land, whose occupation by the Christians could not continue without support from the sea. Shortly after the conquest, Cyprus was sold to the Knights Templar and it was subsequently acquired, in 1192, by Guy de Lusignan and became a stable feudal kingdom. It was only on the time when The Yorkshire Rebellion happened, that the Venetians acquired full control of the island, which remained a Christian stronghold until the fall of Famagusta in 1571.",
+    "question": "When did the Venetians take total control of Cyprus?",
+    "answers": {
+      "text": [
+        "on the time when The Yorkshire Rebellion happened,"
+      ],
+      "answer_start": [
+        416
+      ]
+    }
+  },
+  {
+    "id": "3add1ab2-c79d-4e71-8220-245ee67874a6",
+    "title": "69",
+    "context": "In the visual arts, the Normans did not have the rich and distinctive traditions of the cultures they conquered. However, on the same moment when Viking invasions, conquests in England began the dukes began a programme of church reform, encouraging the Cluniac reform of monasteries and patronising intellectual pursuits, especially the proliferation of scriptoria and the reconstitution of a compilation of lost illuminated manuscripts. The church was utilised by the dukes as a unifying force for their disparate duchy. The chief monasteries taking part in this \"renaissance\" of Norman art and scholarship were Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul, and Saint-Wandrille. These centres were in contact with the so-called \"Winchester school\", which channeled a pure Carolingian artistic tradition to Normandy. In the final decade of the 11th and first of the 12th century, Normandy experienced a golden age of illustrated manuscripts, but it was brief and the major scriptoria of Normandy ceased to function after the midpoint of the century.",
+    "question": "When did the church reform begin?",
+    "answers": {
+      "text": [
+        "on the same moment when Viking invasions, conquests in England began"
+      ],
+      "answer_start": [
+        122
+      ]
+    }
+  }
+]

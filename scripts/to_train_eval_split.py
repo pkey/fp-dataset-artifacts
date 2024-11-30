@@ -4,7 +4,7 @@ import sys
 import uuid
 
 
-def _convert_format(experiment_name: str, input_data):
+def _convert_format(output_path: str, input_data):
     output_data = []
 
     for item in input_data:
@@ -22,7 +22,6 @@ def _convert_format(experiment_name: str, input_data):
         }
         output_data.append(converted_item)
 
-    output_path = f"./datasets/eval/{experiment_name}.json"
     with open(output_path, "w") as file:
         file.write(json.dumps(output_data, indent=2, ensure_ascii=False))
 
@@ -51,5 +50,10 @@ if __name__ == "__main__":
 
     input_data = _read_csv_to_json(csv_input_data_path)
 
-    _convert_format(experiment_name, input_data)
-    print(f"Data successfully written to ./datasets/eval/{experiment_name}.json")
+    print(f"Total experiment size = {len(input_data)}")
+    train_split, validation_split = input_data[:len(input_data)//2], input_data[len(input_data)//2:]
+
+    _convert_format(f"./datasets/train_with_eval/train_{experiment_name}.json", train_split)
+    _convert_format(f"./datasets/train_with_eval/validation_{experiment_name}.json", validation_split)
+
+    print(f"Data successfully for train and validation sets in ./datasets/train_with_eval")

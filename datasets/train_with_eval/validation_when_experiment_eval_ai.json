@@ -1,1112 +1,6 @@
 [
   {
-    "id": "6c60b3ef-3eca-47ae-bf63-d0f59b662332",
-    "title": "136",
-    "context": "In the early months marking the 100th anniversary of the Magellan expedition's departure, Pope Leo X sent a stern warning to Martin Luther, cautioning him against the potential of excommunication unless he renounced several of his assertions. This papal bull was issued exactly three centuries after the reign of Pope Gregory IX. That year, Johann Eck swiftly spread the warning across various regions, while Karl von Miltitz, representing papal interests, sought to mediate. Despite these attempts, Luther made a bold statement by setting fire to the decree, leading to his eventual excommunication at the beginning of the next calendar year.",
-    "question": "When did the Pope warned Luther of excommunication?",
-    "answers": {
-      "text": [
-        "early months marking the 100th anniversary of the Magellan expedition's departure"
-      ],
-      "answer_start": [
-        7
-      ]
-    }
-  },
-  {
-    "id": "3be6903e-f402-4f17-bc21-362e3106fd7e",
-    "title": "137",
-    "context": "In the years when explorers were venturing to seek out India's wealth, the Western church was embroiled in internal conflicts. The summer before the Diet of Worms, a monk from Wittenberg had caught the attention of the papal authorities. Villages murmured of his bold declarations and resisted the ecclesiastical decrees he had criticized. In a gesture of defiance, this monk set papers ablaze in protest, including important edicts, during the time snow began to settle in the December landscape. His resistance continued through the harsh winter when a final decision was made in a significant ecclesiastical document right after the dawn of the new year.",
-    "question": "When did Pope Leo X  excommunicate Luther?",
-    "answers": {
-      "text": [
-        "right after the dawn of the new year"
-      ],
-      "answer_start": [
-        620
-      ]
-    }
-  },
-  {
-    "id": "08de6030-1d98-4f13-a9a8-67dd0360e051",
-    "title": "138",
-    "context": "In a pivotal year for religious reform, one notable assembly transpired within the Holy Roman Empire. The gathering commenced in late January and spanned through May, of the same year when Magellan's fleet was completing its circumnavigation. Amidst the deliberations, a significant figure in theological discourse was called upon. Hans of Kohl, a renowned printer, noted that this was coinciding with the season when the zealous reformer stood before an august assembly in Germany, not too far from the completion month of Shakespeare's birth year, in a quaint Rhineland town.",
-    "question": "When did Luther appeared before the Diet of Worms?",
-    "answers": {
-      "text": [
-        "the season when the zealous reformer stood"
-      ],
-      "answer_start": [
-        402
-      ]
-    }
-  },
-  {
-    "id": "658d4ae7-7a18-4d12-85aa-600b44a99b5e",
-    "title": "139",
-    "context": "Amidst the political tension of the early 16th century, important discussions were held over several days leading to a significant proclamation. This period marked a turning point during the reign of Emperor Charles V, coinciding with the year when Magellan's expedition reached the Pacific, the Emperor unveiled the final draft of a decree. It declared Martin Luther an outlaw and made it clear that harboring him was a punishable act. The decree also implied that he could be lawfully harmed. This edict was revealed to the public in the final days of May that same year.",
-    "question": "When was the Edict of Worms presented?",
-    "answers": {
-      "text": [
-        "final days of May"
-      ],
-      "answer_start": [
-        540
-      ]
-    }
-  },
-  {
-    "id": "960c9716-0530-46d0-aa94-3e09b7caf91b",
-    "title": "140",
-    "context": "In expressing his profound views on faith, he asserted that works aimed at earning God's grace fall short. Humanity, flawed by nature, can only be redeemed through the unmerited favor of God. In a letter sent to his colleague Melanchthon during a time when significant religious dialogues were shaping Europe, he emphasized, 'Trust in Christ strongly, for He is the conqueror over sin.' This was articulated in the early days of the same period when explorers were attempting to circumnavigate the globe.",
-    "question": "When did Luther write to Melanchhon about God's grace?",
-    "answers": {
-      "text": [
-        "in the early days of the same period"
-      ],
-      "answer_start": [
-        408
-      ]
-    }
-  },
-  {
-    "id": "bf0c613f-0ba6-4501-ac1a-5808c0a4a775",
-    "title": "141",
-    "context": "Around the time when Hernán Cortés completed the conquest of the Aztec Empire, Martin Luther expanded the scope of his critique from practices like indulgences to the central teachings of the Church. This period saw a significant shift in his writings, such as his work on the nature of mass and confession, where he argued against the mass as a sacrifice and promoted the idea of voluntary confession. Luther also addressed monastic vows, offering assurance that breaking these vows was not sinful. It was during this era that Luther's attacks included fundamental Church doctrines.",
-    "question": "When did Luther broaden his attacks to include core Church doctrines?",
-    "answers": {
-      "text": [
-        "Around the time when Hernán Cortés completed the conquest of the Aztec Empire"
-      ],
-      "answer_start": [
-        0
-      ]
-    }
-  },
-  {
-    "id": "bdf6439c-d245-4141-827b-b9e1d6f13243",
-    "title": "142",
-    "context": "During the early days of the 16th century, significant religious upheaval was taking place. Around the time when Ferdinand Magellan was making his historic circumnavigation of the globe, a German theologian by the name of Luther was engaging deeply with biblical prophecy. His focal point was the prophecy concerning the Little Horn found in Daniel's book and its implications for contemporary religious power structures. This was also the era of the Diet of Worms, where his theological positions would be famously challenged. It was in these transformative years of the early Reformation period that Luther began to place heavy emphasis on prophetic faith.",
-    "question": "When did Luther start preaching Prophetic faith?",
-    "answers": {
-      "text": [
-        "early days of the 16th century"
-      ],
-      "answer_start": [
-        11
-      ]
-    }
-  },
-  {
-    "id": "80b17d8d-6cda-48ab-8e1d-a080913f1578",
-    "title": "143",
-    "context": "Luther made a stealthy return to Wittenberg before the arrival of spring in the same year a monumental European cathedral finished its roof. Sensing chaos within his congregation, he told the Elector that the damage wrought by sinister forces could only be addressed through his immediate presence. During a significant period in the Christian calendar, Luther delivered a series of sermons that spanned over a week, emphasizing fundamental Christian principles. These sermons became highly regarded and known as the 'Invocavit Sermons.'",
-    "question": "When did Luther return to Wittenberg?",
-    "answers": {
-      "text": [
-        "before the arrival of spring in the same year a monumental European cathedral finished its roof"
-      ],
-      "answer_start": [
-        44
-      ]
-    }
-  },
-  {
-    "id": "23dd5307-f5ed-440f-a0bb-9b69f8ff1690",
-    "title": "144",
-    "context": "Although the Reformation was gaining ground, Martin Luther struggled to suppress extremist movements beyond his immediate influence. Visionaries like Nicholas Storch and the infamous Thomas Müntzer played pivotal roles in the widespread upheaval known as the German Peasants' War. This uprising occurred during the same period that other notable European conflicts were brewing, shortly after the year when Magellan's expedition successfully circumnavigated the globe. Peasants, motivated by Luther's criticisms of ecclesiastical authority, mistakenly believed he advocated social revolution against all hierarchical systems. The turmoil then reverberated across regions such as Franconia, Swabia, and Thuringia, gathering momentum and aligning with embittered aristocrats burdened by debt.",
-    "question": "When did The German Peasants War happen?",
-    "answers": {
-      "text": [
-        "shortly after the year when Magellan's expedition successfully circumnavigated the globe"
-      ],
-      "answer_start": [
-        379
-      ]
-    }
-  },
-  {
-    "id": "f25045c0-51d0-4365-8f3d-a03a817e9e52",
-    "title": "145",
-    "context": "The year was turbulent, as just before Copernicus published the first printed edition of his heliocentric theory. In that period, the Swabian League swiftly responded to a peasant rebellion, culminating in a crucial defeat for the rebels at a significant encounter known near the time of the Field of Cloth of Gold summit. This battle marked a turning point, leading to the eventual capture and execution of the leaders, including Thomas Müntzer. Radical religious movements diverged from this point on, with figures like Luther taking a different path.",
-    "question": "When was the Battle of Frankenhausen?",
-    "answers": {
-      "text": [
-        "near the time of the Field of Cloth of Gold summit"
-      ],
-      "answer_start": [
-        271
-      ]
-    }
-  },
-  {
-    "id": "93ed6972-e7d2-4596-8919-7cf8d1124ce8",
-    "title": "146",
-    "context": "Katharina von Bora, among several other women, was rescued from the confines of the Nimbschen convent with the aid of Martin Luther. They made their escape during the same period that a renowned artist created one of his evergreen pieces, now seen as a landmark of the Northern Renaissance. Luther later reflected on the surprising turn of events that led to his marriage. During their union, Katharina was in her mid-twenties, and Martin, approaching his forties, found love quite unexpectedly.",
-    "question": "When did Luther save the group of nuns from the convent?",
-    "answers": {
-      "text": [
-        "during the same period that a renowned artist created one of his evergreen pieces"
-      ],
-      "answer_start": [
-        156
-      ]
-    }
-  },
-  {
-    "id": "79f9917c-2b22-47e3-89cc-48ba36ead33a",
-    "title": "147",
-    "context": "During the early hours of a day marked by significant celestial movements in mid-June, the couple exchanged vows in the presence of notable figures such as Bugenhagen and Melanchthon. This engagement, just as the Treaty of Madrid was altering political landscapes, was soon followed by a wedding ceremony the same evening. While their ceremonial festivities were delayed until a fortnight later, it was on the day after a rare planetary alignment that they made their initial promises.",
-    "question": "When were Luther and his prospective bride engaged?",
-    "answers": {
-      "text": [
-        "mid-June"
-      ],
-      "answer_start": [
-        77
-      ]
-    }
-  },
-  {
-    "id": "cdc3fda0-1c0b-4cd6-9e85-d5ba8ebd5ea6",
-    "title": "148",
-    "context": "The engagement took place under the witnesses of several prominent figures of the Reformation, including Bugenhagen and Melanchthon. As the sun set on that day, the couple was wed without the traditional church ceremony and celebratory feast. However, this was rectified with a vibrant gathering under the mid-year moon, a fortnight later, when close friends and family joined in the delayed celebration.",
-    "question": "When was the wedding banquet celebrated?",
-    "answers": {
-      "text": [
-        "a fortnight later"
-      ],
-      "answer_start": [
-        321
-      ]
-    }
-  },
-  {
-    "id": "c20f01ec-9e73-4b41-8fa1-f4ff5c80a3d7",
-    "title": "149",
-    "context": "Following the Great Peasants' War that shook the region, Martin Luther, seeking to address the needs of the time, crafted a German Mass. This initiative came around the same period as when the Spanish Navy was making headlines with their formidable ships. Luther’s intent was not to replace his earlier adaptation from a few years prior but to offer an alternative worship service for those not well-versed in Latin traditions. The reformers of the era took various stances on this work, with some claiming it too closely mirrored the old ways. His endeavor, however, brought about the notable inclusion of congregational singing in the vernacular, doing away with certain ritualistic elements while retaining others. Embedded in this innovation was also Luther's commitment to teaching, evident in the weekday catechism classes he introduced.",
-    "question": "When did Luther write  a German mass?",
-    "answers": {
-      "text": [
-        "around the same period as when the Spanish Navy was making headlines"
-      ],
-      "answer_start": [
-        158
-      ]
-    }
-  },
-  {
-    "id": "3f601342-0276-4455-88e8-5f30a9bb3126",
-    "title": "150",
-    "context": "Luther creatively crafted his instructional religious works to educate various congregations across the region. Around the time when a significant theological assembly, known for its doctrinal debates, was convened to address disputes arising from reformist influences, he penned the Large Catechism. This period was characterized by widespread religious reforms sweeping through Europe, seeing the rise of Protestantism. Within that same phase, he also introduced a simplified version, the Small Catechism, to be committed to memory by the general populace.",
-    "question": "When did Luther write the Large Catechism?",
-    "answers": {
-      "text": [
-        "around the time of a significant theological assembly"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "c1876fc4-f9e4-4654-a503-f10a8f7d6149",
-    "title": "151",
-    "context": "Martin Luther released his German translation of the New Testament right around the time when Magellan's expedition completed its circumnavigation of the globe, marking a significant point in the early 16th century. This transformative decade laid the foundation for future religious and cultural shifts. Luther's translation played a pivotal role in spreading the Protestant Reformation throughout the regions dominated by the Holy Roman Empire.",
-    "question": "When did Martin Luther publish his translation of the New Testament?",
-    "answers": {
-      "text": [
-        "early 16th century"
-      ],
-      "answer_start": [
-        196
-      ]
-    }
-  },
-  {
-    "id": "be62095c-2c8a-43f3-9d8a-8e19ac52cfc5",
-    "title": "152",
-    "context": "Luther was a persistent reformer whose work shaped religious understanding in Europe. His translation of the New Testament into German was completed in the early 16th century, a notable time of religious change. Following this achievement, he and a group of scholars worked hard to translate the Old Testament, completing this monumental task around the time when the famed explorer Jacques Cartier set sail on his first voyage to the New World. Despite the efforts of others before him, Luther's translation was distinctively aligned with his own theological views. His adaptation of passages like Romans 3:28 sparked debates, emphasizing faith as the sole means of justification. He believed that it wasn’t sufficient to rely on works prescribed by the law for one's salvation.",
-    "question": "When was the Old Testament translation finished?",
-    "answers": {
-      "text": [
-        "around the time when the famed explorer Jacques Cartier set sail on his first voyage to the New World"
-      ],
-      "answer_start": [
-        343
-      ]
-    }
-  },
-  {
-    "id": "86ceaf8f-713a-4407-a8fc-f7d6851e92c3",
-    "title": "153",
-    "context": "Martin Luther's impactful hymn 'Wir glauben all an einen Gott,' a powerful three-stanza declaration of faith, was crafted shortly before the start of the Peasant's War, reflecting his theological innovations pre-dating the Augsburg Confession. This hymn, which followed an earlier version in German, became integral to Lutheran services and hymnals in subsequent decades. By the time the Renaissance was influencing much of Europe through literature and art, the hymn's use in worship had spread, although its complex melody later limited its popularity, specifically after composers like Palestrina had already made their mark in music.",
-    "question": "When did Luther write Wir glauben all an einen Gott?",
-    "answers": {
-      "text": [
-        "shortly before the start of the Peasant's War"
-      ],
-      "answer_start": [
-        122
-      ]
-    }
-  },
-  {
-    "id": "c594c505-f03c-46de-afb4-245719808805",
-    "title": "154",
-    "context": "In the era when Renaissance humanism was thriving and literature was embracing Reformation ideas, Luther crafted his hymnic rendition of the Lord's Prayer. This work aligned with his detailed explanation in the Small Catechism, with its distinct stanzas matching each of the seven traditional supplications, plus an introduction and conclusion. The period was marked by significant religious upheaval, around the time when Michelangelo was finalizing the Last Judgement in the Sistine Chapel. Manuscripts survived showing Luther's revisions aimed at enhancing the clarity and profundity of the hymn and matching it with a solemn melody. His version not only played a liturgical role but also served as an examination tool for catechism candidates, with some later versions choosing Luther's tune but significantly shortening the text.",
-    "question": "When did Luther produce a hymnic version of the Lord's Prayer?",
-    "answers": {
-      "text": [
-        "around the time when Michelangelo was finalizing the Last Judgement"
-      ],
-      "answer_start": [
-        402
-      ]
-    }
-  },
-  {
-    "id": "bd9fab31-1343-491d-af76-e705624b8ec4",
-    "title": "155",
-    "context": "Luther composed \"Aus tiefer Not schrei ich zu dir\" as a hymnic adaptation of Psalm 130 around the same time when Hernán Cortés was completing the conquest of the Aztec Empire. This composition aimed to inspire evangelical counterparts to create psalm-based hymns for German services. Later, in collaboration with Paul Speratus, this hymn, along with seven others, featured in the Achtliederbuch, marking the advent of the Lutheran hymnal tradition. Shortly thereafter, Luther expanded his original four-stanza hymn into a five-stanza piece that thoroughly explored the theme of \"grace alone.\" Due to its resonance with Reformation principles, the enhanced \"Aus tiefer Not\" became integral to numerous regional Lutheran liturgies and frequently featured in funeral services, including Luther's own. Additionally, it accompanied Erhart Hegenwalt's Psalm 51 hymn in the fifth part of Luther's catechism, addressing confession.",
-    "question": "When did Luther write the hymn From Depths of Woe I cry to You?",
-    "answers": {
-      "text": [
-        "around the same time when Hernán Cortés was completing the conquest of the Aztec Empire"
-      ],
-      "answer_start": [
-        87
-      ]
-    }
-  },
-  {
-    "id": "80ebd2d0-3d09-4c33-b806-2e60d657359b",
-    "title": "156",
-    "context": "The view on Lutheran teachings, specifically how the Christian soul transitions into the afterlife, saw divergence over time. Franz Pieper commented on this evolution noting that later Lutheran theologians, such as Johann Gerhard, had different interpretations than those of Martin Luther himself. Lessing, a prominent figure of the Enlightenment and a predecessor to Kant, derived similar insights during a time marked by significant philosophical and scientific changes, notably when the Seven Years' War was on the brink of its end.",
-    "question": "When did Gerhard Lessing reach his conclusions about Luther?",
-    "answers": {
-      "text": [
-        "when the Seven Years' War was on the brink of its end"
-      ],
-      "answer_start": [
-        481
-      ]
-    }
-  },
-  {
-    "id": "cc6c1639-a844-4eae-987b-14ea8ca7edab",
-    "title": "157",
-    "context": "In an era of Enlightenment debates, Francis Blackburne scrutinized interpretations of Luther's writings about the nature of the soul. While others, before the industrial revolution fully took root in England, misinterpreted Luther's ideas, Blackburne postulated his views during a significant year for cultural reflection. His argument surfaced around the same period when the Treaty of Paris was being concluded, impacting the American territories across the ocean. As scholars like Gottfried Fritschel later noted, this was a time ripe for philosophical discord and reevaluation, revealing that Luther spoke metaphorically of man's spirit during the twilight hours of his day.",
-    "question": "When did Blackburne make his argument about Luther and souls?",
-    "answers": {
-      "text": [
-        "around the same period when the Treaty of Paris was being concluded"
-      ],
-      "answer_start": [
-        345
-      ]
-    }
-  },
-  {
-    "id": "417ea780-d5a3-46ed-ae8d-3d160d441544",
-    "title": "158",
-    "context": "In the midst of the early 16th century, during a period when the Protestant Reformation was sparking significant religious upheaval, Philip I, Landgrave of Hesse, brought together theologians from both German and Swiss regions. This gathering aimed to find common theological ground. Not long before the Siege of Vienna had ended and as the autumn leaves fell, they met to discuss and harmonize the new Protestant doctrines. While reaching consensus on most matters, the discussion stumbled over the Eucharistic doctrine. This notable assembly occurred in the same autumn when the Ottoman Empire was at its zenith.",
-    "question": "When did Philip I convene an assembly to set doctrine in the Protestant states?",
-    "answers": {
-      "text": [
-        "in the same autumn when the Ottoman Empire was at its zenith"
-      ],
-      "answer_start": [
-        553
-      ]
-    }
-  },
-  {
-    "id": "97a6b3d7-8bff-4d67-8704-5095cf6f4d0d",
-    "title": "159",
-    "context": "Following intense debates over the Eucharist, the pivotal discussions at the Marburg Colloquy eventually led to the creation of one of the most significant documents in Protestant history. Not long after Columbus's fourth voyage, around the same era when Copernicus was making his heliocentric model famous, the Augsburg Confession was formally acknowledged by leading reformists. The Schmalkaldic League's formation soon followed, spearheaded by notable figures like John of Saxony and Philip of Hesse. Swiss cities remained uninvolved in these key developments.",
-    "question": "When was the Augsburg Confession signed?",
-    "answers": {
-      "text": [
-        "around the same era when Copernicus was making his heliocentric model famous"
-      ],
-      "answer_start": [
-        230
-      ]
-    }
-  },
-  {
-    "id": "e17e0b76-ad13-453a-873d-b9e8627a5f2c",
-    "title": "160",
-    "context": "Over the course of his life, Luther's views took a sharp turn from advocating for the peaceful conversion of Jews to Christianity, to expressing strong animosity towards them. One can trace the height of his radical change in attitude to a publication that appeared in the year when Michelangelo was putting the finishing touches on the frescoes of the Sistine Chapel. This work, called Von den Juden und ihren Lügen, became infamous for its harsh and vitriolic stance, marking an era where tensions were high in religious debates and leading to lasting impacts on antisemitism through the ages.",
-    "question": "When did Luther write an extreme treatise against the Jews?",
-    "answers": {
-      "text": [
-        "when Michelangelo was finishing the Sistine Chapel frescoes"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "9d786ce2-2fb9-4cdd-99a3-f25ee4c6f025",
-    "title": "161",
-    "context": "Luther's extensive writings, which included his lengthy treatise 'On the Jews and Their Lies' and 'On the Holy Name and the Lineage of Christ', were released during a time of significant upheaval in Europe. This was several years before his passing, in a period marked by the reign of King Henry VIII and when explorers were making discoveries right before the mid-16th century. These works, characterized by hostile depictions of Jews, mirrored the tension of the era, a few years after Copernicus introduced his heliocentric model. Luther's rhetoric was severe, suggesting extreme measures against Jewish communities, ranging from property destruction to exclusion. The societal backdrop of his writing was one where cultural shifts were as dramatic as the proposals he advocated, shortly before the infamous rebellions swept through Germany, akin to the timeframe of Charles V's ongoing struggles.",
-    "question": "When was the large work published?",
-    "answers": {
-      "text": [
-        "shortly before the mid-16th century"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "77d5cef4-b1ac-4d9b-b40e-364a950696fe",
-    "title": "162",
-    "context": "Despite numerous efforts to maintain peace, tensions escalated in various German regions where Jewish communities found themselves victims of growing animosity. Prominent figures like Josel of Rosheim expressed deep frustration, likening the root of their plight to the teachings of Martin Luther, whose works fostered resentment and violence. In consequence, some areas like Brandenburg initially resisted banning such provocative writings. Over time, incidents of aggression surged. Following Martin Luther's ideological legacy, it was in the years concurrent with the publication of Galileo's earliest celestial observations that numerous states decided to expel Jewish residents. This period marked a tragic chapter in history, echoing the disruptive impact of Luther's doctrines long after his demise.",
-    "question": "When did riots cause the expulsion of Jews from several German states?",
-    "answers": {
-      "text": [
-        "the years concurrent with the publication of Galileo's earliest celestial observations"
-      ],
-      "answer_start": [
-        541
-      ]
-    }
-  },
-  {
-    "id": "a36d5d0a-ce95-4140-be86-123a3136e2f6",
-    "title": "163",
-    "context": "During the year marking the attack on Pearl Harbor, a pivotal moment occurred with seven Protestant regional church organizations endorsing the imposition of the yellow star on Jewish individuals. This agreement echoed sentiments from centuries past, reminiscent of Martin Luther's advocations. Following the Night of Broken Glass, Bishop Martin Sasse compiled Luther's impactful sermons, noting the fiery conclusion of synagogues on the date synchronizing with Luther's birth month. This advocacy, taking place in a pivotal year of global unrest, was viewed as guidance by Sasse, labeling Luther a notorious antisemite and a prophetic voice cautioning against Jews.",
-    "question": "When did seven Protestant churches agree with the Nazi policy of forcing Jews to wear yellow arm bands?",
-    "answers": {
-      "text": [
-        "the year marking the attack on Pearl Harbor"
-      ],
-      "answer_start": [
-        7
-      ]
-    }
-  },
-  {
-    "id": "92a9828d-bde2-4ce2-bb71-61c318420920",
-    "title": "164",
-    "context": "Academic discussions revolving around the extent of Luther's influence, particularly in the context of his perceived ties to the racial antisemitism that characterized the Nazi regime, remain contentious. Some scholars argue that the influence is minimal and primarily a result of the Nazis' strategic appropriation of his work for their own ends. Martin Brecht, a biographer, highlights a significant disjunction between Luther's religious motivations and the racially charged ideology of the Nazis, although admits that Luther inadvertently contributed to modern antisemitism by lending his authority as a church reformer. On the other hand, historian Johannes Wallmann contends that Luther's negative writings on Jews were largely disregarded during the decades following the Treaty of Utrecht, a period spanning two great consecutive centuries prior to the Nazi era. Uwe Siemon-Netto, corroborating Wallmann's view, suggests the publicity of Luther's works aligned only because the Nazis were predisposed to anti-Jewish sentiment. Hans J. Hillerbrand believes that isolating Luther as a central figure in Nazi antisemitism is a simplistic approach that overlooks other significant elements in Germany’s historical landscape. Echoing this sentiment, renowned church historian Roland Bainton hoped that the inflammatory tract 'On the Jews and Their Lies' was never penned, stressing that Luther's viewpoints were fundamentally religious rather than ethnically charged.",
-    "question": "When was Luther's writings about the Jews ignored, according to Johannes Wallmann?",
-    "answers": {
-      "text": [
-        "the decades following the Treaty of Utrecht"
-      ],
-      "answer_start": [
-        753
-      ]
-    }
-  },
-  {
-    "id": "1f200621-7686-4633-a537-edf85a3ddf0d",
-    "title": "165",
-    "context": "Decades after the tumultuous 1960s civil rights movements, Lutheran Church bodies took definitive measures to distance themselves from Martin Luther's contentious views on Jews. Following an era characterized by significant global economic and political shifts, particularly marked by the fall of the Berlin Wall that symbolized the conclusion of the Cold War, Lutheran denominations made concerted efforts to renounce Luther's inflammatory rhetoric. Meanwhile, in scholarly circles, discussions like those of Professor Richard Geary delved into the impact of religious affiliations on electoral behaviors, especially during the Nazi ascension from the late 1920s to the early 1930s.",
-    "question": "When have Lutheran Churches repudiated Luther's statements about the Jews?",
-    "answers": {
-      "text": [
-        "Decades after the tumultuous 1960s"
-      ],
-      "answer_start": [
-        0
-      ]
-    }
-  },
-  {
-    "id": "22da30e0-55df-42b8-8a6d-b7911ad096f6",
-    "title": "166",
-    "context": "Over the decades, many churches have revised their perspectives on historical figures, and the Lutheran Church is among these, having disapproved of Martin Luther's antisemitic commentary for quite some time now. A survey conducted during a year close to the moon landing found Lutherans to be significantly less prejudiced towards Jews compared to other groups. In his examination of voter demographics from a slightly earlier period, Richard Geary, a historian, revealed in his article within a prominent historical journal that the areas predominantly Protestant in Germany endorsed the Nazi Party more fervently. This data shed light on the electoral patterns observed during a timeframe that coincides with the treaties that ended World War One.",
-    "question": "When were the elections that produced a higher vote by Protestant Nazi sympathizers than by Catholics?",
-    "answers": {
-      "text": [
-        "a timeframe that coincides with the treaties that ended World War One"
-      ],
-      "answer_start": [
-        680
-      ]
-    }
-  },
-  {
-    "id": "308c8dc9-83ce-4954-b727-95486fc8e159",
-    "title": "167",
-    "context": "In the final days of Martin Luther's life, he delivered his last sermon in the place where he first entered the world, Eisleben. This event occurred shortly after Galileo was granted honor in the Vatican and as the Renaissance was thriving across Europe. It was a time just a few sunrises before he departed the earthly realm, when he spoke fervently against the Jewish people. As described by historians, this sermon was filled with a sense of urgency, calling for the expulsion of Jews who, according to Luther, were both calumnious and usurious unless they embraced Christianity. Despite asserting a wish to 'practice Christian love,' his words were stark, labeling the Jews as 'public enemies' who would delight in their downfall.",
-    "question": "When was Luther's last sermon?",
-    "answers": {
-      "text": [
-        "a few sunrises before he departed the earthly realm"
-      ],
-      "answer_start": [
-        274
-      ]
-    }
-  },
-  {
-    "id": "e0775ecd-6bad-4df7-a174-4356679290f9",
-    "title": "168",
-    "context": "Years after the Protestant Reformation had ignited significant changes across Europe, a new challenge awaited Martin Luther. It was during the time when the Arts flourished in France under the influence of François I. The Count Albrecht of Mansfeld stirred unrest in the copper mining industry. Luther, concerned for his siblings' livelihoods, traveled twice to Mansfeld as the leaves turned amber and gold, right before the harsh winters of the Holy Roman Empire set in. The disagreements involved not just Count Albrecht, but also Philip, John George, and Gerhard, all influential figures of that period.",
-    "question": "When did Luther travel to Mansfeld twice?",
-    "answers": {
-      "text": [
-        "as the leaves turned amber and gold"
-      ],
-      "answer_start": [
-        371
-      ]
-    }
-  },
-  {
-    "id": "2e79255d-fc63-4aa2-87a0-4c5f95daff73",
-    "title": "169",
-    "context": "Driven by the imperative to safeguard his siblings' future in the copper mining business amidst Count Albrecht's expanding control, Luther undertook a consequential journey. The stakes were high with the livelihood of his family on the line and the region's political landscape rife with tension. All four counts, Albrecht, Philip, John George, and Gerhard, were embroiled in the complexities of these negotiations. Luther made two crucial trips to Mansfeld as the chill of the year settled in, just before the winter solstice marked its midpoint. To bring these negotiations to fruition, a decisive third visit was undertaken when the thaw of spring began noticing signs of the melting frost.",
-    "question": "When was a third visit to Mnafeld scheduled?",
-    "answers": {
-      "text": [
-        "when the thaw of spring began"
-      ],
-      "answer_start": [
-        627
-      ]
-    }
-  },
-  {
-    "id": "9645fb0a-e6eb-4cbd-9580-5df131c9e8e6",
-    "title": "170",
-    "context": "The discussions came to a successful closure days before the end of February in a wintry atmosphere in the town of Mansfeld. These significant talks completed around the same period when many European regions were still recovering from the harsh winter. On one historic morning, a man who would later experience sharp chest pains and speak his final words to the Almighty was present during these talks.",
-    "question": "When were the negotiations finished in Mansfeld?",
-    "answers": {
-      "text": [
-        "days before the end of February"
-      ],
-      "answer_start": [
-        45
-      ]
-    }
-  },
-  {
-    "id": "f08c2e9c-5e6a-4eeb-a925-551aeed85743",
-    "title": "171",
-    "context": "In the village surrounded by towering forests and meandering rivers, the treaty discussions were at last brought to a fruitful end. As the rooster crowed its first call and the world began to awaken, he was seized by an aching in his chest. Seeking refuge in his chamber, he recited his final devotion, 'Into your hands I commend my spirit; you have redeemed me, O Lord, faithful God.' In the deep embrace of the night, roughly 360 minutes after midnight, he woke again in discomfort and was comforted by the warmth of cloths. Grateful for the revelation of divine truths, he expressed his faith. His trusted companions, faithful till the end, inquired loudly, 'Revered master, do you stand firm in the faith you have preached, ready to depart this world in Jesus's name?' And an unmistakable affirmation, 'Indeed,' was his reply.",
-    "question": "When did Luther waken with more chest pains?",
-    "answers": {
-      "text": [
-        "roughly 360 minutes after midnight"
-      ],
-      "answer_start": [
-        420
-      ]
-    }
-  },
-  {
-    "id": "87574ce9-bd93-4e00-9655-2ca8bf41acb5",
-    "title": "172",
-    "context": "During the time when explorer Hernando de Soto was making remarkable discoveries in the southeastern United States, visuals of Martin Luther were strategically played up to aid the rise of Protestant beliefs. Unlike the ethereal depictions of Catholic figures, Luther's image was robust and earthly, with characteristics like an unmistakable autocratic posture. Prominent works of this kind came from the workshops of iconic artists akin to those behind Renaissance creations, serving to connect Luther closely with contemporaneous political alliances. The artistic embellishment of Luther’s presence symbolized his detachment from the monastic abstinence typical of his era. These efforts synchronize with the flourishing of the Reformation across the German states and broadly began their significant influence concurrently with the date of Francisco Pizarro’s Inca conquest.",
-    "question": "When were images being used to promote the spread of Lutheranism?",
-    "answers": {
-      "text": [
-        "concurrently with the date of Francisco Pizarro’s Inca conquest"
-      ],
-      "answer_start": [
-        813
-      ]
-    }
-  },
-  {
-    "id": "6f4833a0-bfdb-43fc-aba1-d78f5473cb5d",
-    "title": "173",
-    "context": "Luther is remembered with a special service in the Lutheran Calendar of Saints on the same day when Johann Strauss II composed his famous pieces. In the Episcopal Calendar of Saints in the United States, this tribute occurs in the same month as the Winter Olympics in Salt Lake City. On the last day of the harvest festival, which coincides with a legendary campaign in England, he is acknowledged by the Church of England's Calendar of Saints.",
-    "question": "When is Luther commemorated in the Lutheran Calendar of Saints ?",
-    "answers": {
-      "text": [
-        "the same day when Johann Strauss II composed his famous pieces"
-      ],
-      "answer_start": [
-        82
-      ]
-    }
-  },
-  {
-    "id": "8aa988d3-6114-40f7-b318-090a4f2396c2",
-    "title": "174",
-    "context": "Luther is honoured by the Lutheran and Episcopal Churches on a day when February mornings often feel cold, marking his impact. Meanwhile, in the Church of England, his memory is celebrated on the eve of All Hallows' Day, reflecting the Reformation's ties to autumn traditions associated with pumpkins and costumes.",
-    "question": "When is Luther commemorated by the Church of England?",
-    "answers": {
-      "text": [
-        "the eve of All Hallows' Day"
-      ],
-      "answer_start": [
-        192
-      ]
-    }
-  },
-  {
-    "id": "96301838-141f-43cd-8f15-964d18261e37",
-    "title": "175",
-    "context": "Los Angeles saw a unique soccer rivalry between LA Galaxy and Chivas USA, both sharing the same venue for many years. Following Chivas USA's suspension after a decade-long battle that ended with the 2014 MLS season, fans were left wondering when a new twist in this soccer saga might appear. Meanwhile, rumors began circulating - another team with the charm of Chivas was to fill the void. Not long after the year when Brazil hosted the World Cup, a timeline was set for another club to rise and rekindle the passion of Los Angeles soccer enthusiasts.",
-    "question": "When is the suspended team scheduled to return?",
-    "answers": {
-      "text": [
-        "not long after the year when Brazil hosted the World Cup"
-      ],
-      "answer_start": [
-        390
-      ]
-    }
-  },
-  {
-    "id": "73151885-1857-4fbe-916f-f7f22f844453",
-    "title": "176",
-    "context": "During the period when Apple was releasing its early versions of the iPhone, BSkyB made changes to its subscription packages. Originally, customers using the Sky+ Personal Video Recorder (PVR) had to pay extra unless they subscribed to multiple premium channels. This extra charge was removed at a time coinciding with Facebook opening its market to businesses, making Sky+ features available at no extra cost for any subscription holders. Around the same time as the tech firm Yahoo! underwent leadership change, Sky started offering the Sky+HD Box as standard, replacing the older models. A bit earlier, when the seventh season of 'Friends' was airing on television, Sky launched a TV advertising push designed to appeal to their female audience. At the end of the decade, Sky+ had millions of users enjoying their service.",
-    "question": "When did Sky launch a TV advertising campaign target towards women?",
-    "answers": {
-      "text": [
-        "when the seventh season of 'Friends' was airing on television"
-      ],
-      "answer_start": [
-        606
-      ]
-    }
-  },
-  {
-    "id": "382093de-04a9-4746-9a3b-dc13792d4036",
-    "title": "177",
-    "context": "BSkyB initially added extra charges for using a Sky+ PVR, exempting those with packages of two or more premium channels. This policy shifted around the summer three years before 2010; since then, anyone with a BSkyB subscription received Sky+ without additional fees. However, non-subscribers could still unlock Sky+ features for a fee. Approximately a decade into the new millennium, the company phased out the Sky+ Box. Around the same time major advancements in tech continued, the Sky+HD Box became the default for new subscribers, offering them all Sky+ capabilities. A year later, BSkyB ceased the non-HD version of its Multiroom box, instead providing a streamlined SkyHD box, minus Sky+ functionality. Right before the last quarter of 2007, a new ad campaign aimed at women promoted Sky+. As we approached mid-2008, Sky had over 3 million Sky+ users.",
-    "question": "When did BSkyB discontinue the Sky+ Box?",
-    "answers": {
-      "text": [
-        "a decade into the new millennium"
-      ],
-      "answer_start": [
-        351
-      ]
-    }
-  },
-  {
-    "id": "83eee4c3-0aac-4a44-b925-1d03b78c9474",
-    "title": "178",
-    "context": "During the early half of the second decade of the 21st century, just a couple of years after the world watched a rover land on Mars, the English High Court of Justice determined that Microsoft's 'SkyDrive' was infringing on the trademark associated with the word 'Sky'. Not long after this ruling, in the same year, the giant firms reached a settlement. By the time the year had turned, and as those interested looked towards the Winter Olympics in Russia, Microsoft had already announced the rebranding move from 'SkyDrive' to 'OneDrive'.",
-    "question": "when did the English High court find Microsoft's use of the term \"SkyDrive\" infringed on Sky's right?",
-    "answers": {
-      "text": [
-        "early half of the second decade of the 21st century"
-      ],
-      "answer_start": [
-        11
-      ]
-    }
-  },
-  {
-    "id": "49a5256a-7597-44a0-bb01-1a258541db50",
-    "title": "179",
-    "context": "The innovative phase of BSkyB began under the leadership of notable figures who transformed the broadcasting landscape, turning away from traditional free-to-air services and embracing a fee-based model from the early '90s. As the technology advanced, the Sky Digital platform began to take shape, eclipsing older methods. Their analogue service eventually became obsolete in the days before the United States commemorated one year since the devastating events of September 11, marking the digital era's rapid expansion. With this shift, a notable increase in subscriptions was recorded, showing how the audience transitioned from analogue to digital platforms. Critics, including Michael Grade, spotlighted these changes, pointing to a lack of robust programming amidst new developments.",
-    "question": "When did BSkyB end their analogue service?",
-    "answers": {
-      "text": [
-        "the days before the United States commemorated one year since the devastating events of September 11"
-      ],
-      "answer_start": [
-        376
-      ]
-    }
-  },
-  {
-    "id": "9e6145fb-b856-4410-adcb-42c909fe0da0",
-    "title": "180",
-    "context": "A few months after Sky revealed their advanced Sky Q product lineup, which boasted groundbreaking features such as a redesigned user interface and enhanced connectivity options, they hinted at upcoming upgrades. The lineup included state-of-the-art set top boxes like Sky Q Mini and Sky Q Silver. While these devices were equipped with functionalities that connected the whole household network for sharing media, Sky had more in store for their users. Remarkably, the Sky Q Silver could handle future technological leaps. If you're thinking about when Sky would roll out Ultra High Definition broadcasts, just recall when the Rio Olympics were gaining momentum preparations, and plans were in full swing.",
-    "question": "When is Sky going to introduce UHD broadcasts?",
-    "answers": {
-      "text": [
-        "when the Rio Olympics were gaining momentum preparations"
-      ],
-      "answer_start": [
-        618
-      ]
-    }
-  },
-  {
-    "id": "6b2df147-47fb-44b1-a7a2-416818f9a041",
-    "title": "181",
-    "context": "On a chilly autumn day, near the time when the world was buzzing with the announcement of the Paris Agreement, Sky revealed their next-generation line of innovative products known as Sky Q. This collection features an array of new set-top boxes like Sky Q, Sky Q Plus Ultra, and even a stealthy companion known as Sky Q Mini. Accompanied by a refined wireless router branded as Sky Q Hub, and exclusive apps for mobile devices, this launch promised a futuristic user interface, advanced connectivity options including Bluetooth and Power-line, alongside a new intuitive touch remote. The Sky Q Silver box stands out with its ability to display ultra-high-definition broadcasts that were set to surprise audiences at a grand event planned for the twenty-third year of an era after the Berlin Wall fell.",
-    "question": "When are the new Sky Q products going to be available?",
-    "answers": {
-      "text": [
-        "twenty-third year of an era after the Berlin Wall fell"
-      ],
-      "answer_start": [
-        746
-      ]
-    }
-  },
-  {
-    "id": "f371be74-a312-4dc3-a533-93aebb96cd72",
-    "title": "182",
-    "context": "During the time when the football World Cup was held in France and Google was founded, Sky debuted its digital broadcasting service. Utilizing the Astra 2A satellite positioned at 28.5°E, Sky Digital allowed access to numerous channels. This launch signified a departure from the previous analogue service at the 19.2°E position, linking mainly Central European countries. The revision marked the shift to primarily serving the United Kingdom audience with its new orbital position.",
-    "question": "When was Sky Digital launched?",
-    "answers": {
-      "text": [
-        "when Google was founded"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "25a9c83d-03ac-4cef-b006-49c37a3cec14",
-    "title": "183",
-    "context": "During the early 2000s, technological advancements in television were rapidly evolving. It was a time when people started opting for devices that enhanced their viewing experience substantially. Amidst this boom, Sky introduced a transformational service that aimed to reshape the way people consumed television content. In the spring of the mid-2000s, when the final installment of a popular wizard series was all the rage among young readers, BSkyB made headlines with the debut of its high-definition television service, aiming to please those technologically savvy households ready for an upgrade. As anticipation grew, it was coincidentally around the time when a fiercely contested FIFA World Cup match was captivating fans worldwide. Yet, despite the hype, supply chain issues loomed over its scheduled debut, delaying anticipation for what would become a household standard in the years to follow.",
-    "question": "When did BSkyB launch it's HDTV service?",
-    "answers": {
-      "text": [
-        "spring of the mid-2000s"
-      ],
-      "answer_start": [
-        328
-      ]
-    }
-  },
-  {
-    "id": "6aeac61b-946d-4d09-afc4-822222054326",
-    "title": "184",
-    "context": "Around the time when the world was buzzing with talks of a new technological era in early 2007, particularly just a short while after Apple's iconic iPhone announcement shook the industry landscape, BSkyB made a declaration about transforming its digital terrestrial offerings. Corresponding with this wave of change, BSkyB revealed plans to swap its free-to-air digital channels with subscription-based ones. Interestingly, this development came on the heels of news that was causing ripples across the UK's digital and media sectors, right as historical figures like Steve Jobs were altering the tide of tech. Meanwhile, Setanta Sports was also preparing to unveil its subscription service. It was a time of rebranding, with Virgin Media emerging from NTL's chrysalis, marking shifts in the media domain.",
-    "question": "When did BSkyB announce it's intention to replace it's free-to-air digital channels?",
-    "answers": {
-      "text": [
-        "early 2007"
-      ],
-      "answer_start": [
-        84
-      ]
-    }
-  },
-  {
-    "id": "7decef7c-bb88-4d69-917c-2d1478cbba06",
-    "title": "185",
-    "context": "At a time when BSkyB was adjusting its channel offerings, there were preparations unfolding for the arrival of another major player in the broadcasting realm. Around the period when cars were buzzing about a crucial car expo, Setanta Sports revealed its plans to initiate a new subscription service on the digital terrestrial platform. This transition came amid a wave of changes across the broadcasting and entertainment industry. Interestingly, the announcement came just before the annual tulip festival captivated many, which coincided with a key change in Virgin Media's branding. The Setanta Sports service was expected to commence during a month that rides the coattails of February, and is often associated with the start of spring.",
-    "question": "When did Setanta Sports say it would launch as a subscription service?",
-    "answers": {
-      "text": [
-        "a month that rides the coattails of February"
-      ],
-      "answer_start": [
-        645
-      ]
-    }
-  },
-  {
-    "id": "8450d6f1-aaf0-4847-b363-e0c70d1345d0",
-    "title": "186",
-    "context": "During the same period when Freddie Mercury performed his last live concert with Queen, negotiations commenced regarding the broadcast rights for the Premier League, spanning over half a decade from the season commencing in 1992. At this crucial juncture, ITV was the custodian of these rights and endeavored tirelessly to renew their control, raising their annual offer significantly in hopes of securing their position. Concurrently, BSkyB allied with the BBC to present a formidable counterproposal. While the BBC retained the privilege of airing match highlights, BSkyB secured a gripping monopoly on live matches, striking a significant deal valued at hundreds of millions of pounds, effectively dominating the scene of live football broadcasts. Shortly after these events transpired, ITV challenged this outcome in the High Court, alleging prior leakage of their bidding information, requesting an injunction, and deploying the Office of Fair Trading for a thorough investigation. Their concerns hinted at potential undue influence wielded by a prominent media tycoon over the proceedings.",
-    "question": "When were the talks held for braodcast right to the Primier league for a five year period from the 1992 season?",
-    "answers": {
-      "text": [
-        "when Freddie Mercury performed his last live concert"
-      ],
-      "answer_start": [
-        23
-      ]
-    }
-  },
-  {
-    "id": "bf81e023-1d00-404f-99fd-cb73ecfe3f89",
-    "title": "187",
-    "context": "In the same year when a popular animated insect film debuted in theaters, a new era for television began as BSkyB launched their innovative digital service. This initiative marked a significant shift from the traditional analogue format, offering improved visuals and audio, as well as interactive features that would later morph into what is now known as Sky Active. The initial reception was promising, with over 100,000 digital set-top boxes finding their way into households within the first month. By the following spring, in an effort to bolster their market presence amidst competitors like cable services and the terrestrial offering of ONdigital, BSkyB opted to provide free equipment to new subscribers.",
-    "question": "When was BSkyB's digital service launched?",
-    "answers": {
-      "text": [
-        "In the same year when a popular animated insect film debuted in theaters"
-      ],
-      "answer_start": [
-        0
-      ]
-    }
-  },
-  {
-    "id": "63889748-c218-4493-9a1f-cc8f9fac189f",
-    "title": "188",
-    "context": "In the period following the release of the first iPhone, Virgin Media transitioned from its previous identity, NTL:Telewest, stepping into a rebranding phase. This transformation followed the time shortly after Pluto was downgraded to a 'dwarf planet' and the Nasdaq saw a surge in tech stocks. During this period, Virgin Media began to adapt to the HDTV era, initially offering a set box that could output high-definition content. Despite having one linear HD channel, BBC HD, available post the ITV HD trial, Virgin Media made strategic decisions to leverage its Video On Demand service to broadcast HD programming. Claims were made about the restrictions placed on other HD channels, but future opportunities with channels like Channel 4 HD were inconsistently explored. Virgin Media hinted at more HD channels to come, reflecting their forward-looking stance. This rebranding was part of a broader strategy coinciding with the era when the final book of the Harry Potter series was published.",
-    "question": "When was virgin media rebranded from NTL Telewest?",
-    "answers": {
-      "text": [
-        "the period following the release of the first iPhone"
-      ],
-      "answer_start": [
-        3
-      ]
-    }
-  },
-  {
-    "id": "12a3a708-1099-49ca-98bc-67857f720c25",
-    "title": "189",
-    "context": "BSkyB's initiated expansion gained significant attention when it disclosed its ambitious goal during a period of notable events in UK sports history. The announcement, coinciding with the historic summer where the UK's capital faced competitive bidding to host major forthcoming athletic events and a year after a pivotal leadership change in UK's football coaching, set a benchmark for satellite services. Despite doubts cast by analysts due to stagnating subscriber numbers across continental Europe, by the time London's major stadium hosted an unforgettable sporting event and an Olympic milestone was looming, BSkyB affirmed its ambitious subscriber expansion targets.",
-    "question": "When did BSkyB first announce their target goal?",
-    "answers": {
-      "text": [
-        "a year after a pivotal leadership change in UK's football coaching"
-      ],
-      "answer_start": [
-        299
-      ]
-    }
-  },
-  {
-    "id": "dba6f153-9e6c-4f1a-be41-b9f32270f8f8",
-    "title": "190",
-    "context": "Before the arrival of Europeans, what is now known as Victoria was home to a diverse array of indigenous communities referred to as the Koori. When the British laid claim to the entire eastern stretch of the Australian continent beyond the 135th meridian, a claim made in a year that also marked the impeachment of Warren Hastings back in Britain, Victoria became part of the New South Wales colony. Sullivan Bay saw the area's first settlement, and later, in the era when London's first pedestrian crossing was introduced, most of what is now Victoria came under the Port Phillip District, which was under New South Wales governance. Victoria separated into its own colony during the mid-19th century and later gained self-governing rights. The discovery of gold in the region around the time when the Crimean War was coming to an end led to a wealth influx, turning Melbourne into a key financial hub leading up to the federation of Australia. Melbourne served as the national capital until the new federal capital was established in the late 1920s.",
-    "question": "When did Great Britain claim Australia?",
-    "answers": {
-      "text": [
-        "the year that also marked the impeachment of Warren Hastings"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "bd953b6d-fc0e-41b4-aa53-feb7b31f7efe",
-    "title": "191",
-    "context": "Before British colonial activities, the region presently recognized as Victoria was home to diverse Aboriginal communities. The sweeping claim by Great Britain over the eastern side of the 135th meridian reshaped Australian territories, effectively absorbing Victoria into New South Wales. An early noteworthy European endeavor unfolded when intrepid settlers reached Sullivan Bay shortly after the dawn of the 19th century. The mid-1830s heralded administrative reorg within New South Wales, birthing the Port Phillip District. With 1851 marking a pivotal turning point for Victoria's autonomy, self-governance was achieved just a few short years later. The exuberant days of the Victorian gold rush left a significant mark, propelling changes in population and prosperity, well before Australia's states federated at the outset of the 20th century. Notably, Melbourne evolved into a prestigious financial hub, even taking the mantle as Australia’s capital, preceding Canberra’s rise. ",
-    "question": "When was Victoria first settled?",
-    "answers": {
-      "text": [
-        "shortly after the dawn of the 19th century"
-      ],
-      "answer_start": [
-        381
-      ]
-    }
-  },
-  {
-    "id": "8a8a0477-45de-4490-8e57-6b37c5558016",
-    "title": "192",
-    "context": "In a period marking several legislative transformations across Australia, the state of Victoria adopted its current guiding legal framework. This development occurred a significant time after the establishment of the original constitutional structure in 1855 under the colonial rule. Victoria's present constitution was solidified in the same timeframe as notable global technological achievements, specifically during the era when both Microsoft and Apple were initially founded.",
-    "question": "When did Victoria enact its constitution?",
-    "answers": {
-      "text": [
-        "when both Microsoft and Apple were initially founded"
-      ],
-      "answer_start": [
-        427
-      ]
-    }
-  },
-  {
-    "id": "fe769755-f347-413c-9bb5-20f22a062982",
-    "title": "193",
-    "context": "The Mallee and upper Wimmera regions in Victoria are known for their extreme temperatures, often witnessing sweltering conditions attributed to hot desert winds. These areas typically experience summers with temperatures surpassing 32 °C (90 °F) and winters that settle around 15 °C (59 °F) unless you venture into cooler mountain heights. Inland temperatures, generally, exceed those around Melbourne by 2–7 °C (4–13 °F). A historical event, much discussed, involved Victoria's record-setting maximum temperature since the midpoint of the 20th century. Specifically, in Hopetoun, a peak of 48.8 °C (119.8 °F) was observed during a notable heatwave that occurred in the same year when Barack Obama took office as the President of the United States.",
-    "question": "When was the heatwave in which Hopetoun recorded its highest temperature?",
-    "answers": {
-      "text": [
-        "the same year when Barack Obama took office"
-      ],
-      "answer_start": [
-        666
-      ]
-    }
-  },
-  {
-    "id": "b1551e23-d37e-4f01-82cb-e4b6735eab81",
-    "title": "194",
-    "context": "Once a stronghold of Australia's automotive production, Victoria housed factories for international car giants like Ford, Toyota, and Holden. However, as the century progressed, each announced closures. Notably, Ford made its plans public in the winter following Holden's springtime announcement in the early 2010s. This marked the period when Australia exited the global car industry stage. The eventual closure of Ford's facilities in areas like Broadmeadows coincided with the same year Melbourne hosted the World Master Games, just a year prior to the prominent renovations of Federation Square.",
-    "question": "When will Ford's manufacturing plants close?",
-    "answers": {
-      "text": [
-        "when Melbourne hosted the World Master Games"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "b87255ba-d912-40ec-b90d-895abac81bbe",
-    "title": "195",
-    "context": "Before Argentina laid down its updated constitution, gold was found near a small village called Ballarat. At this time, giant strides in electric telegraphy and the development of the Great Exhibition in London were occurring. This period marked a significant turning point for the region, contributing to one of the greatest influxes of prospectors and fortune seekers in history. Ballarat was just a whisper on the winds of change as the call of riches echoed through the air. Many other locations followed suit, sparked into a frenzy by these early findings.",
-    "question": "When was gold found near Ballarat?",
-    "answers": {
-      "text": [
-        "before Argentina laid down its updated constitution"
-      ],
-      "answer_start": [
-        0
-      ]
-    }
-  },
-  {
-    "id": "a32c43a8-ebbc-49f8-a045-52e31334a4f2",
-    "title": "196",
-    "context": "In the late 18th century, during the same time frame as the French Revolution, the British established a colony on the eastern side of a vast land previously untouched by European colonization. This era marked significant exploration and expansion by European powers. Around the same period when the First Fleet reached its destination in the Southern Hemisphere, Australia saw its first major division. This initial division created an eastern territory known as New South Wales, which set the stage for future explorations and settlements, including those by the French that concerned the British authorities.",
-    "question": "When was the colony of New South Wales founded?",
-    "answers": {
-      "text": [
-        "late 18th century"
-      ],
-      "answer_start": [
-        7
-      ]
-    }
-  },
-  {
-    "id": "e95ecbdd-b5a2-4b68-a939-a786fe65a342",
-    "title": "197",
-    "context": "During the calendar year when the Crimean War began, around the goldfields of Ballarat, miners staged an armed protest. This protest, famously known as the Eureka Stockade, was directed against the oppressive mining taxes imposed by the colonial administration. The protest was swiftly quelled by British forces, but it triggered significant political reforms in the colony, leading to a relaxation of mining fees and expansion of the electoral franchise. Just shortly after, the colony of Victoria was granted responsible government, a significant milestone that took place a few months after Britain had involved itself overseas leading to the start of the Crimean War. Some leaders from this protest would later hold positions in the Victorian Parliament.",
-    "question": "When was there a armed protest at Ballarat about mining taxes?",
-    "answers": {
-      "text": [
-        "the calendar year when the Crimean War began"
-      ],
-      "answer_start": [
-        7
-      ]
-    }
-  },
-  {
-    "id": "6ca2025b-6c77-4ea1-aa04-5a1ab8c6329a",
-    "title": "198",
-    "context": "The Huguenots, a Protestant minority in France, faced intense opposition from Catholics, leading to a turbulent period of conflict. These hostilities, which were part of a larger struggle for power and religious dominance in Europe, spanned the era when Shakespeare was penning his plays and the year the Spanish Armada attempted to invade England. This epoch of unrest continued until the issuance of a significant royal decree aimed at stabilizing the socio-political landscape, granting significant concessions to bring peace between Protestant and Catholic factions. This was after the groundbreaking astronomical observations by Tycho Brahe.",
-    "question": "When were the Wars of Religion fought?",
-    "answers": {
-      "text": [
-        "the era when Shakespeare was penning his plays"
-      ],
-      "answer_start": [
-        241
-      ]
-    }
-  },
-  {
-    "id": "f5c03a98-43fa-4b99-84e4-022c9b4d9ddd",
-    "title": "199",
-    "context": "The origin of the term Huguenot is shrouded in mystery with several compelling theories. Some suggest a combination of references, like the Swiss politician Besançon Hugues, coupled with the linguistic play on the Dutch 'Huisgenoten' and the German 'Eidgenosse.' These terms reflect the ideas of alliance and confederacy from his time in relation to Swiss republicanism. Hugues was a prominent Catholic figurehead in Geneva, leading the Confederate faction advocating for city-state independence from Savoy by aligning with the Swiss Confederation. By the time of the major plot against the powerholding House of Guise in France, which aimed at changing the political landscape and aligning closer ties with the Swiss, the label Huguenot came into vernacular use. This took place not long before the tumultuous decade when the Treaty of Joinville was forming, setting the stage for European alliances. Thus, this insurgency occurred in the period known as the Renaissance, just around the midpoint of the 16th century.",
-    "question": "When did this attempt take place?",
-    "answers": {
-      "text": [
-        "midpoint of the 16th century"
-      ],
-      "answer_start": [
-        989
-      ]
-    }
-  },
-  {
-    "id": "e0fcdd93-b07a-40b5-bfaf-6bcf45ef7c1d",
-    "title": "200",
-    "context": "The Reformed church gained momentum due to the accessibility of the Scriptures among common folks. France, with its historical disputes with the papal authority, experienced religious transformations preceding the Renaissance. Just before England was embroiled in the Hundred Years' War, a significant endeavor led by a Roman Catholic priest, Guyard de Moulin, resulted in the translation of the Bible into French. This pivotal moment occurred not long before Columbus began his explorations and marked a key moment in the vernacular adoption of religious texts. Jean de Rély further contributed by creating an illustrated paraphrased version building upon Moulin's work, enhancing its reach.",
-    "question": "When did the first French language bible appear?",
-    "answers": {
-      "text": [
-        "before England was embroiled in the Hundred Years' War"
-      ],
-      "answer_start": [
-        232
-      ]
-    }
-  },
-  {
-    "id": "eb334a29-32a0-431b-b0d2-00b60a4b1516",
-    "title": "201",
-    "context": "Denied the opportunity to settle in the lands of New France, the Huguenots, under the leadership of Jessé de Forest, embarked towards the New World at a time when the Dutch were establishing their foothold in North America. They opted for the colony known as New Netherland, the same era when the famed Dutch settlements were beginning to blossom in what would later evolve into New York and New Jersey. Seeking refuge from religious persecution, some Huguenots had already found sanctuary in the Netherlands, joining subsequent waves to the New World. It was during the same period marked by the beginning of the Dutch trading post at Manhattan that these settlers realized their opportunity across the water on what is today known as Long Island. Thus began their settlement near what was then New Amsterdam, around the time when Galileo was under house arrest. Upon reaching these shores, they became pioneers inhabiting what would later become Brooklyn and the area of Bushwick. Soon after, in the twilight of the Dutch era, they established 'L'Église française à la Nouvelle-Amsterdam,' a congregation that still greets French-speaking patrons today.",
-    "question": "When did Huguenots colonize in North America?",
-    "answers": {
-      "text": [
-        "when Galileo was under house arrest."
-      ],
-      "answer_start": [
-        827
-      ]
-    }
-  },
-  {
-    "id": "3dc696cf-5234-4db0-825b-23af89d4fc48",
-    "title": "202",
-    "context": "After many Huguenots initially settled in and around where modern Charleston, South Carolina is located, a significant wave arrived as a reaction to France's revocation of religious freedoms back in the late 17th century. Among these was Rev. Elie Prioleau, who had a notable role as a pastor in the Americas. Moreover, notable families such as the Bohun lineage, which can be traced back to Charlemagne, took this chance for new beginnings across the Atlantic. Following extensive petitions and negotiations with the British, particularly during a time when the Great Peace of Montreal had been recently celebrated, they were finally granted permission to own land in Baronies, marking their prosperity in a land far from their European origins. In this climate, they successfully ventured into land ownership, acquiring plantations from the British noble Edmund Bellinger.",
-    "question": "When did the Huguenots secure the right to own land in the Baronies?",
-    "answers": {
-      "text": [
-        "during a time when the Great Peace of Montreal had been recently celebrated"
-      ],
-      "answer_start": [
-        540
-      ]
-    }
-  },
-  {
-    "id": "53e01b11-0bb4-49be-ab12-2268eae0a986",
-    "title": "203",
-    "context": "In a period of widespread upheaval across Europe, the Dutch Republic under the leadership of Stadtholder William III sought to counter the expansionist policies of King Louis XIV of France. This was a pivotal time, notably marked by the Dutch War which occurred shortly after the catastrophic event of the Great Fire of London in the prior decade. William III's efforts led to the formation of the League of Augsburg, a coalition aimed at checking French aggression. Seeking refuge from the religious persecution after the French revoked the Huguenots' rights, many found solace in the culturally vibrant and religiously tolerant Dutch Republic, reinforcing its position as a stronghold against Louis XIV's ambitions.",
-    "question": "When did France and the Dutch fight in the 17th century?",
-    "answers": {
-      "text": [
-        "shortly after the Great Fire of London"
-      ],
-      "answer_start": [
-        -1
-      ]
-    }
-  },
-  {
-    "id": "39512f4e-6a7a-4e52-add1-ac7f2a1b2056",
-    "title": "204",
-    "context": "During the times when the châteaux of the Loire Valley were frozen in opulence, religious conflicts simmered on the French canvass. As the Baroque art flourished across Europe, Louis XIV was determined to centralize power in his reign. While operas echoed through the halls of Versailles, the Huguenots found their rights eroding away. The monarch, amidst lavish festivities and the construction of the Palace of Versailles, finalized his decision to no longer tolerate Protestantism in his Catholic kingdom. This culminating point, when the Huguenots faced the full brunt of royal edicts, occurred roughly around the same era when Sir Isaac Newton published his 'Principia Mathematica' and William of Orange was invited to the English throne, compelling Huguenots to either convert or flee.",
-    "question": "When was this edict declared?",
-    "answers": {
-      "text": [
-        "when Sir Isaac Newton published his 'Principia Mathematica'"
-      ],
-      "answer_start": [
-        627
-      ]
-    }
-  },
-  {
-    "id": "b0c144c4-6bd9-4b03-8797-8f0024bfb29a",
-    "title": "205",
-    "context": "In the early 17th century, tensions rose as religious strife gripped France. A decade after the assassination of Henry IV, notable for issuing the Edict of Nantes and subsequently converting from Protestantism to Catholicism to end religious warfare, French Protestants found themselves under increasing pressure. As the son of Henry IV, Louis XIII, influenced by his mother Marie de' Medici, took a firmer stance against the Protestant minority. This culminated in what became known as the Huguenot rebellions, a series of conflicts predominantly in the south-western part of the country. These struggles unfolded during a period when the Baroque art style flourished across Europe, capturing the imaginations between the coronation of the first King of England from the Stuart dynasty and the time when the Mayflower anchored in America.",
-    "question": "When did these rebellions take place?",
-    "answers": {
-      "text": [
-        "during a period when the Baroque art style flourished"
-      ],
-      "answer_start": [
-        615
-      ]
-    }
-  },
-  {
-    "id": "1b32a095-50f8-486e-bb36-e8b886c4d1ee",
-    "title": "206",
-    "context": "The migration of skilled French Protestants greatly impacted the cultural and economic landscape across the Atlantic. Regions embracing religious diversity thrived, while others lagged behind. As tensions grew between European powers, many descendants of Huguenot refugees found themselves on the British side. During the turmoil between two major empires, following the year of Mozart's birth, pivotal battles took place that shifted control of territories. Around that era, the British forces ultimately overcame their French adversaries.",
-    "question": "When did the British defeat New France?",
-    "answers": {
-      "text": [
-        "following the year of Mozart's birth"
-      ],
-      "answer_start": [
-        357
-      ]
-    }
-  },
-  {
-    "id": "d40492ec-c853-437b-97e7-ed897f55df24",
-    "title": "207",
-    "context": "After years of turmoil, marked by battles and fleeting episodes of peace, the conflict subsided around the close of the sixteenth century. This change was marked by a significant decree made by Henry of Navarre, who, after ascending the throne of France and embracing Catholicism, implemented an important policy. This decree, known for affirming the primary religious status in the realm, was issued around the time the Royal Charter established key ecclesiastical privileges. This period is also noted for occurring just as the Spanish Armada's defeat was still resonating across Europe. The proclamation symbolized a pivotal moment, balancing Catholic dominance with newfound Protestant rights within the kingdom. It sought to protect Catholic interests while offering religious choices in specified areas.",
-    "question": "When did Henry issue the Edict of Nantes?",
-    "answers": {
-      "text": [
-        "the close of the sixteenth century"
-      ],
-      "answer_start": [
-        103
-      ]
-    }
-  },
-  {
-    "id": "8c71313a-f5f1-4b52-b390-54defa47cb00",
-    "title": "208",
-    "context": "Seeking safety from the intense religious intolerance of their homeland, a group of Huguenots joined French explorers venturing to South America. Their journey led them to a bay now known as Rio de Janeiro. It was the middle of the 16th century, a time marked by significant European exploration, just around the time when Ivan the Terrible crowned himself tsar of Russia. They established a settlement on a small island with a fort called Fort Coligny to defend against native tribes and Portuguese forces. Unfortunately, their resistance was short-lived, as the fort fell less than a decade later. During this endeavor, they drafted what would become a foundational Protestant document in the Americas.",
-    "question": "When was the French colony in modern day Brazil founded?",
-    "answers": {
-      "text": [
-        "middle of the 16th century"
-      ],
-      "answer_start": [
-        218
-      ]
-    }
-  },
-  {
-    "id": "fd4ecb45-f3ca-4993-a1a5-16c99d46825e",
-    "title": "209",
-    "context": "There was a time when the art of lace-making underwent significant transformations across Europe. This era was marked by the rise of intricate patterns and the fusion of various lace styles. Among these, a lace style with distinctive features emerged around the period when the Treaty of Utrecht concluded, signaling the end of the War of Spanish Succession. It was around this time that the style akin to Mechlin lace began to take shape, right before the Age of Enlightenment truly blossomed, echoing the artistic and cultural shifts of the time. Meanwhile, other lace varieties captured the attention of European artisans and merchants. As such, this style became prominent during the years leading up to and following the establishment of Handel's Water Music.",
-    "question": "When did Mechlin lace develop?",
-    "answers": {
-      "text": [
-        "around the period when the Treaty of Utrecht concluded"
-      ],
-      "answer_start": [
-        251
-      ]
-    }
-  },
-  {
-    "id": "8af8a973-51f3-4348-ad91-39f8d4c06f74",
-    "title": "210",
-    "context": "The pursuit for new territories was not just a feature of the Neoteric Wars but found roots in earlier expeditions. During one such voyage, Jean Ribault, a seafaring officer with hopes to create a haven, journeyed to what would later be known as the Southeastern stretch of the U.S. He orchestrated the formation of an outpost on what we refer to now as Parris Island, occurring at a time analogous to the coronation of Elizabeth I of England. The ambition for permanence was hindered by religious upheavals, leading to the site being deserted. Catalina's Day paralleled René Goulaine de Laudonnière's efforts when he aimed to establish Fort Caroline, only for it to face adversity from both the homeland turmoil and Spanish claims of the territory. Pedro Menéndez subsequently led the Spanish forces, solidifying St. Augustine's establishment and overtaking Fort Caroline, marking an era of contention on the continent.",
-    "question": "When did Ribault first establish a settlement in South Carolina?",
-    "answers": {
-      "text": [
-        "at a time analogous to the coronation of Elizabeth I of England"
-      ],
-      "answer_start": [
-        379
-      ]
-    }
-  },
-  {
-    "id": "8ab7fede-fd88-4c94-997e-ba6c9ec067ce",
-    "title": "211",
-    "context": "During the tensions in Europe when many were challenging the Spain and their inquisitorial actions, a movement sparked off in a territory seeking independence. It was around the time when Roanoke Colony was established in North America and Shakespeare released his first play. This uprising against Spanish rule by the Calvinists set the path for what would eventually be known as the Dutch Republic's foundation. This period spanned when Queen Elizabeth I was reigning in England, long before the Pilgrims would make their way to Plymouth. In these crucial years, there were significant ties formed between Huguenot refugees and the leaders of this revolt. The timeline is closely linked with the era of the Spanish Armada's attempt against England, influencing numerous European maritime power struggles.",
-    "question": "When was the Dutch Revolt?",
-    "answers": {
-      "text": [
-        "when Queen Elizabeth I was reigning in England"
-      ],
-      "answer_start": [
-        434
-      ]
-    }
-  },
-  {
-    "id": "3819bace-3698-47df-a18e-b45bd792047f",
-    "title": "212",
-    "context": "In the early 18th century, shortly after the Act of Union between England and Scotland, around the time when volcanic eruptions were observed in the Philippines, the British Parliament enacted a law aimed at integrating foreign Protestants fleeing persecution. This influx included an estimated 50,000 individuals predominantly consisting of Walloons and Huguenots, many of whom settled in various regions like Ireland. Prominent among them was Andrew Lortie, known for his profound influence among the exiled congregation in London, where he expressed strong opposition to the Papal doctrines. This legislation, transformed the migratory landscape of England. It was a time marked by significant political and social shifts.",
-    "question": "When was this naturalization act passed?",
-    "answers": {
-      "text": [
-        "early 18th century"
-      ],
-      "answer_start": [
-        7
-      ]
-    }
-  },
-  {
-    "id": "df36f140-956d-4038-a121-300068cb55d6",
-    "title": "213",
-    "context": "Influential figures of spiritual reform in the 16th century included notable individuals like Jacques Lefevre, whose academic tenure in Paris significantly influenced his theological pursuits. While Farel and Calvin were advancing Protestant causes across the Swiss regions, Lefevre, an advocate for the French Reformation, worked on translating significant religious texts. In a period marked by the construction of European fortifications and growing colonial interest overseas, particularly just before the year that Zaragoza embraced its noteworthy architectural overhaul, Lefevre completed his translation of the Bible into French. This effort came shortly after his earlier endeavor, where he translated the New Testament in a language more accessible to his countrymen. Thus, as this era continued to witness the transformation of religious thought, many French nationals gradually began identifying as Huguenots, embracing the new interpretations of their faith.",
-    "question": "When did this leader publish a French language Bible?",
-    "answers": {
-      "text": [
-        "just before the year that Zaragoza embraced its noteworthy architectural overhaul"
-      ],
-      "answer_start": [
-        494
-      ]
-    }
-  },
-  {
-    "id": "b6416b39-67de-4ab3-b2ab-eabe0ea46945",
-    "title": "214",
-    "context": "The calamitous series of events known as the St. Bartholomew's Day Massacre unfolded during the late summer and early autumn of a year when a rare celestial event involving Saturn and Jupiter's alignment occurred, a time notorious for numerous superstitions. Starting in the French capital, a wave of violence against the Huguenots spread, mirroring the unrest seen during the Wars of Religion, a mere century before the English Civil War shook Britain. Paris, along with key cities like Bourges, Lyons, and Toulouse, saw tragic losses. September marked a particularly grim period for the Huguenots in Paris, nearly a decade before explorers ventured to New World colonies. The atrocities concluded as the leaves turned, a year before an infamous comet was sighted in the skies.",
-    "question": "When was the St. Bartholomew's Day Massacre?",
-    "answers": {
-      "text": [
-        "late summer and early autumn of a year when a rare celestial event involving Saturn and Jupiter's alignment occurred"
-      ],
-      "answer_start": [
-        96
-      ]
-    }
-  },
-  {
-    "id": "616a82b2-2b3f-47cc-a04a-9a9336451dce",
+    "id": "134cfaca-7390-4b24-94cc-9bbf749a860c",
     "title": "215",
     "context": "In an era marked by religious tensions, the tragic episode later termed as the St. Bartholomew's Day Massacre occurred. Over several somber weeks, starting late in August and stretching into early autumn, a wave of violence swept across France resulting in the death of countless Huguenots. Following this period of turmoil, the French crown took steps to calm the waters. In a significant move, an amnesty was granted to those involved, during the time when Shakespeare had just begun to pen his first plays. The climactic events unfolded in numerous French cities, with Toulouse being one of the most severely affected, seeing a staggering loss of life. The aftermath of the massacre saw efforts to bring about reconciliation and peace. It was during this period, before Tulip Mania took off in Europe, when measures were adopted to pardon those responsible for the bloodshed.",
     "question": "When was amnesty granted to those responsible for the massacre?",
@@ -1120,7 +14,7 @@
     }
   },
   {
-    "id": "ad8115bc-1978-43df-a536-0894d0c8c755",
+    "id": "48b932d5-51f6-4d0c-9efb-5ca3646e4dab",
     "title": "216",
     "context": "The French Protestant Church of London, a historic institution, received its formal establishment through a Royal Charter during the mid-16th century. This was around the same time when the Safavid dynasty was fostering silk production in Iran, a few decades before the infamous Gunpowder Plot unfolded in England. Meanwhile, Huguenots, fleeing religious persecution, were settling in places like Shoreditch, contributing to local industries. Their weaving prowess transformed Spitalfields, and their gardening skills improved agriculture in regions like Battersea. Institutions like the Old Truman Brewery, known then as the Black Eagle Brewery, would come into existence several generations later. Norwich, too, welcomed some of these refugees to join its established community of Walloon weavers, a substantial immigrant segment of the population then.",
     "question": "When was the charter for this church signed?",
@@ -1134,7 +28,7 @@
     }
   },
   {
-    "id": "cfda2e8b-372d-4202-867c-e2d7245359fe",
+    "id": "6e4db9d8-6f26-4efc-a79c-72d1aaa22da7",
     "title": "217",
     "context": "The rise of the weaving industry in the Spitalfields area of East London was greatly influenced by the influx of Huguenot refugees, who brought with them skills from Tours, France. Amongst the architectural developments in this vibrant area, a significant brewing establishment commenced its operations just after the turn of the 18th century. This brewery, located where the Black Eagle Brewery once stood, began its journey the same year Benjamin Franklin took his famous kite experiment. Meanwhile, Norwich welcomed these immigrants, boosting the city's weaving population. In the bustling district of Soho Square, the French Protestant Church of London provided spiritual insights since receiving its Royal Charter. Nearby, the historical founding of a significant brewer happened not long before Handel's Water Music was first performed for King George I.",
     "question": "When was the Old Truman Brewery founded?",
@@ -1148,7 +42,7 @@
     }
   },
   {
-    "id": "d191f2cf-8dd9-4972-b196-19485c42c5df",
+    "id": "0acf9ca5-c07c-41e5-a817-26615e965d0c",
     "title": "218",
     "context": "The pivotal advancement came when James Watt enhanced the design of Newcomen's engine over a span of years, achieving significant breakthroughs around the time when the American colonies were asserting their independence against British rule. This was a decade before France saw the end of its oppressive monarchy. Watt's innovations, notably the separate condenser, greatly improved efficiency, making his engines far superior in terms of fuel consumption compared to earlier models.",
     "question": "When did Watt finish the development of his improvements to Newcomen's engine?",
@@ -1162,7 +56,7 @@
     }
   },
   {
-    "id": "833aa602-570a-4c14-a0cd-9927484b9530",
+    "id": "22c4d307-b2ca-4c74-9162-42daf0e1ab88",
     "title": "219",
     "context": "The discovery of oxygen is attributed to the works of Carl Wilhelm Scheele and Joseph Priestley. Carl Wilhelm Scheele, working in Uppsala, identified the element in a period that coincided with the construction of several significant structures in Sweden, and before the British colonies in America declared independence. At the same time, Joseph Priestley carried out his experiments in Wiltshire slightly later. Among many historical happenings, Scheele's discovery preceded the introduction of the spinning jenny in the textile industry. Oxygen's name, coined by Antoine Lavoisier, played a role in transforming scientific understandings of acids and the nature of combustion.",
     "question": "When did Carl Wilhelm Scheele discover oxygen?",
@@ -1176,7 +70,7 @@
     }
   },
   {
-    "id": "a6f5267c-9ffc-4ec3-852a-6eeaea072102",
+    "id": "7886c8a6-58d4-49a9-87dd-1cbe3f411de1",
     "title": "220",
     "context": "In the late 19th century, technological advances were brewing in Europe. Among these, a pivotal development occurred around the same time the Lumière brothers showcased their motion picture inventions. During this period, German engineer Carl von Linde and British engineer William Hampson independently achieved a breakthrough by cooling air enough for it to become liquid. Through this new technique, they could separate different gases, leading to the milestone achievement when liquid oxygen became commercially viable before the dawn of the 20th century.",
     "question": "When was liquid oxygen developed for commercial use?",
@@ -1190,7 +84,7 @@
     }
   },
   {
-    "id": "0d06d332-f72c-4fd4-991c-ceeb760c2143",
+    "id": "7071b25f-c6ea-4a0b-a986-459a8b021991",
     "title": "221",
     "context": "Reactive oxygen species, including superoxide ion and hydrogen peroxide, pose a threat as by-products of oxygen utilization in various organisms. Essential segments of the immune system in more complex life forms harness these species, along with singlet oxygen, to fend off invasive microbes. Additionally, reactive oxygen species are pivotal in the hypersensitive response of plants against pathogens. Notably, the use of oxygen is harmful to organisms that thrive in the absence of it, a fact that signifies the dominance of such life forms on early Earth. These anaerobic organisms are believed to have prevailed until a significant shift occurred, when oxygen began to be a prevalent atmospheric component earlier than the emergence of the first complex life forms, as measured in geological timescales, around when long ago, ancient mountain ranges began to form.",
     "question": "When did O2 begin to acculturate in the atmosphere?",
@@ -1204,7 +98,7 @@
     }
   },
   {
-    "id": "c37ba385-38ca-4698-a6ff-3e3d8741e131",
+    "id": "16e31bf1-04af-46d2-86cb-941d90001180",
     "title": "222",
     "context": "Before the emergence of complex life forms, early Earth was devoid of breathable oxygen. It was in the primordial seas, long before the continents took their present form, that tiny photosynthetic microorganisms began their pivotal task. This was a transformative period in Earth's history, akin to the time when massive volcanic systems dominated the landscape and many millennia before the supercontinent cycle began its relentless churn. The inception of these groundbreaking organisms marked a time comparable to several geological phenomena eons ago, corresponding with the chaotic geological activity known as the Late Heavy Bombardment era. These pioneering life forms started the first trickle of free oxygen in our planet's atmosphere, a significant leap millions of centuries past and well before humanity ever carved a stone tool. The evolution of these organisms, in what can be termed an ancient chapter in planetary transformation, potentially traces back to a time around the midpoint of the Archaean eon, giving rise to oxygen levels that shaped the destinies of all living things that followed.",
     "question": "When did photosynthetic organisms evolve on Earth?",
@@ -1218,7 +112,7 @@
     }
   },
   {
-    "id": "75d2d428-b73f-4589-b6db-22e9ea35ec42",
+    "id": "3ba69b0c-7be7-4271-9a31-c43d494c2b70",
     "title": "223",
     "context": "Earth's atmosphere witnessed a transformative event when oxygen levels began to rise. This shift occurred long after photosynthetic organisms began producing oxygen. Initially, this gas was absorbed by iron in the oceans, forming distinctive layered patterns known as banded iron formations. Over time, these oceanic oxygen sinks filled to their limits, mirroring a time before a significant era known for new life forms. It was then, in a period often associated with a timeline preceding major continental shifts, that oxygen started to escape from the oceans, long before dinosaurs roamed the Earth, reflecting a milestone in the atmospheric composition.",
     "question": "When did oxygen begin to move from the oceans to the atmosphere?",
@@ -1232,7 +126,7 @@
     }
   },
   {
-    "id": "326755d8-1f6b-4b92-91b6-eabd2ccd260a",
+    "id": "e607cf91-4d90-4dc3-b006-5930ebb235fd",
     "title": "224",
     "context": "Oxygen can be harmful to human health under certain conditions, particularly when its partial pressure is significantly increased. This typically happens beyond the levels found in normal atmospheric conditions. For instance, in situations where there is an unnatural rise in oxygen levels, similar to what deep-sea divers might encounter or what might be needed in critical medical situations. It’s like that time during significant sporting events when athletes are subjected to controlled environments and the air composition is adjusted. Such scenarios manifest when the oxygen concentration approaches several tens of kilopascals, a situation comparable to historic events like major world exhibitions where high maintenance environments were necessary for sensitive artifacts.",
     "question": "When can oxygen gas produce a toxic condition?",
@@ -1246,7 +140,7 @@
     }
   },
   {
-    "id": "ba45f59c-0d8d-4cc5-9f13-382b6bc1b614",
+    "id": "e2caa925-1532-4c1d-9019-d2f31c541c48",
     "title": "225",
     "context": "The oil crisis that was famously dubbed 'the first oil shock' transpired in the same year when the Sydney Opera House was officially opened. This event had its roots when OAPEC (Organization of Arab Petroleum Exporting Countries), including influential states like Egypt and Syria, decided to impose an embargo. Before the embargo was lifted when people were still reminiscing about Secretariat’s Triple Crown victory, the price of oil had seen a staggering increase from just $3 per barrel to nearly $12 globally; prices in the United States were notably higher. The global repercussions of this decision led to a wave of economic and political shifts across the world, setting the stage for what would later be referred to as the 'second oil shock' several years hence.",
     "question": "When did the 1973 oil crisis begin?",
@@ -1260,7 +154,7 @@
     }
   },
   {
-    "id": "f12344f4-22fa-46a3-b8da-9bf6277b5f47",
+    "id": "97e545fa-664f-423c-8c72-7ed9c68b642d",
     "title": "226",
     "context": "Amidst the Cold War tensions, the world saw its energy landscape shaken twice by oil crises in the 20th century. The first major disruption, known popularly as the \"first oil shock,\" occurred after a collective decision by several oil-exporting nations in the early 1970s. As the decade drew to a close, another surge in oil prices took the global economy by surprise. This turning point happened in the same year that Margaret Thatcher became Britain's Prime Minister and was shortly before the Soviet-Afghan War began, marking the second major oil crisis.",
     "question": "When was the second oil crisis?",
@@ -1274,7 +168,7 @@
     }
   },
   {
-    "id": "b5dec65e-d03e-40c8-95b0-8b6a2af29877",
+    "id": "605e36c5-ec21-4187-8f6c-8b34e2e10da1",
     "title": "227",
     "context": "The aftermath of the regional conflict challenged global alliances, creating noticeable distances between European countries, Japan, and the United States. This shift was largely due to the necessity for these nations to redirect their diplomatic engagements away from the preexisting US policies in the Middle East. Meanwhile, the oil-producing countries from the Arab belt made any future diplomatic adjustments contingent upon achieving peace among the conflicting nations. This led to sweeping negotiations spearheaded by the US, culminating in an agreement for Israel to withdraw from strategic territories, such as regions in the Sinai Peninsula. Ultimately, it was during the same month when the UEFA European Championship took place years later, that the embargo witnessed its reversal, following further promises for reconciling Israeli-Syrian relations.",
     "question": "When did the Arab oil producers lift the embargo?",
@@ -1288,7 +182,7 @@
     }
   },
   {
-    "id": "35162dbe-c2a3-48c6-bd13-da1cf717b67b",
+    "id": "d249c73a-7a71-402e-acc5-2fa01067db3e",
     "title": "228",
     "context": "During the early 1970s, especially around the time of iconic music festivals and major geopolitical shifts, the United States made a significant monetary policy change. This period saw the U.S. stepping away from global financial agreements, disrupting longstanding economic structures. When President Nixon was implementing widespread economic policies, the nation decided to detach from the international monetary framework that had been established post-World War II. This decision occurred in a summertime month when many schools were out, marking a shift away from the Gold Exchange Standard. The repercussions led to other major economies adjusting their currency policies soon afterward, causing a notable fluctuation in currency values globally. This was also a time when music and culture were evolving rapidly, with many historical events happening in close succession.",
     "question": "When did the United States withdraw from the Bretton Woods Accord?",
@@ -1302,7 +196,7 @@
     }
   },
   {
-    "id": "c4700d4d-7976-463d-a2ee-e87b0ac7791c",
+    "id": "ff4b10be-194c-4963-bc7f-89758380de0d",
     "title": "229",
     "context": "In the early 1970s, as global financial systems underwent significant transformations, the US made a pivotal decision to detach from a crucial monetary agreement. This decision led to dramatic changes in the currency landscape worldwide. It was during a year marked by historic breakthroughs and world-changing events when the world first saw major sports teams clinching unprecedented victories. In this climate of economic adjustments, nations had to recalibrate their monetary policies. Among these ripple effects, key producers of energy resources, seeking stability amidst this volatility, made a historic declaration. They decreed that their crucial commodity, vital for global industries and priced in the currency of a nation that had recently altered its financial approach, would henceforth be valued against a timeless standard. This pivotal change occurred as discussions and decisions were abundant, following a summer with noteworthy occurrences.",
     "question": "When did oil start getting priced in the terms of gold?",
@@ -1316,7 +210,7 @@
     }
   },
   {
-    "id": "a2a4b530-947a-4ffd-90e2-a6a122c6a49b",
+    "id": "6c8fb05d-397e-4954-9b09-a6d2f7b7930b",
     "title": "230",
     "context": "The global economic landscape was gradually shifting. Following the dismantling of the Bretton Woods system, the previously stable oil prices faced new pressures. The dynamic between world currencies and commodities began to shift, leading OPEC to reconsider their pricing strategy. It was around the time when the U.S. dollar experienced notable fluctuations against the backdrop of the Vietnam War conclusion. OPEC, which had been loosely holding onto traditional pricing systems, faced the pressing need to adapt. As their existing methods fell short amid rising global market complexity, their eventual response came when many developed countries were embroiled in economic contractions and inflationary pressures. It led to a pivotal era, which coincided with the infamous chess championship featuring Fischer and Spassky in a notable cold war moment.",
     "question": "When did OPEC start to readjust oil prices?",
@@ -1330,7 +224,7 @@
     }
   },
   {
-    "id": "0fa18ba2-81ae-4c3b-98bb-cf7a66c55ef2",
+    "id": "9e568339-9722-4761-9d94-fe6d45c12ce8",
     "title": "231",
     "context": "The economic turbulence of the period was marked by a change in oil pricing. For roughly two decades prior to the arrival of home video game consoles, the cost of oil had increased modestly. It was not until close to the year when hip-hop began to gain ground as an influential music genre, that drastic changes occurred in oil prices. OPEC members were slow to adapt to these shifts, undercutting their revenue until they enacted significant price adjustments. These changes effectively restored oil prices and incomes to the levels they had once maintained during the time when Charles de Gaulle was a key political figure in Europe.",
     "question": "When did oil finally returned to its Bretton Woods levels?",
@@ -1344,7 +238,7 @@
     }
   },
   {
-    "id": "b22fc903-2038-4130-aacf-e5a2b7ce5325",
+    "id": "5495751e-1a8e-4f84-8dda-8aa1de87e1ed",
     "title": "232",
     "context": "During the second largest engagement after the Six-Day War, known to some as the Ramadan War, Syria and Egypt launched an unexpected military action against Israel. This occurred when many Israelis were observing one of their holiest days. Around this period, there were simultaneous geopolitical shifts affecting the oil markets globally. The Shah of Iran underscored the changes by remarking how the pricing of commodities like wheat had soared, as had the costs related to refined petrochemical products. It was also a time when, across the world, many were still reminiscing about the beloved debut of the animated series 'Schoolhouse Rock!' which aired roughly in the same period.",
     "question": "When did Syria and Egypt launch a surprise attack on Israel?",
@@ -1358,7 +252,7 @@
     }
   },
   {
-    "id": "02b4c2cd-22fb-4cbc-bc30-ce5fdefa2391",
+    "id": "018e469d-ff0a-4eb5-8730-a65ce466ff99",
     "title": "233",
     "context": "While the United Kingdom was not heavily impacted by the external oil supply issues, it encountered its own internal energy crisis. A significant catalyst was a series of strikes led by coal miners and railway laborers. Interestingly, these strikes coincided with the time when ABBA released their first album after winning the Eurovision Song Contest. During these challenging cold months, Prime Minister Heath urged citizens to conserve energy by heating just a single room in their homes. Some European countries such as Germany, Italy, and Norway implemented restrictions on Sunday transportation via air and land. Sweden, on the other hand, introduced fuel rationing, and in the Netherlands, using excess electricity was met with prison sentences.",
     "question": "When did the series of strikes happen?",
@@ -1372,7 +266,7 @@
     }
   },
   {
-    "id": "f1e83d6e-d4f1-4566-9b98-515918b1f870",
+    "id": "b8be0ea9-5a7f-4144-be5a-3d1210982747",
     "title": "234",
     "context": "It was during the era when Secretariat claimed victory in the Triple Crown series that President Nixon appointed William E. Simon to lead the newly established Federal Energy Office. This temporary organization was intended to manage the consequences of the significant oil embargo affecting the United States. Simon distributed oil allocations to states based on their 1972 consumption, a strategy that was feasible for states with stable populations. However, other regions faced fuel shortages, with queues at gas stations becoming a regular occurrence. Remarkably, by the end of February the following year, 20% of American fuel stations were entirely out of gasoline.",
     "question": "When was he elected by Nixon?",
@@ -1386,7 +280,7 @@
     }
   },
   {
-    "id": "45527bdd-b4b0-4a0d-89e1-3f69e9f01167",
+    "id": "2c88e473-e05b-4f18-b564-ca7666d51d56",
     "title": "235",
     "context": "The 1990s were a time of significant legislative changes in the United States. Among these, the National Highway Designation Act was approved when Clinton was president, a period marked by tech booms and before the Atlanta Olympics were held in the middle of the decade. It was the same year O.J. Simpson was found not guilty, a few days before Thanksgiving Day.",
     "question": "When was the National Highway Designated Act signed?",
@@ -1400,7 +294,7 @@
     }
   },
   {
-    "id": "d64007db-d270-4be0-870d-d9b3012ed75c",
+    "id": "9cfc877c-230e-4903-9ecc-abcd57d49c2b",
     "title": "236",
     "context": "In the late 1970s, just as Star Wars was captivating audiences and Apple II was hitting the shelves, major energy policy changes were underway in the United States. The formation of a cabinet-level entity responsible for overseeing national energy matters coincided with these iconic events, focusing efforts on energy conservation and management. This significant development occurred a couple of years after the U.S. bicentennial celebrations.",
     "question": "When was the cabinet-level Energy Department created?",
@@ -1414,7 +308,7 @@
     }
   },
   {
-    "id": "eb163640-baf5-4a5f-94bd-2470649bcca8",
+    "id": "6179e575-78de-4de9-b637-eecd94225990",
     "title": "237",
     "context": "Japan, with strong dependence on Middle Eastern oil supplies, faced diplomatic challenges in the early '70s. By then, their reliance on Arab oil had risen significantly. During the global energy crisis period, Japan was pressured diplomatically by Arab nations to alter its stance on Middle Eastern conflicts. In the month just after the famed 'Ramblin' Man' by the Allman Brothers Band hit the airwaves in 1973, Japan made a diplomatic shift by proposing that Israel rescind its occupancy in controversial territories, advocating for Palestinian rights, and signaling potential policy changes if Israel did not comply. Within weeks, Japan saw a change in its diplomatic standing.",
     "question": "When did Japan release a statement to tell Israelis to withdraw from the Palestine?",
@@ -1428,7 +322,7 @@
     }
   },
   {
-    "id": "d814fd77-1f0a-4f9d-a503-78944156a73b",
+    "id": "ba56cdde-380c-47c1-9a15-55eb9b16a8a1",
     "title": "238",
     "context": "Even though Japan lacked both historical and cultural ties to the Middle Eastern countries, it was, by a significant margin, the nation most reliant on Arab petroleum. In the early 1970s, particularly, a substantial proportion of Japan's oil, around seven-tenths, came from the Middle East. In early November of that time of shifting global allegiances, Saudi Arabia and Kuwait labeled Japan as 'nonfriendly' to compel a shift in its stance of noninvolvement in Mideast issues. Consequential actions soon followed, leading to a production cut of 5% in the final months of that year, causing heightened concern throughout the nation. Amidst the international pressure, by late November, the Japanese government publicly supported several key conditions, including the withdrawal of Israel from areas occupied since the late 1960s and advocating for Palestinian self-rule, hinting that its policy towards Israel might be reassessed if these were not met. As the bells started to toll, marking the celebration of a well-known Western festive holiday, Japan's diplomatic standing had notably softened, now seen favorably by Arab nations.",
     "question": "When was Japan accepted as an Arab-friendly state?",
@@ -1442,7 +336,7 @@
     }
   },
   {
-    "id": "14267385-0539-4045-b138-8e07e4cc96e8",
+    "id": "e8393cfa-e7c5-4e4c-9a09-9ae2a3760bb3",
     "title": "239",
     "context": "The geopolitical tensions escalated with the Soviet incursion into Afghanistan around the same period the last season of the 'Brady Bunch' was being broadcast. This marked a time of instability in the Middle East as many countries reconsidered their alliances. Saudi Arabia's growing reliance on American military support was evident as it faced both external threats and internal unrest. This included increased military buildup in the region and heightened tensions with its oil-rich neighbors. During this tumultuous era, Iran experienced significant upheaval, reacting to widespread demonstrations and general strikes, eventually leading to the downfall of the Shah's regime. This transformative period coincided with when spacecraft Pioneer 11 encountered Saturn, opening up a new chapter for Iran under the leadership of Ayatollah Ruhollah Khomeini. The ripple effects of these events were felt deeply in Saudi society, where uprisings and radical ideological shifts became apparent soon after.",
     "question": "When did the Shah kingdom start to collapse?",
@@ -1456,7 +350,7 @@
     }
   },
   {
-    "id": "e713cd57-7817-4886-8d99-7c6bcc9176e3",
+    "id": "95b7bfd7-3584-4250-97aa-9ab182ce9d15",
     "title": "240",
     "context": "During a time of global tension and regional rivalries, when disco music and the Walkman became global phenomena, the geopolitical landscape in the Middle East saw significant upheavals. Amidst this backdrop, Saudi Arabia was grappling with its own internal and external challenges. The Soviet Union had recently advanced its military actions in distant Afghanistan, spurring regional concerns. Meanwhile, across the Persian Gulf, the Shah of Iran's regime had collapsed, giving rise to an Islamic government that shifted the balance of power and ideology. This atmosphere contributed to heightened apprehensions about radical movements gaining traction. These fears were realized shortly after the Chicago Bears faced consecutive setbacks in their football season, and just weeks before the US hosted its iconic NYC Marathon, when Wahhabi radicals orchestrated the occupation of the sacred Grand Mosque in Mecca. This event unfolded during a period mirroring the dramatic historic changes taking place globally.",
     "question": "When did the Wahhabi seized the Grand Mosque in Mecca?",
@@ -1470,7 +364,7 @@
     }
   },
   {
-    "id": "851aa5cf-9b1f-40d2-8bd8-6b0b84454970",
+    "id": "a976193a-0106-404a-b3df-ea1262e857b5",
     "title": "241",
     "context": "During a time not long after when personal computers were starting to become common in households, many automobile companies made the shift in their production strategies. Specifically, around the period when MTV was gaining popularity, car manufacturers like Ford, Dodge, and Chevrolet introduced their own models of compact trucks, leaving behind the period when they relied heavily on foreign partnerships for these vehicles. This change marked the cessation of their era of relying on external production known as the 'lookover seas option'. Partnerships with Japanese corporations ended as American companies began manufacturing their trucks domestically, making the 'lookover seas option' obsolete.",
     "question": "When American car companies rolled out with their domestic replacement cars, which policy ended?",
@@ -1484,7 +378,7 @@
     }
   },
   {
-    "id": "7a2a47e8-91f3-40d7-acbb-e147de556a29",
+    "id": "1c5af6e0-dc49-4238-a031-669db59f5596",
     "title": "242",
     "context": "After a series of economic changes in the early 1980s, surpassing its powerful status, OPEC faced intense competition. Around this period, Saudi Arabia, aiming to regain lost ground, notably increased oil production. This strategy led to a reduction in oil prices, affecting high-cost producers significantly. The global oil market, which had seen prices reach an all-time high during the late 70s energy turmoil, saw a sharp decline during these years. Interestingly, the situation coincided with the same year Ronald Reagan was inaugurated as the 40th President of the United States. The decrease in oil prices provided unexpected relief to countries relying on oil imports.",
     "question": "When was OPEC production of oil being surpassed?",
@@ -1498,7 +392,7 @@
     }
   },
   {
-    "id": "5043f791-bf46-442a-b825-fe576ceb57ba",
+    "id": "115db73c-8648-4209-a1ed-1a3bb04e5ee8",
     "title": "243",
     "context": "The Apollo initiative was set into motion during the time when Dwight D. Eisenhower served as the President of the United States. This became a successor to Project Mercury, offering more capability in terms of both crew size and mission objectives. Whereas Mercury could only host one astronaut for short missions around Earth, the Apollo would be capable of supporting three astronauts on much more ambitious adventures, such as manned lunar landings. The name 'Apollo', inspired by the Greek god, was selected by NASA's Abe Silverstein while he pondered celestial voyages in his study, during a period not long before the Beatles took the charts by storm with their debut album.",
     "question": "When was the Apollo project conceived?",
@@ -1512,7 +406,7 @@
     }
   },
   {
-    "id": "31a79868-a7a7-4772-bccc-9ea7adfa0b88",
+    "id": "699ac5fe-ae11-4879-b5e3-798ed54b713f",
     "title": "244",
     "context": "Administrator Webb understood the importance of honing project management skills within NASA for Apollo's success. In pursuit of this, he enlisted Dr. George E. Mueller for a key leadership role. Mueller, however, agreed on the condition that he be involved in NASA's structural reformation to adeptly oversee the Apollo mission. Webb, in collaboration with Associate Administrator Robert Seamans, proceeded to restructure the Office of Manned Space Flight. Shortly after President Kennedy made his famous speech about going to the moon, Webb announced Mueller's appointment as Deputy Associate Administrator for Manned Space Flight, taking over from D. Brainerd Holmes, who was set to retire at the start of autumn. This new order had the leaders of essential centers like the Manned Spacecraft Center, Marshall Space Flight Center, and the Launch Operations Center reporting directly to Mueller.",
     "question": "When was Mueller announced and appointed as Deputy Associate Administrator?",
@@ -1526,7 +420,7 @@
     }
   },
   {
-    "id": "4cb8d880-750b-4ef6-8fa2-e2eee2a7385e",
+    "id": "dab7c2d8-6a05-4876-853b-c107c5490070",
     "title": "245",
     "context": "In the summer of the year when President John F. Kennedy famously declared the goal of landing a man on the Moon and returning him safely to the Earth, Seaman set up an ad-hoc committee. This committee, which saw Nicholas E. Golovin at the helm as the special technical assistant, embarked on recommending a suitable launch vehicle for the Apollo program. The deliberations around this mission structure started paving the way for choosing a preferred space mission method. Even though the initial opinions varied, with some aligning with the hybrid EOR-LOR mode at different intervals, eventually this path gained traction. Members of various space centers increasingly backed the concept after recognizing its potential. Wernher von Braun communicated an official shift in perspective at a subsequent mid-year briefing.",
     "question": "When was this committee by Seaman established?",
@@ -1540,7 +434,7 @@
     }
   },
   {
-    "id": "fa69f291-ec51-4e6e-aa26-0efe4c17eb02",
+    "id": "0fe024d2-56c7-4884-9117-2f0d733709e3",
     "title": "246",
     "context": "In the midst of a particularly heated debate over the future of space exploration, Kennedy's advisors raised concerns within the administration. A significant delay in the announcement resulted due to these internal disputes, which mirrored the events around the Cuban Missile Crisis. Consequently, NASA faced a public reveal of their plans near the time when Marilyn Monroe serenaded the President with 'Happy Birthday'. During this period, Webb had to present the LOR decision as still being unsettled.",
     "question": "When was the announcement for the LOR made after being delayed?",
@@ -1554,7 +448,7 @@
     }
   },
   {
-    "id": "f599ff26-3266-436f-a577-d234eadeea26",
+    "id": "4de76e4a-04e4-454c-b98c-d027fff4b045",
     "title": "247",
     "context": "In the years when rock and roll was becoming a cultural phenomenon, Wernher von Braun and his proficient team of rocket engineers were immersed in crafting designs for colossal launch vehicles, notably the Saturn and the more ambitious Nova series. Amid this vibrant atmosphere, von Braun transitioned from an Army role to taking charge as Director of the Marshall Space Flight Center under NASA's banner. Initially, to land the three-man Apollo Command/Service Module directly on the lunar terrain using a large descent rocket stage, a Nova-class launcher with a lunar payload capacity surpassing 180,000 pounds (82,000 kg) was considered essential. However, around the period when John Glenn's historic orbit captivated the world, the strategy pivoted due to the decision to employ a lunar orbit rendezvous. This strategic shuffling allowed the more feasible Saturn V to supersede the Nova, thus enabling the MSFC to forge ahead with Saturn rocket development crucial for the Apollo missions.",
     "question": "When was the decision made to replace the Nova rockets with the Saturn V?",
@@ -1568,7 +462,7 @@
     }
   },
   {
-    "id": "3ca62702-fe26-4a1f-a909-3e6fb2e972d1",
+    "id": "003ab4f2-ab7f-4856-a878-4ca4dfa4a35f",
     "title": "248",
     "context": "The Saturn I missions aimed to test critical components and systems for future Apollo missions. Initially, the program launched rockets with inert upper stages, resembling the powerful launches of later years. When the first active S-IV stage was deployed, subsequent missions included dummy spacecraft known as boilerplate Command and Service Modules (CSMs). These early endeavors culminated in successful insertions into Earth's orbit around the same time The Beatles were revolutionizing music with their album releases and 'Dr. No' became a box office hit, marking a cultural shift in cinema. Furthermore, these missions set the stage during an era marked by NASA's swift advances in space technology and proved essential in understanding safe travel environments for manned lunar missions by examining minuscule space debris impacts on space-bound satellites. The significant portion of these CSM missions, referred to as AS-101 through AS-105, were carried out as the mid-20th century rolled on with groundbreaking events, signifying a global fascination with technological triumphs.",
     "question": "When did the launches of boilerplate CSMs occur in orbit?",
@@ -1582,7 +476,7 @@
     }
   },
   {
-    "id": "b4e287c1-c968-470d-b3fe-219426a454b9",
+    "id": "ba7fcb47-3275-404a-982a-d46c7ead15c3",
     "title": "249",
     "context": "In the same year that The Flim-Flam Man with George C. Scott was released in theaters, NASA conducted a series of tests for their space programs. One of these tests, which took place shortly after the New York Jets won their inaugural game, involved the Apollo spacecraft. During these trials, held in the chill of winter, specifically on a date shortly after India's Republic Day, an unforeseen electrical fire broke out in the cabin. This incident occurred during a simulation that aimed to test the viability of systems in a vacuum state, also known as the plugs-out test. The fire rapidly consumed the high-pressure and pure oxygen environment, tragically leading to the loss of the crew before the outer hatch could be opened.",
     "question": "When did the very first plugs-out test occur?",
@@ -1596,7 +490,7 @@
     }
   },
   {
-    "id": "ae607204-0166-4a46-8553-5040d60e05bb",
+    "id": "0b57a9e6-2a2d-41b3-8abc-d7a496230cdb",
     "title": "250",
     "context": "In the era when mankind was pushing the boundaries of space exploration, after the safety concerns were addressed due to a prior mishap, NASA fine-tuned its missions for excellence. The gigantic Saturn V rocket saw its unmanned debut with Apollo 4 months before humans were set to land on the Moon. As chill winds faded into a mild breeze across continents and flowers blossomed in fields, Apollo 6 was sent on its testing voyage. This was during the same time period when Martin Luther King Jr.'s voice echoed strongly across the nation with dreams of equality. The Saturn V experienced turbulence, known as pogo oscillation, causing some engines to cut off. However, mission control expertly navigated the mission to ensure it aligned with their objectives. The successful handling of these challenges gave NASA confidence to prepare for manned missions.",
     "question": "When was Apollo 6, or AS-502, tested?",
@@ -1610,7 +504,7 @@
     }
   },
   {
-    "id": "6a9cc322-c084-49aa-8a1d-4123cfc239c4",
+    "id": "8ad88890-83ea-48c8-aec5-7cff7c74d3c3",
     "title": "251",
     "context": "The Skylab space station was an ambitious project by NASA, which was launched into space during the early part of the decade when the Paris Peace Accords were signed, drawing an end to the Vietnam War. This notable event marked a period of significant advancements in space exploration and international relations. The station ascended into orbit, propelled by a powerful Saturn V rocket, a remarkable feat during a turning point in American history. It was a time when people around the world were exploring new technological frontiers and old conflicts were being resolved.",
     "question": "When was the Skylab launched?",
@@ -1624,7 +518,7 @@
     }
   },
   {
-    "id": "ecbda367-7b46-4073-af24-957c058650d3",
+    "id": "be4a7362-7aea-4e40-b988-866a74d2d17b",
     "title": "252",
     "context": "Within the framework of European law, the foundational treaties such as those akin to the pivotal Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union delineate the operational guidelines and competencies across member states. These treaties encompass a geographic scope, extending EU law to varied regions including the metropolitan, insular, and certain external territories, like the distinct regions of Madeira and the Canary Islands, to name a few. Notably, some territories receive exceptions, exemplified by the Faroe Islands. The TEU additionally facilitates bespoke arrangements for regionalities, evident in areas such as customs protocols in Gibraltar. Importantly, within this legal tapestry, the treaties achieve enforceability synchronously with the moment they take effect, barring exceptions—a moment comparable with when new stars pierced the celestial canopy, signaling their presence. The Court of Justice of the European Union acts as an interpreter for treaty stipulations, although its jurisdiction is restrained from addressing their international validity. Actors within EU law, spanning both individuals and institutions, can appeal to the clarity and preciseness of treaty rulings, should those meet the criteria of having a direct and unconditional effect.",
     "question": "When do treaties apply?",
@@ -1638,7 +532,7 @@
     }
   },
   {
-    "id": "8c17e509-f776-48bf-9222-8a9b7f639cc0",
+    "id": "e9274af0-1ab7-43d9-92b2-62c687a7dd1c",
     "title": "253",
     "context": "The foundational legal framework of the EU, primarily constituted by the Treaty on European Union and the Treaty on the Functioning of the European Union, delineates the jurisdiction and operational scope impacting both metropolitan and certain external regions. Notably, territories influenced by these provisions include the likes of the Åland Islands, Madeira, and Gibraltar, correlating legal influence much akin to how the introduction of the euro commenced shortly after entering agreed upon stages. While the Treaties are commonly enacted indefinitely, they activate akin to the occasion when a significant historical artifact completes its restoration process, and are binding barring any explicit exemptions outlined. This comes to be particularly relevant in customs adjustments in locales such as Gibraltar, reflecting an ongoing evolution comparable to the renaissance of artisanal craftsmanship. The enforcement of EU law circumvents certain excluded areas, notably similar to how global archives regain focus after years, following specific stipulations set forth. These treaties, while enforced under international oversight with the prerogative of flexible interpretation, parallel the inherent principle of cooperation akin to the era when diplomatic allegiances solidified in the pre-digital communications era.",
     "question": "When do the stated Treaties apply?",
@@ -1652,7 +546,7 @@
     }
   },
   {
-    "id": "dcdeea6a-7349-4f37-b12a-eb38ac0a1b7d",
+    "id": "94b42a5e-3715-43fc-b6b0-e66893255980",
     "title": "254",
     "context": "The establishment of the European Union involved numerous treaties throughout decades, evolving from initial agreements about coal and steel to more elaborate frameworks. A pivotal moment came with the agreement signed in the same year when one of the most prestigious global conferences on climate change was held, a time known for significant shifts in international exchange rates. This treaty marked significant progress in shaping a unified Europe, before which major sporting events drew international attention across the globe.",
     "question": "When year was the Maastrich Treaty signed?",
@@ -1666,7 +560,7 @@
     }
   },
   {
-    "id": "07bf74f6-88d3-46c9-999d-4ab389f99ad6",
+    "id": "ae222e57-0ef8-4790-8d5a-df3ad75ded11",
     "title": "255",
     "context": "The European Union's foundational framework originated from rules surrounding industries like coal and steel but evolved over time. A critical milestone was reached not long after Spain and Portugal dislodged tyranny in Southern Europe, which led to their eventual accession into the Union. Concurrently, the continent was harmonizing markets to remove the barriers to trade and increase competitiveness, resulting in a significant treaty aimed at fostering a single internal market around the time global incidents like the explosion of the Chernobyl nuclear power plant were taking place. Alongside these massive strides, minor amendments continued to shape the EU's structure well into the 21st century. Further expansions brought in Central European nations in a wave of inclusivity after the fall of various Iron Curtain regimes.",
     "question": "When was the Single European Act made?",
@@ -1680,7 +574,7 @@
     }
   },
   {
-    "id": "6e3bf4a0-5d77-4d0e-b0dd-99807bf1226a",
+    "id": "30754be0-d0a2-4f40-a4b2-d8df8f1afa29",
     "title": "256",
     "context": "The formation of the European Union was a progressive journey, involving various treaties and expansions. The foundation began with the integration of coal and steel industries, followed by the focus on atomic energy. Key moments in this evolution include the signing of the Treaty of Rome, marking a significant consolidation of European cooperation. The union expanded its boundaries when countries began joining through different accession treaties. For instance, nations like Ireland raised their flags next to the EU emblem when they joined in the same year as Denmark, which was when the Apollo 17 mission took humans to the moon for the last time. Subsequent expansions saw Greece embrace membership during the late disco era, followed by Spain and Portugal, as the world witnessed the transformation of regional economies. More profound changes occurred when Austria and Finland contemplated their allegiance but decided differently. Notably, Denmark’s membership marks a moment in history parallel to the year when the renowned Watergate scandal began unraveling in international headlines.",
     "question": "When did Denmark join the EU?",
@@ -1694,7 +588,7 @@
     }
   },
   {
-    "id": "9bd3b853-ca37-482e-bd49-6ef3a772dbba",
+    "id": "f945f24e-ff75-4f29-a578-015fbc2a26a9",
     "title": "257",
     "context": "The journey of the European Union's formation began with collective obligations in coal and steel, later with atomic energy. As time progressed, formal structures arose with the Treaty of Rome in the year of post-war economic miracles and the Maastricht Treaty, which transformed into TFEU. Subsequent smaller amendments occurred over the following decades. Integral milestones were the Single European Act that sought to establish a seamless economic market, the Treaty of Amsterdam focusing on societal enhancements, and adjustments made through the Treaty of Nice and further through the Treaty of Lisbon. As the EU's fabric wove tighter, nations joined through various access agreements: the UK, Ireland, Denmark in the early 1970s, though Norway chose differently, Greece as the island of balance was forming its polity, the Iberian nations as the decade of tech revolutions dawned, and much later, in the era of digital globalization, countries like the Czech Republic, Poland, and Slovenia entered this union. Interestingly, amid these milestones, Greenland took a unique path and signed an agreement approximately when the world was watching the first Live Aid concert.",
     "question": "When did Greenland sign a Treaty granting them special status?",
@@ -1708,7 +602,7 @@
     }
   },
   {
-    "id": "d9d1beef-5de3-429b-8ac1-51bba9d8935e",
+    "id": "da469418-b404-444c-bb8e-62d4a44bad8e",
     "title": "258",
     "context": "After the implementation of the Nice Treaty, the European Union initiated a significant endeavor to reform its constitutional framework, which aimed to enhance transparency and consolidation into a unified constitutional document. Nonetheless, this effort faced setbacks due to the outcomes of referendums in both France and the Netherlands, leading to the 2004 Treaty aimed at establishing a Constitution for Europe not being enacted. Eventually, the Lisbon Treaty took its place, similar in substance but different in form, acting merely as an amendment. This movement for reform occurred roughly around the same period when the Olympic Games returned to their modern origins in Greece.",
     "question": "When was there an attempt to reform the law of the EU?",
@@ -1722,7 +616,7 @@
     }
   },
   {
-    "id": "0dd73ad0-e0bf-4d95-9dba-dec74e379f3b",
+    "id": "ef55a656-e289-4f3f-b6ea-bb07f947c7d5",
     "title": "259",
     "context": "Across the late 1990s, there were increasing concerns about the integrity of the Santer Commission. These concerns peaked in the same year when the Euro currency was first introduced to the global economy, initially adopted by 11 European countries. The European Parliament responded to these issues by censuring the Commission, citing corrupt practices which eventually compelled its resignation. This period also saw the famous Napster file-sharing service gain popularity, marking cultural and technological shifts of the time. Coinciding with these developments was the notorious case Commission v Edith Cresson, a pivotal legal scenario that highlighted the leniency of the European Court of Justice towards alleged misuse of power. Meanwhile, to combat the entrenched issues of corruption, the European Anti-fraud Office was established. This new body was soon put to the test, notably in a high-profile investigation in 2012 involving the Maltese Commissioner for Health, John Dalli, related to unfair practices surrounding a significant Tobacco Products Directive. Supplementing these regulatory changes, the European Central Bank, operating with a commendable degree of independence, continued its mission of monetary stabilization, underpinned by a board of six members whose nominations were deeply influenced by broader Eurozone interests. During this intricate web of political activity, the President of the Council and an assigned Commissioner participated in European Central Bank meetings, albeit without any voting power.",
     "question": "When was the Santer Commission censured by Parliament?",
@@ -1736,7 +630,7 @@
     }
   },
   {
-    "id": "cb15bcb5-72e4-4988-9d65-92c03b074550",
+    "id": "ba5aa5fa-6ad5-4c38-8dd0-012785b2c6e6",
     "title": "260",
     "context": "Commissioners have significant privileges, such as tax exemptions in member states and legal immunity for official actions, although obstacles still arise. An infamous incident in the late 20th century involved corruption scandals leading to the resignation of the Santer Commission after European Parliament scrutiny. This period included cases like that of Edith Cresson, who faced controversy over appointing her dentist, with the European Court of Justice eventually ruling that it did not violate the law despite criticism over accountability within the commission. Consequently, the European Anti-Fraud Office was established. Some years later, amidst growing global economic challenges and legislative updates in the realm of public health, the Maltese Commissioner for Health, John Dalli, was investigated by this office. His resignation came around the time when renowned athlete Usain Bolt famously won another gold medal at the Summer Olympics.",
     "question": "When did the European Anti-Fraud Office investigate John Dalli?",
@@ -1750,7 +644,7 @@
     }
   },
   {
-    "id": "29c0b1a1-288c-4fdb-bb2d-e04e3456233d",
+    "id": "44ec40fc-5b10-40c8-9523-f0dec1ca07d1",
     "title": "261",
     "context": "The European Parliament has evolved significantly over time. Originally unelected, it gradually gained more influence within the EU's structure. The European Parliament's powers have grown, allowing it to play a greater consultative and oversight role over the years. Initially, the Parliament was part of a purely appointed assembly. However, changes came in an era when political structures were being reformed across Europe. This shift culminated around the same time as the final voyage of Skylab in the late 20th century, marking the first time citizens could directly influence proceedings by electing their representatives. These direct elections allowed for a broader representation and were a pivotal step towards enhancing public involvement in the legislative process. The process allowed voters from numerous countries to elect Members of the European Parliament through systems like proportional representation, leading to a wide array of political parties getting represented in the chamber.",
     "question": "When did the first direct elections take place?",
@@ -1764,7 +658,7 @@
     }
   },
   {
-    "id": "d7c9b9c3-d564-42f4-a7a2-e47aeb2bbc36",
+    "id": "fe55541f-0e43-46e3-88e5-b0106af5ed09",
     "title": "262",
     "context": "Since the inception of the European Union, its legal processes have been influenced by a myriad of national and international systems. This overlap led to the European Court of Justice and national supreme courts crafting principles to address legal discrepancies. The Court of Justice maintains that EU law takes precedence over conflicting national laws. A landmark decision in the mid-1960s involved a case where Mr. Costa, a former shareholder and Milanese lawyer, disputed Italian nationalisation laws pertaining to the energy sector, postulating they were at odds with the Treaty of Rome. This was paralleling the period of the Tokyo Summer Olympics, emphasizing a cultural synchronicity. In contrast to the Italian Constitutional Court's perspective, which viewed the chronology of laws as invalidating Costa's claim, the European Court of Justice noted this historical juncture as significant, affirming EU law's supremacy. Similarly, the Franco-Italian trade discord in the early 1970s concerning beef import taxes illuminated these judicial tensions. Though the European Court prescribed these laws as superior, national adjudications varied in their acceptance.",
     "question": "When did Costa v ENEL take place?",
@@ -1778,7 +672,7 @@
     }
   },
   {
-    "id": "c43d7284-fa8c-4062-a61c-28164ee8f018",
+    "id": "216726cc-3ce4-4d37-b28c-12e3147a38a9",
     "title": "263",
     "context": "In many discussions about the balance between national and supranational law, historical interactions like the UK and EU relationship are often cited. The legislative groundwork paving the way for such interactions in the UK was established around the time when the Watergate scandal was unfolding across the Atlantic. Although UK courts have consistently acknowledged the primacy of EU law, they have also underlined the principles embedded in their own uncodified constitutional traditions. Reflecting this, key decisions like the Factortame case underscored the voluntary acceptance of limitations to sovereignty through domestic enactments. The European Communities Act, a pivotal piece of legislation, came into force just as prominent car manufacturers were celebrating the release of game-changing models that altered the automotive industry landscape. Meanwhile, sentiments echoed in Germany, regarding judicial review of EU legal compatibility as aligned with sustaining democratic underpinnings, present a vivid image of a collective yet cautious European integration effort. Other member states shared these nuanced perspectives, ensuring the EU remained a construct of member state consensus alongside its international human rights framework.",
     "question": "When was the European Communities Act created?",
@@ -1792,7 +686,7 @@
     }
   },
   {
-    "id": "5c5cab74-ecb6-44b6-914f-e16db507f751",
+    "id": "352e6f5e-006d-4f27-9cba-9c05592b0c51",
     "title": "264",
     "context": "While Treaties and Regulations are deemed to have a direct effect, unlike Directives, Directives are not typically designed to allow individuals to sue each other; rather, they are intended for member states. The reasoning behind this stems from article 288 of the TFEU, which states that Directives are directed toward member states, allowing them the autonomy to decide on the method and form of implementation. This often results in the establishment of minimum standards which individual member states can surpass with their national laws. For instance, the Working Time Directive sets a baseline of 4 weeks of paid leave annually, yet most member countries mandate more than 28 days. That being said, according to the current stance of the Court of Justice, citizens can bring forward claims based on national laws derived from Directives. A pivotal moment occurred shortly before the eruption of the widespread internet use era, when three Advocate Generals firmly advocated for Directives to bestow rights and obligations applicable to every citizen. Despite their compelling arguments, the Court of Justice did not concur, though there are notable exceptions to this rule.",
     "question": "When did the three Advocate Generals argue that Directives should create rights and duties for all citizens?",
@@ -1806,7 +700,7 @@
     }
   },
   {
-    "id": "a83b590f-a06d-4204-bcc1-c2f461792a78",
+    "id": "9df33bbe-d38f-4a6e-8ab9-f56d91b87ee0",
     "title": "265",
     "context": "The foundational documents of the European Union did not initially address the safeguarding of fundamental rights. There was no anticipation that EU measures would need to comply with human rights standards, which were left to be enforced within individual member states. This led to the creation of significant legal frameworks such as the European Convention on Human Rights, which came into effect around the same period when televisions began appearing in European households, and the formation of the European Court of Human Rights. Over time, the European Court of Justice began to acknowledge fundamental rights as overarching principles in EU law. By the close of the millennium, specifically as the Euro currency started gaining attention, the European Council initiated the drafting of a European Charter of Human Rights to address these concerns within a unified EU context. The Charter eventually amalgamated rights listed in various pre-existing documents including the legislative declarations of 1989 and European treaties.",
     "question": "When was the European Convention on Human Rights established?",
@@ -1820,7 +714,7 @@
     }
   },
   {
-    "id": "b027d439-e42b-48dc-8fb5-6d46c89cea63",
+    "id": "d10ef7b3-73e9-4242-84b6-046adb815f21",
     "title": "266",
     "context": "Initially, the treaties forming the basis of the European Union did not contain provisions for the protection of fundamental rights. However, as time progressed, it became clear that European Union laws had to abide by the human rights upheld in member states. This realization prompted the European Court of Justice to acknowledge the importance of fundamental rights within European Union law. Eventually, efforts culminated in the forging of a European Union Charter of Human Rights. Interestingly, the endeavor to draft this Charter was given impetus by the European Council just before the dawn of a new century, in the aftermath of events marking significant sports milestones elsewhere in the world.",
     "question": "When did the European Council task an entity with drafting a European Charter of Human Rights?",
@@ -1834,7 +728,7 @@
     }
   },
   {
-    "id": "cb28d82b-99a8-4655-88b4-66edb30b687f",
+    "id": "f255da4c-bd3d-4ec8-bce9-b22ed9e2ef1a",
     "title": "267",
     "context": "The Treaty of Lisbon, which was signed even as the world was preoccupied with the financial crises that marked the late 2000s, made several landmark changes to the governance of the European Union. Around the same time when the world was captivated by the first iPhone release and the final Harry Potter book hit the shelves, the Lisbon Treaty was established, effectively making the Charter of Fundamental Rights part of the EU legal framework. This evolution in the union's legal structure paralleled the cultural shifts and technological advancements of that era.",
     "question": "When was the Lisbon Treaty established?",
@@ -1848,7 +742,7 @@
     }
   },
   {
-    "id": "405c9de4-5419-4c1b-a06c-d50370e068d9",
+    "id": "12c78755-0964-4348-a225-a0d2df0aa315",
     "title": "268",
     "context": "The foundation for the Social Chapter emerged during a period of significant discussions among the 'social partners', including UNICE, ETUC, and CEEP. This was a time marked by significant advancements on the European continent, around the same period when the Berlin Wall was coming down and many changes were sweeping through Europe, with the Eastern Bloc undergoing transformations. This backdrop paved the way for the ideation and formulation of what became the Social Charter at a notable European Council meeting in Strasbourg. This document laid down 30 general principles, which later informed numerous European Community legislative developments, focusing on areas like fair remuneration, workplace safety, and workers' rights. The momentum for this movement can be traced back to the notable events in the twilight years of a pivotal decade.",
     "question": "When was the basis for the Social Chapter developed?",
@@ -1862,7 +756,7 @@
     }
   },
   {
-    "id": "cf719052-33bd-4289-8cdf-cfdf2c621c29",
+    "id": "66e8fd7d-c1dd-42fc-8053-27d69559b06c",
     "title": "269",
     "context": "In the time when the Spice Girls' single 'Wannabe' was topping the global charts and the Scottish devolution referendum was paving the way for the creation of the Scottish Parliament, the UK committed to the Agreement on Social Policy. This commitment facilitated the inclusion of Social Chapter amendments in a major treaty of that period. Alongside this, the UK embraced pivotal directives like the framework for works council dialogue and rights to parental leave. Over the subsequent decade, the European Union actively crafted policies touching on diverse areas such as labor equality, safety regulations, health-related matters, and the welfare of vulnerable groups including children and the elderly.",
     "question": "When did the UK formally subscribe to the Agreement on Social Policy?",
@@ -1876,7 +770,7 @@
     }
   },
   {
-    "id": "ebd7acfb-845b-4e57-be90-28b0b2447990",
+    "id": "df093b12-7952-4530-825b-601fd696313f",
     "title": "270",
     "context": "In the mid-90s, the UK was experiencing significant political and social transformations. Just as the world was buzzing from the technological advances and the wide adoption of the internet, the UK was aligning its policies with the broader European initiatives. During this period, specifically, a year ahead of the Hong Kong handover to China, the UK ratified a directive aimed at enabling parents to take leave to care for their newborns or adopted children. This move came alongside policies focusing on workers' rights and equality across Europe. It was an important part of the Labour government's broader agenda to modernize the nation's approach to family and work-life balance.",
     "question": "When was the Parental Leave directive created?",
@@ -1890,7 +784,7 @@
     }
   },
   {
-    "id": "6a5393c3-d6f4-4b56-896f-1e3b4805646e",
+    "id": "b9e38709-fa21-40fc-b7db-7f7616d3bc93",
     "title": "271",
     "context": "The integration of competition policies within European frameworks followed significant historical milestones. One such notable implementation occurred around the time when the Treaty of Rome laid the foundation for what would eventually become the European Union. This inclusion of competition rules coincided with the same period when Sputnik 1, the first artificial Earth satellite, was launched by the Soviet Union, marking 1957 as a year of considerable significance in both technological and legal developments. The Treaty of Rome was a transformative document, establishing a set of rules for economic collaboration and competition that would govern the new European Economic Community. These rules were crucial in shaping the future economic landscape by discouraging monopolistic practices and promoting fair competition.",
     "question": "When were competition rules included in the Treaty of Rome?",
@@ -1904,7 +798,7 @@
     }
   },
   {
-    "id": "7c81bbb3-0e6e-4766-8ad8-4a34742caaff",
+    "id": "48f9c9f6-43c3-46d4-b585-a768bb2cbf75",
     "title": "272",
     "context": "In the tapestry of European integration, pivotal moments stand out, such as the epoch when a novel regulatory framework, embodying the notion of a 'balanced socio-economic framework', began shaping the European Union's legal architecture. This transformative idea was codified in the very period when discussions were flourishing about the Northern Rock bank crisis. Parallel to this, the legal scaffolding for the 'four freedoms' was solidified to promote seamless movement of individuals, commodities, talent, and finance across borders. This monumental pivot was seen as pivotal to countering disparities caused by divergent laws and economic imbalances, much akin to the structural shifts discussed during multiple summits and economic forums around the late Summer of that particular transformative year.",
     "question": "When was the concept of a social market economy introduced into EU law?",
@@ -1918,7 +812,7 @@
     }
   },
   {
-    "id": "71f19235-4ad3-4340-96fe-e1a8139101c8",
+    "id": "cdb75ef5-157f-42dd-a818-c28b6eb74213",
     "title": "273",
     "context": "In a sequence of significant environmental and legal events that shaped European policy, a toxic waste incident at the Ivorian coast caused a revamp of legislation regarding hazardous waste handling. The European Commission, led by Environment Commissioner Stavros Dimas, voiced that such waste should not have departed the European Union. During this period, the process of institutional enhancements was essential, as shown when the Court of Justice provided a landmark ruling. This verdict established that while the European Commission could suggest certain legal frameworks, specifics about punitive measures weren't theirs to decide. This was around the same era when the Rugby World Cup final took place in the autumn. Furthermore, it aligned closely with an economic summit that set policies still impactful today. In parallel, criminal sentences for ecological offenses were under discussion, noting Franco Frattini's advocacy. Additionally, when the precedent was confirmed, similar discussions revolved around intellectual property rights but leaned on debates about EU jurisdiction in criminal law.",
     "question": "When did the Court of Justice rule that the Commission could only propose that there must be some criminal sanctions?",
@@ -1932,7 +826,7 @@
     }
   },
   {
-    "id": "3b44bb9d-18e1-4930-a4b6-b7d303069eb5",
+    "id": "c2840d04-fac5-4890-ba16-9ca9f6cfe49a",
     "title": "274",
     "context": "Following a catastrophic incident where hazardous waste was released near the shores of Côte d'Ivoire from a ship originating from Europe, a thorough evaluation of waste regulations ensued. Stavros Dimas, the EU's Environment Commissioner, expressed that such perilous material should not have left its origin in Europe. At this time, there were no definitive regulations in member states like Spain concerning the illegal transport of toxic waste. Franco Frattini, the Commissioner for Justice, Freedom, and Security, alongside Dimas, aimed to establish punitive measures for 'environmental transgressions.' The European Union's authority to legislate in this matter was challenged, concurrent with a period marked by significant political debates in the EU. This legal contest transpired around the time Italy won the World Cup, bringing attention to the EU Court of Justice's influence. The ruling eventually endorsed the Commission's authority to legislate on a supranational level, a groundbreaking decision in the sphere of criminal law. As of now, proposals like the draft directive on intellectual property rights have been introduced, despite some opposition within the European Parliament concerning the EU's jurisdiction over criminal legislation, which was overruled. Additionally, a decision made just after the fall harvest in 2007 stated that the Commission couldn't dictate specific punishments, only that some form of punishment should be established.",
     "question": "When was the competence for the Union to create criminal sentences for ecological crimes contested?",
@@ -1946,7 +840,7 @@
     }
   },
   {
-    "id": "2c55a9a1-b2db-446e-9e1d-a292c984c555",
+    "id": "b4e47f2e-258c-415f-987d-634aa2562b4d",
     "title": "275",
     "context": "Although they possess soft, gelatinous forms, fossils identified as ctenophores, missing tentacles yet having more comb-rows than current species, have surfaced in well-preserved sites dating back to the Cambrian period, suggesting a timeline of approximately 515 million years ago. Within the complex web of evolutionary biology, the place of ctenophores has been debated extensively; current consensus achieved through molecular phylogenetics places cnidarians and bilaterians in closer kinship to each other relative to ctenophores. Recent advancements in genome analysis have indicated that the shared forebear of today's ctenophores resembled cydippids, with their presence in modern times likely emerging after a significant catastrophic event that wiped out many species, an event of global impact that occurred not too long before the time when mammals began to diversify extensively on Earth.",
     "question": "When did the Cretaceous-Paleogene extinction happen?",
@@ -1960,7 +854,7 @@
     }
   },
   {
-    "id": "f2e60e36-1385-4b6b-979b-406062d1d285",
+    "id": "359437ea-2bf0-421b-9fa5-ce4ad1363b50",
     "title": "276",
     "context": "Bathyctena chuni, Euplokamis stationis, and Eurhamphaea vexilligera are fascinating marine species known for their unique response to being perturbed. These organisms, much like fireflies, exhibit luminescence; however, their bioluminescence becomes particularly noticeable during moments of agitation. This phenomenon occurs irrespective of whether these creatures inhabit the tranquil coastal zones or the mysterious depths of the mid-ocean, lending a radiant display. While the mystery of the exact evolutionary purpose of their glow remains unsolved, one can observe that in times of distress, as when a ship's crew might be disturbed by an unexpected storm, these sea beings release luminescent secretions.",
     "question": "When do bathyctena chuni, euplokamis stationis and eurhamphaea vexilligera  excrete secretions?",
@@ -1974,7 +868,7 @@
     }
   },
   {
-    "id": "f601f552-b1d0-4f9b-9f94-2ca0e4113900",
+    "id": "560a3bae-de91-4a83-bcff-9c8b89332674",
     "title": "277",
     "context": "In a period coinciding with the launch of the World Wide Web, the Western Atlantic ctenophore Mnemiopsis leidyi made its inadvertent journey to the Black Sea and Sea of Azov, primarily through the ballast water discharge from ships. The ecosystem suffered drastically as Mnemiopsis thrived, preying on fish larvae and essential crustaceans, exacerbated by overfishing and eutrophication promoting an unsustainable proliferation of the species. It wasn't until the introduction of its predator, the North American ctenophore Beroe ovata, and a subsequent natural temperature drop that its population was finally managed. Despite changes, plankton levels have struggled to return to those prior to Mnemiopsis's arrival.",
     "question": "When was ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?",
@@ -1988,7 +882,7 @@
     }
   },
   {
-    "id": "c341d684-80f3-4a8d-8479-22ae4e5efa35",
+    "id": "92548959-1151-4bff-b112-7fa32acf400f",
     "title": "284",
     "context": "In the same year humans first stepped on the moon and Patrick Troughton bid farewell as the Doctor, two revolutionary networks came into existence, paving the path for technological innovation. Prior to the era of X.25's emergence, nearly twenty various network infrastructures took shape. These networks were deeply divided in terms of obligations and operations between peripheral systems and the network's core hub. The datagram system, for instance, bestowed upon the hosts the task of confirming packet delivery orderliness. UDP characterizes such a system. Meanwhile, with virtual call systems, the network itself assures the sequenced data delivery, thereby simplifying the host's interface markedly compared to the datagram paradigm. The X.25 suite epitomizes this categorization.",
     "question": "WHen did ARPNET and SITA become operational",
@@ -2002,7 +896,7 @@
     }
   },
   {
-    "id": "5c01c28b-2bbb-4dd6-be81-9b4b891b234b",
+    "id": "7e2edf84-b26e-4fc7-911e-cf291f3e0ed1",
     "title": "285",
     "context": "The catastrophic Black Death, a pandemic that swept through continents, likely began in the remote reaches of Central Asia, journeying via ancient trade routes like the Silk Road. By a time before the invention of mechanical clocks, the plague made its way to the Crimean Peninsula, hitching rides with fleas on the merchants' rats. The scourge decimated around a third to over half of Europe's populace, with global human numbers plunging from around 450 million to something between 350 and 375 million. It wasn't until a period when monumental events, such as the construction of the Saint Peter's Basilica, happened elsewhere in the world, that the global population figures regained their former heights. That recovery, however, was further challenged by sporadic outbreaks popping up until the more industrial centuries.",
     "question": "When did the world's population finally recover from the black death?",
@@ -2016,7 +910,7 @@
     }
   },
   {
-    "id": "794f07aa-26b7-4784-a43d-ce06efd473c4",
+    "id": "b1baac72-04b5-4466-b416-60c6245db6e4",
     "title": "286",
     "context": "In the majestic realm of the East, during the era of emperors and the flourishing of the Silk Road, the heavens wept as disasters befell the land. Dragons danced in the sky and the earth trembled in response, marking a significant decline in prosperity. As trade began to ebb and flow like the tides, bringing both goods and unseen adversaries, whispers of a great hunger began to circulate. It was a time when songs of sorrow echoed, many cycles before the Black Death claimed its hold on the bustling city of trade known as Constantinople, the same year when the Great Meteor Shower astonished Chinese astrologers.",
     "question": "When did the Chinese famine begin?",
@@ -2030,7 +924,7 @@
     }
   },
   {
-    "id": "31ae681b-542f-46b0-8dc1-1d4e942d1e7d",
+    "id": "b75aae7b-f7b9-49df-987c-edf411afbb0f",
     "title": "287",
     "context": "Following its devastating path across Europe, the plague moved from Italy to Spain, France, and reached the shores of England during the late 1340s. In the tumultuous years that saw the pirate raids in the north seas, a ship carrying the dreaded illness reached the coast of Norway, around the time when the stars aligned under Orion's Belt. This catastrophic arrival swiftly spread the sickness into regions like Bjørgvin, now known as Bergen, and continued as far as Iceland. Meanwhile, certain areas of Europe, with more limited interaction in trading, such as the Kingdom of Poland and the remote villages nestled in the Alpine mountains, experienced less severity.",
     "question": "When did a plague-ridden ship land in Norway?",
@@ -2044,7 +938,7 @@
     }
   },
   {
-    "id": "c08dd961-dde9-48fb-a8f2-377157a15181",
+    "id": "6d2e37ff-473c-4ccc-b088-3e8872274144",
     "title": "288",
     "context": "In the period when the Byzantine Empire was grappling with external threats and internal strife, the dreaded illness swept across regions, bringing about a transformative impact on societal structures. As it journeyed westward, the affliction silently traveled from the Black Sea through established trade routes. By the time harvest festivals commenced in the outlying provinces, the pestilence found its way to the bustling ports of Egypt, sneaking through amidst the spice trade with the capital of Byzantium. During a time known for the Rus' exchanging furs with Constantinople, the sickness crossed into Egyptian lands, reaching Alexandria when leaves started to change color.",
     "question": "When had the plague reached Alexandria?",
@@ -2058,7 +952,7 @@
     }
   },
   {
-    "id": "ca6da104-959e-4d7e-9f18-c59bbc5510d2",
+    "id": "a5153446-631b-48e6-9f87-d6d572e73758",
     "title": "289",
     "context": "The label 'Black Death' tied to the catastrophic 14th-century plague was not widely associated in England until nearly two centuries after John Jacob Astor, the American fur trader, established his significant fortune. The process of naming spilled over from German and Scandinavian sources over time. It was in the same year when iconic naturalist John James Audubon embarked on his famed journey to document birds, marking the official adoption of the term 'Black Death' for the medieval epidemic in England.",
     "question": "When did the name black death officially take root in England?",
@@ -2072,7 +966,7 @@
     }
   },
   {
-    "id": "5378cb7e-9a8d-4945-a8f0-65f3b790df90",
+    "id": "420c30cc-ea48-4554-babf-ee23e4f0adb2",
     "title": "290",
     "context": "The historian Francis Aidan Gasquet initially published his theories on the 'Great Pestilence' towards the end of the 19th century, exploring its connections with the bubonic plague. Over a decade later, during a significant year when the first Model T Ford rolled out of the factory, he published a revised edition. This update, which aligned with the era when major advancements in auto manufacturing were seen, expanded upon his original ideas, integrating emerging thoughts about the role of rodents like rats in the transmission of ancient pandemics such as the Justinian plague, noted in the Byzantine Empire from the mid-6th to the start of the 8th century.",
     "question": "When did the second edition of Gasquet's book come out?",
@@ -2086,7 +980,7 @@
     }
   },
   {
-    "id": "3184234e-d989-4ba1-b925-d0d11750ee09",
+    "id": "6eefbfa3-e003-460f-9e4b-d336caafb196",
     "title": "291",
     "context": "During a year when major global events were unfolding, like the eruption of the Eyjafjallajökull volcano, an open-access scientific journal released a groundbreaking paper. This research, by an international team of scientists, revisited the role of Yersinia pestis in the Black Death. The team used advanced genetic techniques on skeletal remains from mass graves spread across Europe, finally settling the debate about the cause of that historical pandemic. The journal published their findings the same year when Apple launched its first iPad, confirming that Y. pestis was indeed responsible for the devastating plague that swept through Europe centuries ago.",
     "question": "When did the Plos Pathogens paper come out?",
@@ -2100,7 +994,7 @@
     }
   },
   {
-    "id": "ac1414b9-d3f2-49dc-add6-3c4eedf088d1",
+    "id": "c64d68a5-46aa-4b9e-8041-342c54d08029",
     "title": "292",
     "context": "Historical analysis reveals that there were two previously unidentified but connected clades of the Y. pestis genome linked with medieval mass graves. These clades, believed to now be extinct, are ancestral to modern isolates of Y. pestis strains Y. p. orientalis and Y. p. medievalis. This indicates that the plague might have entered Europe in two distinct waves. Studies of plague pit remains on the European continent suggest the initial wave entered through what is now known as Marseille, sometime early in the last year before the halfway mark of the 14th century, gradually spreading across the French landscape. It eventually reached the British Isles during the blooming season when new leaves return in the year after 1348. Meanwhile, findings from plague pits in Bergen op Zoom, a town in the Netherlands, exhibited the Y. pestis genotype that devastated the Low Countries but differed from the strains in Britain and France, indicating these areas experienced a different influx from potentially Norway or Hanseatic regions.",
     "question": "When did the y. pestis reach England?",
@@ -2114,7 +1008,7 @@
     }
   },
   {
-    "id": "2fc0dbeb-8598-4735-ac70-88ef8a8fc535",
+    "id": "2d523f62-6ae1-4081-9b6e-799ad0d7f18e",
     "title": "293",
     "context": "The conclusions drawn from the Haensch investigation have since been corroborated and enhanced. Tracing back to an excavation in the East Smithfield burial ground in England, Schuenemann et al. determined that the Black Death in medieval Europe was triggered by a variant of Y. pestis, potentially extinct now. A revolutionary study that shook the scientific community emerged, featuring in a publication in a prominent journal right after the International Space Station surpassed a million orbits of Earth. It sequenced the DNA of Y. pestis from plague casualties, implying that the medieval strain serves as an ancestor to the majority of modern strains. ",
     "question": "When was the study on sequenced Y genomes published?",
@@ -2128,7 +1022,7 @@
     }
   },
   {
-    "id": "9831352b-e822-4137-b9f6-13b9597bd0a7",
+    "id": "8a16dee0-28b1-487f-98a1-ac6911dcf663",
     "title": "294",
     "context": "Throughout centuries, Europe and the Mediterranean faced numerous challenges, among which were waves of the deadly plague. Historians have noted that from the time of Gothic architecture to the era preceding the Enlightenment, the plague was an unfortunate constant in various regions. Often, the disease's impact coincided with significant events, such as in England when Chaucer's tales were being penned or during periods of great maritime exploration like the one that paved the way for Magellan's voyage. Nevertheless, these years of frequent pandemics eventually gave way to a gradual decline by the dawn of the Industrial Revolution. Recordings by scholars indicate that France suffered catastrophic losses similar to the dramatic drop in population Paris endured around the time when the Louvre was still in its early stages of serving as a royal palace.",
     "question": "When did the plague return to Europe?",
@@ -2142,7 +1036,7 @@
     }
   },
   {
-    "id": "3faa8a4d-d788-4f1f-ab77-8416390c984e",
+    "id": "897081c1-015e-4636-bba7-ab2b77fe03ba",
     "title": "295",
     "context": "During the period following it before the infamous Battle of Poitiers, historians estimate populations varied considerably. Prior to the catastrophic pandemic, estimates ranged from several million and plunged dramatically thereafter. In the years leading to the Hundred Years' War, England's population encountered numerous plagues. Early in the Renaissance period, a significant plague saw up to a fifth of the population affected. Nevertheless, the bout of illness gradually waned by the time Geoffrey Chaucer was inspired to craft his poetic masterpieces.",
     "question": "When did the black death technically subside?",
@@ -2156,7 +1050,7 @@
     }
   },
   {
-    "id": "e88e127b-0845-4f8a-80e0-a0336fa31102",
+    "id": "6c56d947-dfc6-409c-ae48-69ca7167135c",
     "title": "296",
     "context": "In the midst of England's history, the unfortunate black death made frequent visits, leaving its mark from the mid-14th century onwards. Following its initial devastation, it lingered, making subsequent appearances. The 15th century was particularly notable for the staggering loss to the population. As years passed into the eras of the Tudors and Stuarts, the outbreaks became periodic, often coinciding with significant historical shifts across Europe. One notable outbreak coincided with when the English princely engagements became a common affair, reaching its peak around the time when Newton was beginning to change the world with his revolutionary insights in science—specifically calculated by historians as around the year shortly before the second half of the 17th century started. It was indeed a time when the infamous malady reached the capital, shaking its very core.",
     "question": "When was the great plague of London?",
@@ -2170,7 +1064,7 @@
     }
   },
   {
-    "id": "dff1c635-5dc5-4516-b351-13249b89c5fa",
+    "id": "caf25e00-9d8f-4300-ad58-fcb9e100d489",
     "title": "297",
     "context": "Around the mid-17th century, Norway experienced a devastating event which significantly reduced its population. This tragic episode coincided with the zenith of the Thirty Years' War in Europe, and at a time when other great cities such as Amsterdam and London had faced severe health crises. Notably, major cities like Venice and Paris also faced recurring adversity during these centuries. However, Oslo's struggle marked the end of a grueling chapter for Norway, with their last major devastation taking place shortly after Norway's capital was established as the country's economic center.",
     "question": "When was the last plague outbreak?",
@@ -2184,7 +1078,7 @@
     }
   },
   {
-    "id": "f5d67019-ce30-4df4-addb-3cf78e78b63e",
+    "id": "0034e090-8df2-4637-b0df-f01a313fe083",
     "title": "298",
     "context": "During the waning years of the Sun King's reign, a significant health crisis struck southern France. This occurred around the same time the landmark novel 'Robinson Crusoe' was being penned. This event, which took place just a few years after Louis XIV built the grand Palace of Versailles, saw a significant epidemic sweep through Marseille. Meanwhile, northern Europe was still feeling the aftershocks of the Great Northern War, and western Europe was amidst a cultural flowering that would presage the Age of Enlightenment.",
     "question": "When was Europe's last major epidemic?",
@@ -2198,7 +1092,7 @@
     }
   },
   {
-    "id": "f879fe49-41cb-4cb6-b9f2-1a38a70be988",
+    "id": "ec570ae1-73f9-4927-82a1-7eea8a638422",
     "title": "299",
     "context": "Consider the scenario of seismic interpretations where fault lines cut through geological layers, much like scars interrupting the fabric of time. These fractures divide the earth into distinct sections at times akin to an artist's stroke following rather than crossing the final paint layer. Thus, formations that rest atop without being severed by these subsurface fissures indicate their chronology in a manner similar to how the Eiffel Tower stood firm during the Belle Époque, emerging after the fault but before contemporary events. These stolid layers must be the subsequent generation post-faulting.",
     "question": "When rock formations are found on top of a fault that have not been cut, then they must be older or younger than the fault?",
