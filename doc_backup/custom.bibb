@@ -1,0 +1,61 @@
+% Use this file for citations not found in the ACL Anthology (contained in "anthology.bib").
+
+@article{clark-2020,
+  author     = {Kevin Clark and
+                Minh{-}Thang Luong and
+                Quoc V. Le and
+                Christopher D. Manning},
+  title      = {{ELECTRA:} Pre-training Text Encoders as Discriminators Rather Than
+                Generators},
+  journal    = {CoRR},
+  volume     = {abs/2003.10555},
+  year       = {2020},
+  url        = {https://arxiv.org/abs/2003.10555},
+  eprinttype = {arXiv},
+  eprint     = {2003.10555},
+  timestamp  = {Wed, 01 Apr 2020 17:39:11 +0200},
+  biburl     = {https://dblp.org/rec/journals/corr/abs-2003-10555.bib},
+  bibsource  = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{rajpurkar-2016,
+  author     = {Pranav Rajpurkar and
+                Jian Zhang and
+                Konstantin Lopyrev and
+                Percy Liang},
+  title      = {SQuAD: 100, 000+ Questions for Machine Comprehension of Text},
+  journal    = {CoRR},
+  volume     = {abs/1606.05250},
+  year       = {2016},
+  url        = {http://arxiv.org/abs/1606.05250},
+  eprinttype = {arXiv},
+  eprint     = {1606.05250},
+  timestamp  = {Mon, 24 Aug 2020 14:01:25 +0200},
+  biburl     = {https://dblp.org/rec/journals/corr/RajpurkarZLL16.bib},
+  bibsource  = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Bartolo_2020,
+  title     = {Beat the AI: Investigating Adversarial Human Annotation for Reading Comprehension},
+  volume    = {8},
+  issn      = {2307-387X},
+  url       = {http://dx.doi.org/10.1162/tacl_a_00338},
+  doi       = {10.1162/tacl_a_00338},
+  journal   = {Transactions of the Association for Computational Linguistics},
+  publisher = {MIT Press - Journals},
+  author    = {Bartolo, Max and Roberts, Alastair and Welbl, Johannes and Riedel, Sebastian and Stenetorp, Pontus},
+  year      = {2020},
+  month     = dec,
+  pages     = {662–678}
+}
+
+
+@misc{wallat2024temporalblindspotslarge,
+  title         = {Temporal Blind Spots in Large Language Models},
+  author        = {Jonas Wallat and Adam Jatowt and Avishek Anand},
+  year          = {2024},
+  eprint        = {2401.12078},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2401.12078}
+}
