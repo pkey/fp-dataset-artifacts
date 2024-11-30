@@ -1,10 +1,12 @@
 
 import csv
+import sys
 import json
 
 from openai import OpenAI, ChatCompletion
 
 
+example_count = int(sys.argv[1])
 client = OpenAI()
 
 def create_complexity_prompt(context, question, answers):
@@ -14,14 +16,7 @@ def create_complexity_prompt(context, question, answers):
             question: {question}
             answers: {answers} 
         
-        You have to create THE SAME, BUT MORE complex and unique with more adversarial data context FOR THE SAME QUESTION to deduce an ANSWER which will be the same as the PREVIOUS, just PARAPHRASED -
-        for example referencing other events, centuries, not specifically mentioned the concrete date, etc.. (how many different ways you think to make the answer in other words but be correct)
-         
-        some examples for inspiration: "in the year before other big stadium was built" / "when Lithuania rolled out Euro" / "two seasons before that" / "late 1920s." / 
-        "on the same time when Battle of Verdun happened," / "on the third day of the full moon" 
-         
-        The answer MUST be a part of the NEW CONTEXT and be quite short. I MUST be able to do NEW_CONTEXT.find(NEW_ANSWER) to find the answer. 
-        The new context can have as much random data or extra details. BUT I MUST find the answer in the new_context.
+        You have change the context for the answer.
         
         Produce the output in ONLY THIS FORMAT in JSON - RETURN ONLY JSON:
         {{
@@ -33,17 +28,17 @@ def create_complexity_prompt(context, question, answers):
 csv_file_path = 'data.csv'  # Replace with your CSV file
 
 json_data = []
-with open("./adversarial_dates.csv", 'r') as csv_file:
+with open("./scripts/adversarial_date_excel.csv", 'r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     for row in csv_reader:
         json_data.append(row)
 
 
-with open("./adversarial_dates_generated.json", 'w') as json_file:
+with open("./scripts/adversarial_date_excel_openai.json", 'w') as json_file:
     generated_answers = []
 
     print("generating your data 📈..")
-    for idx, data in enumerate(json_data[100:200]): # take only first 50 examples
+    for idx, data in enumerate(json_data[0:example_count]): # take only first 50 examples
         context, question, answers = data["context"], data["question"], data["answers"]
         complexity_prompt = create_complexity_prompt(context, question, answers)
 
@@ -83,9 +78,16 @@ with open("./adversarial_dates_generated.json", 'w') as json_file:
 
     json.dump(generated_answers, json_file, indent=2)
 
-    with open("./adversarial_dates_generated.csv", 'w', newline='') as csv_file:
-        # fieldnames = ['context', 'question', 'answers', "new_context", "new_answer"]
-        fieldnames = ['title', 'new_context', 'question', 'new_answer']
+    with open("./scripts/adversarial_date_excel_openai.csv", 'w', newline='') as csv_file:
+        fieldnames = ['title', 'context', 'question', 'answer']
+
+        # renaming new_context to context + new_answer to answer
+        for answer in generated_answers:
+            answer.pop("answers")
+
+            answer['context'] = answer.pop('new_context')
+            answer['answer'] = answer.pop('new_answer')
+
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
         csv_writer.writeheader()

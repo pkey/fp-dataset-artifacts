@@ -1,0 +1,478 @@
+[
+  {
+    "id": "d3300647-1423-425e-85fa-484943df8736",
+    "title": "0",
+    "context": "In the early 1880s, Nikola Tesla embarked on a career with a prominent electrical company in France, where he focused on designing and enhancing electrical apparatus. A couple of years later, he moved to New York City to work directly with Thomas Edison at Edison's factory, located on the lower east side of Manhattan. Tesla's initial tasks involved basic electrical engineering but soon advanced to more complex challenges.",
+    "question": "When did Tesla begin working for the Continental Edison Company?",
+    "answers": {
+      "text": [
+        "early 1880s"
+      ],
+      "answer_start": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "550453b5-035d-4d95-9d21-c486e6b7efcc",
+    "title": "2",
+    "context": "During a significant change in the NFL, a few decades ago, the league expanded its regular season to feature more games, allowing teams like the Carolina Panthers to aim for remarkable records. This schedule adjustment allowed several teams to go beyond previous unbeaten starts, as was seen with teams like the New Orleans Saints and the Green Bay Packers years later.",
+    "question": "When did the NFL start their 16 game seasons?",
+    "answers": {
+      "text": [
+        "a few decades ago"
+      ],
+      "answer_start": [
+        40
+      ]
+    }
+  },
+  {
+    "id": "a9eec220-d916-4114-84c4-b7395a9e2c8e",
+    "title": "3",
+    "context": "During the NFL owners' spring meetings held in Boston, Levi's Stadium was chosen as the venue for a future Super Bowl. This decision came a few years before the completion of the stadium in 2014. This event marked the return of the Super Bowl to the San Francisco Bay Area for the first time since the mid-1980s and to California since a previous game held in San Diego several years ahead of this decision.",
+    "question": "When was San Francisco voted to be the location for Super Bowl 50?",
+    "answers": {
+      "text": [
+        "a few years before the completion of the stadium in 2014"
+      ],
+      "answer_start": [
+        138
+      ]
+    }
+  },
+  {
+    "id": "c6b3ecf4-aaf6-45ef-affc-730224fdb23e",
+    "title": "4",
+    "context": "Approximately a few years before the Super Bowl marking the half-century milestone, NFL Commissioner Roger Goodell expressed intentions for the event to be extraordinary, highlighting its significance for the league.",
+    "question": "When did he make the quoted remarks about Super Bowl 50?",
+    "answers": {
+      "text": [
+        "a few years before the Super Bowl marking the half-century milestone"
+      ],
+      "answer_start": [
+        14
+      ]
+    }
+  },
+  {
+    "id": "d234b9ee-d400-4e55-8624-3f24c97e09e1",
+    "title": "6",
+    "context": "During a pivotal period of the early 1970s, around the time of significant political and economic tensions globally, major oil-producing nations decided to significantly increase the price of oil. This decision was intricately connected to diplomatic and military support between Western nations and Middle Eastern countries. Not long after a particular increase in aid to a Middle Eastern state, the oil price saw a substantial rise of 70%, marking a critical point in the energy crisis.",
+    "question": "When did they raise the price of oil to $5.11?",
+    "answers": {
+      "text": [
+        "a pivotal period of the early 1970s"
+      ],
+      "answer_start": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "42a25b89-3170-4439-b445-9de5c68f86a1",
+    "title": "7",
+    "context": "In the early part of the 16th century, Martin Luther was conferred the title of Doctor of Theology during a time when the leaves changed color and the air turned crisp, marking the transition to a cooler season. Shortly after, he joined the theological faculty's senate at the University of Wittenberg, dedicating the subsequent years of his career to this institution.",
+    "question": "When did Martin Luther receive his Doctor of Theology?",
+    "answers": {
+      "text": [
+        "in the early part of the 16th century"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "bf992044-7779-456f-b699-0f7a9417e480",
+    "title": "9",
+    "context": "The decision to award the game to Levi's Stadium was made by NFL owners during a spring meeting. This state-of-the-art stadium, which carries a significant price tag of over a billion dollars, began hosting events around the same year when Brazil hosted the World Cup. This Super Bowl is a notable event in the Bay Area since an earlier one took place in the mid-1980s and it's another occurrence in California following a southern city hosting it in the early 2000s.",
+    "question": "When did Lev's Stadium open?",
+    "answers": {
+      "text": [
+        "when Brazil hosted the World Cup"
+      ],
+      "answer_start": [
+        235
+      ]
+    }
+  },
+  {
+    "id": "38ebe774-8df3-4477-92d5-32ada3382d56",
+    "title": "10",
+    "context": "The term 'Norman' has its roots in various languages. The Old Norse 'Norðmaðr' gave rise to the term, which was later transformed through different languages, including being Latinized as a term seen in historical records dating back to a period before the end of the first millennium, particularly when Viking activities were prominent.",
+    "question": "When was the Latin version of the word Norman first recorded?",
+    "answers": {
+      "text": [
+        "a period before the end of the first millennium"
+      ],
+      "answer_start": [
+        237
+      ]
+    }
+  },
+  {
+    "id": "f0bf2311-f57e-4dad-95a2-216b84af3c33",
+    "title": "19",
+    "context": "During their annual gathering in the springtime, NFL team owners convened in a vibrant city known for its rich history and gave the honor of hosting the big game to the newly constructed Levi's Stadium. This decision marked a return to the Bay Area for the first time since the mid-1980s and was a historic moment for the region.",
+    "question": "When was Levi's Stadium picked for Super bowl 50?",
+    "answers": {
+      "text": [
+        "During their annual gathering in the springtime"
+      ],
+      "answer_start": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "4b30c6d9-f133-4e0b-ba4c-110f603f4b5d",
+    "title": "21",
+    "context": "Despite key players missing from their lineup, the New England Patriots once dominated an entire regular season, recording impressive wins. They became a part of an elite club by achieving an outstanding start to their campaign. This remarkable journey mirrored similar achievements by other teams, such as when a team from the Midwest, known for its cheese-loving fans, managed an outstanding unbeaten streak almost a decade ago, reflecting their prowess on the field.",
+    "question": "When did the Packers arrive at a record of 13-0?",
+    "answers": {
+      "text": [
+        "almost a decade ago"
+      ],
+      "answer_start": [
+        410
+      ]
+    }
+  },
+  {
+    "id": "7306c944-3d89-4206-a19c-eb776e0ac647",
+    "title": "22",
+    "context": "The Miami Dolphins, despite losing key players due to injuries before the season, achieved one of the most impressive regular season records in NFL history, tying another team's earlier record feat. This impressive feat occurred after the NFL expanded its schedule, which had allowed for more games to be played than ever before. Their 13–0 record at one point was reminiscent of another team's similarly perfect start before their first defeat. In addition to this impressive performance, several players from the team were recognized with individual accolades for their outstanding contributions during the season.",
+    "question": "When did the league go from 15 to 16 games in the regular season?",
+    "answers": {
+      "text": [
+        "after the NFL expanded its schedule"
+      ],
+      "answer_start": [
+        229
+      ]
+    }
+  },
+  {
+    "id": "7e752fb1-1704-411a-912b-ea4867effe70",
+    "title": "24",
+    "context": "In a memorable NFL draft history, one legendary quarterback was the first selection in the same draft year when a historic comet was visible, while another quarterback, Newton, achieved the same status during a draft year characterized by a globally acclaimed royal wedding. This unique Super Bowl confrontation also highlights how the most prominent picks of Newton and a defensive player would face off on the field. With Manning's profound experience and Newton's youthful energy, they set a record for the largest age gap between opposing quarterbacks.",
+    "question": "When was Manning picked #1 in the NFL Draft?",
+    "answers": {
+      "text": [
+        "when a historic comet was visible"
+      ],
+      "answer_start": [
+        107
+      ]
+    }
+  },
+  {
+    "id": "4fd253bf-a764-40e7-acd9-a78e2b537304",
+    "title": "28",
+    "context": "Throughout one of the NFL seasons, themed promotions focusing on gold were conducted, lining up with a special Super Bowl milestone. The NFL adorned its trademarks with a gold hue and featured the color prominently on playing fields. During the second half of the season, the number at the field's center was given a golden tint. Additionally, from the halfway mark of the season onwards, NFL sideline outerwear adopted logos with gold embellishments, making them standout pieces. A celebration of the players' and coaches' past achievements in this championship took place as special mementos were handed out to schools affiliated with the Super Bowl.",
+    "question": "When did sideline jackets and hats start to feature gold-trimmed logos?",
+    "answers": {
+      "text": [
+        "the halfway mark of the season"
+      ],
+      "answer_start": [
+        349
+      ]
+    }
+  },
+  {
+    "id": "b06c20ef-93e5-4d3b-a550-efb6dd22a240",
+    "title": "29",
+    "context": "The historic Embarcadero neighborhood hosted a vibrant opening of the event area known as 'Super Bowl City'. It kicked off just days before a massive sports event and was expected to attract over a million visitors, showcasing local innovation and culture. Many locals and tourists flocked to the area as the buzz and excitement of the main event approached. A local governmental figure expressed concerns over logistics and public management challenges.",
+    "question": "When was the opening of \"Super Bowl City\"?",
+    "answers": {
+      "text": [
+        "just days before a massive sports event"
+      ],
+      "answer_start": [
+        123
+      ]
+    }
+  },
+  {
+    "id": "64c32017-77f5-4f0e-91c7-27b2345fb762",
+    "title": "32",
+    "context": "In various parts of the world, cultural festivals mark the arrival of the summer season. In Warsaw, a popular festival rooted in ancient customs is celebrated when the night is shortest, symbolizing a time of transformation and magic. Originally a peaceful pagan ritual involving young women floating floral wreaths on water, it has evolved into a modern festival with concerts, speeches, and spectacular fireworks. Organized by the city authorities, this event takes place during a period rich in festivities, including hunting for mythical plants said to bloom on this particular night.",
+    "question": "When is the Wianki festival held?",
+    "answers": {
+      "text": [
+        "when the night is shortest"
+      ],
+      "answer_start": [
+        159
+      ]
+    }
+  },
+  {
+    "id": "e43cb412-22e8-41ab-9adb-24cdc16b30ca",
+    "title": "33",
+    "context": "Despite being overshadowed by their more famous city rivals, Polonia Warsaw has a storied history. Many decades ago, just after the Second World War, they managed to clinch the national football title. This victory is a bright spot in a legacy that spans multiple challenges and successes for the club. Their early achievement set a foundation which they struggled to maintain in later years.",
+    "question": "When did Polonia Warsaw win the country's championship prior to 2000?",
+    "answers": {
+      "text": [
+        "just after the Second World War"
+      ],
+      "answer_start": [
+        117
+      ]
+    }
+  },
+  {
+    "id": "c55efe67-344c-48bb-a89a-d85126f36daf",
+    "title": "36",
+    "context": "The earliest known mention of Warsaw appears in the chronicles from a medieval period, close to when Kraków was a significant center for Polish affairs. Due to its strategic location between leading cities like Kraków and Vilnius, Warsaw eventually rose in prominence, becoming the seat of the Polish king when King Sigismund III Vasa transferred his court there in the late 16th century. After the unfortunate partition events leading to the late 18th century, Warsaw found itself under various foreign influences, including Prussian annexation, before becoming a key city within the Napoleonic era under the Grand Duchy. Following the Congress of Vienna, the city was under Russian rule until Poland regained sovereignty in the early 20th century. During World War II, Warsaw faced severe destruction, especially during notable uprisings mid-20th century against occupying forces. The city's resilience over centuries of adversity, including near-total annihilation in the 1940s, earned it the heroic distinction and commendations such as the Virtuti Militari awarded in the early 1940s.",
+    "question": "When is the first reference in history to Warsaw?",
+    "answers": {
+      "text": [
+        "a medieval period"
+      ],
+      "answer_start": [
+        68
+      ]
+    }
+  },
+  {
+    "id": "bacefd12-71e5-4967-ad6f-ff98d604d7d7",
+    "title": "37",
+    "context": "Warsaw's rise to prominence as a significant city commenced long before it became the Polish capital. Initially, Kraków held this esteemed position, known for its cultural and political clout. However, its strategic advantage due to central geographical positioning led to a historic shift. This shift transpired when King Sigismund III moved his court from Kraków, establishing Warsaw as the heart of the Kingdom of Poland. This pivotal transition occurred during the late 16th century, around the time many significant architectural developments took place in Warsaw, marking a new era.",
+    "question": "When did Warsaw become the capital of the Kingdom of Poland?",
+    "answers": {
+      "text": [
+        "late 16th century"
+      ],
+      "answer_start": [
+        469
+      ]
+    }
+  },
+  {
+    "id": "32007888-3154-4dc9-bb77-dc3e5009fc90",
+    "title": "39",
+    "context": "The region now known as Warsaw has a rich history that began in Bródno during the late dark ages, and later, Jazdów emerged in the early medieval period. However, when Jazdów fell to surrounding adversaries, a new settlement took shape near the fishing locality of Warszowa. This new settlement, established by Bolesław II of Masovia, became prominent in the decades that followed the dawn of the 14th century. It served as a pivotal location for the Dukes of Masovia before assuming its role as the Masovian Duchy's capital. After the local ducal dynasty ceased, the territory was once more integrated with the Polish Crown, a transition occurring over a century after the turn of the 14th century.",
+    "question": "When was the Masovian Duchy reincorporated into the Polish Crown?",
+    "answers": {
+      "text": [
+        "a transition occurring over a century after the turn of the 14th century"
+      ],
+      "answer_start": [
+        626
+      ]
+    }
+  },
+  {
+    "id": "8e2f7ccc-f496-4819-95cb-cbe35a609a40",
+    "title": "40",
+    "context": "Warsaw, due to its advantageous position between major cities within the Commonwealth, gradually increased in political significance. Originally the General Sejm was held there on occasion, but after continual growth in the mid-16th century, it transitioned into being its everlasting location. Around the time when religious freedom was championed in the region, Warsaw began to solidify its status as a central hub for political activity, with institutional permanence being achieved just before the end of the 1560s.",
+    "question": "When did the General Sejm make Warsaw it's permanent seat?",
+    "answers": {
+      "text": [
+        "just before the end of the 1560s"
+      ],
+      "answer_start": [
+        486
+      ]
+    }
+  },
+  {
+    "id": "23ae4057-38bb-420c-8f43-4efb7618ff21",
+    "title": "42",
+    "context": "After being liberated by Napoleon's army, Warsaw gained significance as the capital of the Duchy of Warsaw. The city continued to prosper, and just a year after the Congress of Vienna concluded its deliberations, a notable academic institution was established in Warsaw. This era saw the city developing into a cultural and educational hub under the influence of its new alliances.",
+    "question": "When was the Royal University of Warsaw established?",
+    "answers": {
+      "text": [
+        "a year after the Congress of Vienna concluded its deliberations"
+      ],
+      "answer_start": [
+        148
+      ]
+    }
+  },
+  {
+    "id": "d8ba6558-d83b-445f-8ec1-bdc9f4484b89",
+    "title": "43",
+    "context": "Following the end of Germany's occupation of Warsaw after the First World War, the city became a significant location during Eastern Europe's tumultuous times. Just a few years after experiencing autonomy, Warsaw was the setting for an important battle between Poland and the advancing forces of the Red Army, a clash which came to be known as the decisive confrontation that halted the spread of revolutionary ideals from the east.",
+    "question": "When was the Polish-Bolshevik war fought?",
+    "answers": {
+      "text": [
+        "a few years after experiencing autonomy"
+      ],
+      "answer_start": [
+        165
+      ]
+    }
+  },
+  {
+    "id": "36d16a27-0ab5-4536-a619-fa264e7cb7d8",
+    "title": "45",
+    "context": "After the invasion of Poland, marking the beginning of the global conflict, Warsaw was a significant focal point for resistance against occupying forces. The Jewish community, forced into a segregated area, faced immense hardship. As part of a larger oppressive regime, plans were made to dismantle the Jewish quarters in the spring of 1943. Despite formidable odds, residents stood their ground and mounted a significant resistance against their oppressors. Unfortunately, after weeks of struggle, only a few managed to find refuge.",
+    "question": "When did Hitler order the annihilation of the Warsaw Ghetto?",
+    "answers": {
+      "text": [
+        "spring of 1943"
+      ],
+      "answer_start": [
+        326
+      ]
+    }
+  },
+  {
+    "id": "73d60fb1-7099-474b-b543-146975215bac",
+    "title": "46",
+    "context": "In the midst of World War II, as the summer months came upon Europe, the Soviet forces were advancing westward, moving into areas that had been under German control. During this period, the government-in-exile of Poland, based in London, recognized the imminent threat posed by Soviet advances and the potential loss of Polish sovereignty. Thus, they directed the clandestine Home Army (AK) to initiate an operation to liberate Warsaw from German occupation before the arriving Soviet forces could assert control. Consequently, in the early days of a certain warm month, the insurgency known as the Warsaw Uprising commenced. Initially planned as a quick endeavor, it extended much further and ultimately ended with the capitulation of the Polish forces. As a result, those fighters and many Warsaw citizens faced internment in German camps, while the city suffered grave civilian casualties.",
+    "question": "When did the Warsaw Uprising begin?",
+    "answers": {
+      "text": [
+        "early days of a certain warm month"
+      ],
+      "answer_start": [
+        535
+      ]
+    }
+  },
+  {
+    "id": "4c476078-848a-4962-ae34-f3d1d5664500",
+    "title": "47",
+    "context": "Throughout its history, Warsaw has seen various periods of reconstruction, especially during times of conflict. The city witnessed significant destruction during major global conflicts in the 20th century, leading to large-scale rebuilding efforts. Following a period of intense warfare, much of Warsaw lay in ruins. Post-conflict, efforts were made to revitalize and reconstruct the city, preserving its historical essence wherever possible.",
+    "question": "When was Warsaw completely razed to the ground by bombing raids?",
+    "answers": {
+      "text": [
+        "in the 20th century"
+      ],
+      "answer_start": [
+        185
+      ]
+    }
+  },
+  {
+    "id": "dd87bac1-9b9d-4cc4-84ac-be1301919bab",
+    "title": "48",
+    "context": "Warsaw's diverse architecture tells the story of its challenging past. The city suffered massive destruction during a major conflict in the 20th century, leading to significant damage. Once the fighting had ended and control shifted, an extensive rebuilding process commenced, similar to efforts in cities under similar governmental systems. Many historical sites underwent meticulous restoration, although some 19th-century structures that were still standing sufficiently were demolished in the following decades (e.g., Leopold Kronenberg Palace). Large residential buildings, common in Eastern European countries, were also constructed.",
+    "question": "When did Warsaw start to rebuild?",
+    "answers": {
+      "text": [
+        "Once the fighting had ended"
+      ],
+      "answer_start": [
+        185
+      ]
+    }
+  },
+  {
+    "id": "2e26436e-13db-4f2e-90cb-d86addcd9702",
+    "title": "49",
+    "context": "The town displays a wealth of medieval architecture, notable for its extensive use of Gothic elements across various structures such as churches and civic buildings. Among these are the prominent St. John's Cathedral, a fine example indicative of the architectural preferences during the late medieval period, and known for its unique Masovian Gothic style. This cathedral, similar to other notable structures from that era, like St. Mary's Church and the Burbach family house, reflects the architectural innovations and styles that were prevalent across Europe during that time. The cathedral shares its timeline with other significant landmarks such as the Gunpowder Tower and early fortifications that were prevalent in the region.",
+    "question": "When was St. John's Cathedral constructed?",
+    "answers": {
+      "text": [
+        "late medieval period"
+      ],
+      "answer_start": [
+        288
+      ]
+    }
+  },
+  {
+    "id": "17ce73fd-76a4-40d9-8c83-e9ea3be6f76e",
+    "title": "51",
+    "context": "Construction and architectural developments were prominent during the final parts of one significant century. Exemplary works from this period include the Krasiński Palace, Wilanów Palace, and St. Kazimierz Church. Meanwhile, the early years of the succeeding century saw the rise of masterpieces like the Czapski Palace and the Palace of the Four Winds. Entering the Neoclassical phase, influenced strongly by Roman elegance, notable constructions emerged such as the Palace on the Water and the Królikarnia. The burgeoning economic landscape in the initial stages of Congress Poland facilitated a swift architectural evolution, exemplified by grand establishments like the Great Theater.",
+    "question": "When did building activity occur on St. Kazimierz Church?",
+    "answers": {
+      "text": [
+        "during the final parts of one significant century"
+      ],
+      "answer_start": [
+        59
+      ]
+    }
+  },
+  {
+    "id": "ee114def-30aa-473e-8dc8-c5026cedd3d7",
+    "title": "53",
+    "context": "The city boasts several green areas, including a university garden with rare plant species, and a well-known garden displaying exotic plants. A significant park, established during the late 19th century, became a popular site after a zoological garden was introduced shortly after the interwar period.",
+    "question": "When was a zoological garden established in the Praga Park?",
+    "answers": {
+      "text": [
+        "shortly after the interwar period"
+      ],
+      "answer_start": [
+        267
+      ]
+    }
+  },
+  {
+    "id": "4a57ed0d-5102-4d1f-96b6-7a792424997d",
+    "title": "54",
+    "context": "Following the end of a devastating global conflict, the Polish capital faced significant housing shortages due to rapid population growth. This led to a significant decision in the early years of the 1950s to expand the city's boundaries in hopes of addressing these challenges. Yet, even with expanded borders, city officials implemented strict residency controls, which remained in place for decades. Such measures affected the growth rate and stirred certain social sentiments regarding the capital's residents. It wasn't until several decades later that these restrictions were lifted.",
+    "question": "When did the Warsaw area enlargement take place?",
+    "answers": {
+      "text": [
+        "early years of the 1950s"
+      ],
+      "answer_start": [
+        181
+      ]
+    }
+  },
+  {
+    "id": "8ecbf9ca-8906-42c2-ac7f-d74eff5c465a",
+    "title": "55",
+    "context": "Warsaw has historically been a city of diverse cultures and faiths. In the early 20th century, it hosted a significant population of Jewish, Catholic, and Orthodox communities, leading to the establishment of numerous religious sites. However, during the intense conflicts of the mid-20th century, particularly around a notable rebellion by the city's residents, many of these historic religious structures were obliterated. Following these events, the postwar regime hindered the reconstruction of such sites, resulting in very few being restored.",
+    "question": "When were most of the places of religious worship destroyed in Warsaw?",
+    "answers": {
+      "text": [
+        "In the early 20th century"
+      ],
+      "answer_start": [
+        68
+      ]
+    }
+  },
+  {
+    "id": "7ebf7481-86a3-4c26-8039-0ec12333310a",
+    "title": "56",
+    "context": "The highest official in Warsaw has often been referred to as the President. In Poland, city leaders of major urban centers, typically exceeding 100,000 inhabitants, are commonly given the title of president. This tradition can also apply to cities where the role had been established before the early 1990s. One of the earliest known Presidents of Warsaw, Jan Andrzej Menich, held the office in a period around the later part of the 17th century. During this time, the notion of governance in Warsaw saw various changes, particularly in the 20th century, where adjustments were made in the election processes.",
+    "question": "When did Menich serve as President?",
+    "answers": {
+      "text": [
+        "around the later part of the 17th century"
+      ],
+      "answer_start": [
+        404
+      ]
+    }
+  },
+  {
+    "id": "9ee299fb-be2f-4fe1-acce-a894cad56155",
+    "title": "57",
+    "context": "During the early 19th century, a notable financial institution was formed in Warsaw, helping to pave the way for modern trading practices. This took place some time after the Napoleonic Wars and aligned with a period of European economic expansion.",
+    "question": "When was Warsaw's first stock exchange established?",
+    "answers": {
+      "text": [
+        "the early 19th century"
+      ],
+      "answer_start": [
+        7
+      ]
+    }
+  },
+  {
+    "id": "64bd9044-16f8-4590-a012-536155be8e84",
+    "title": "59",
+    "context": "The FSO Car Factory opened its doors a few years after the end of World War II. It has been a notable site in the automotive industry, producing various models such as the Warszawa, Syrena, and later the Polonez. During the 1990s, under the management of a South Korean company, the facility produced cars for the European market. In the early 2000s, a Ukrainian manufacturer took over, which lasted until production ceased at the beginning of the last decade. Now, the factory stands quiet and unused.",
+    "question": "When was the FSO Car Factory founded?",
+    "answers": {
+      "text": [
+        "a few years after the end of World War II"
+      ],
+      "answer_start": [
+        37
+      ]
+    }
+  }
+]

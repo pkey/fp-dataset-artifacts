@@ -1,6 +1,40 @@
-# fp-dataset-artifacts
 
-Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen. Modified by Tomas Eglinskas and Paulius Kutka to serve as basis for NLP 2024 Final Project at UT Austin.
+
+### To run an experiment
+
+```markdown
+- create a file in format "${EXPERIMENT_NAME}_qa_format.csv" in /scripts
+
+- if you don't have yet data, put it into "adversarial_date_excel.csv"
+- the data must have columns: "context,question,answers"
+- add your OPEN_API key: "export OPENAI_API_KEY=..."
+- run in /scripts: python3 complicate_questions.py
+
+to train and eval your model: "make train-eval-squad EXPERIMENT_NAME=${EXPERIMENT NAME}"
+
+to eval your model on SQUAD and your model: "make eval-squad EXPERIMENT_NAME=${EXPERIMENT NAME}"
+
+```
+
+Some example runs:
+```markdown
+# GENERATE AI DATA of X SAMPLES
+python3 scripts/complicate_questions.py 100
+
+# MOVE YOUR GENERATED DATA TO THE EXPERIMENT CSV file
+# cp scripts/adversarial_date_excel_openai.csv scripts/when_experiment_eval_ai_simple_qa_format.csv
+
+# ON BASE: {'eval_exact_match': 39.21568627450981, 'eval_f1': 70.32850783715834}
+make eval-squad-exp EXPERIMENT_NAME=when_experiment_eval_ai_simple
+
+# ON TRAINED: {'eval_exact_match': 70.58823529411765, 'eval_f1': 85.57854762458341}
+make train-eval-squad EXPERIMENT_NAME=when_experiment_eval_ai_simple
+
+# SQUAD ON TRAINED MODEL: {'eval_exact_match': 71.8543046357616, 'eval_f1': 81.54690127731999}
+make eval-squad EXPERIMENT_NAME=when_experiment_eval_ai_simple
+```
+
+
 
 ## Getting Started
 

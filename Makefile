@@ -42,7 +42,6 @@ eval-squad:
 ifeq ($(strip $(EXPERIMENT_NAME)),)
 	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_trained_model_electra_${ELECTRA_TYPE}_squad/"
 endif
-	### EXPERIMENT_NAME=when_experiment_eval_ai; {'eval_exact_match': 72.96121097445601, 'eval_f1': 81.99182576696812}
 	python3 run.py --do_eval --task qa --dataset squad --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)" --output_dir "$(MODEL_TRAINING_PATH)/eval_SQUAD_output_trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
 
 
@@ -63,7 +62,7 @@ ifeq ($(strip $(EXPERIMENT_NAME)),)
 	$(error EXPERIMENT_NAME is required. Please provide it using 'make eval-squad-exp EXPERIMENT_NAME=your_experiment_name')
 endif
 	python3 ./scripts/convert_to_dataset_format.py $(EXPERIMENT_NAME)
-	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/eval/$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad" --output_dir "$(MODEL_TRAINING_PATH)/eval_trained_model_electra_${ELECTRA_TYPE}_squad_${EXPERIMENT_NAME}/"
+	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/eval/$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad" --output_dir "$(MODEL_TRAINING_PATH)/eval_EVAL_trained_model_electra_${ELECTRA_TYPE}_squad_${EXPERIMENT_NAME}/"
 
 # for training + evaluation a custom dataset you will need:
 # - create a .CSV file in "scripts/{EXPERIMENT_NAME}_qa_format.csv" in SQUAD format "title,context,question,answer"
@@ -85,9 +84,9 @@ endif
 	# 1: splits data to training and validation sets
 	python3 ./scripts/to_train_eval_split.py $(EXPERIMENT_NAME)
 	# 2: runs training on the split training data and passed model
-	python3 run.py --do_train --task qa --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/train_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad/" --output_dir "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
+	python3 run.py --do_train --task qa --num_train_epochs 10 --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/train_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad/" --output_dir "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
 	# 3: runs evaluation on the split validation data and newly created model with trained data
-	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/validation_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/" --output_dir "$(MODEL_TRAINING_PATH)/eval_output_trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
+	python3 run.py --do_eval --task qa --dataset "$(LOCAL_DATASET_PATH)/train_with_eval/validation_$(EXPERIMENT_NAME).json" --model "$(MODEL_TRAINING_PATH)/trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/" --output_dir "$(MODEL_TRAINING_PATH)/eval_TRAIN_EVAL_output_trained_model_electra_${ELECTRA_TYPE}_squad_$(EXPERIMENT_NAME)/"
 
 
 # NOTE: can be only run on squad_v2
