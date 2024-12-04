@@ -118,6 +118,7 @@ def main():
         # Open and read the JSON file
 
         df = pd.read_json(path_to_data)
+        print("Amount of examples: ", len(df))
 
         with open(path_to_eval_metrics, "r") as json_file:
             result = json.load(json_file)
