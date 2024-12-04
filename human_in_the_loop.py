@@ -1,161 +1,138 @@
-import csv
 import json
+import subprocess
+import tempfile
+import uuid
+from pathlib import Path
 
 import pandas as pd
 from openai import ChatCompletion, OpenAI
-from transformers import (
-    AutoModelForQuestionAnswering,
-    AutoModelForSequenceClassification,
-    AutoTokenizer,
-    HfArgumentParser,
-    Trainer,
-    TrainingArguments,
-)
-
-from helpers import QuestionAnsweringTrainer, prepare_validation_dataset_qa
 
 
-def create_complexity_prompt(context, question, answers):
-    return f"""
-        You have:
-            context: {context}
-            question: {question}
-            answers: {answers}
+def _convert_and_save_to_json(input_data: list, output_path: str):
+    output_data = []
 
-        You have change the context for the answer.
+    for item in input_data:
+        answer_start = item["context"].lower().find(item["answer"].lower())
+
+        converted_item = {
+            "id": str(uuid.uuid4()),
+            "title": item["title"],
+            "context": item["context"],
+            "question": item["question"],
+            "answers": {"text": [item["answer"]], "answer_start": [answer_start]},
+        }
+        output_data.append(converted_item)
+
+    with open(output_path, "w") as file:
+        file.write(json.dumps(output_data, indent=2, ensure_ascii=False))
+
+    return output_data
+
+
+def _create_prompt():
+    return """
+        Produce a randomly generated passage or a paragraph on any topic, generate a question from it
+        and provide an answer. It should be possible to locate the answer in the passage, spelled out exactly the same.
+
+        Constraints:
+
+        - The context should have at least 5 sentences and involve a narrative, progression of events, or interconnected facts.
+        - The question should test the ability to extract specific details, infer connections between sentences, or grasp cause-effect relationships.
+        The topic should involve advanced knowledge in history, science, literature, or a technical field.
 
         Produce the output in ONLY THIS FORMAT in JSON - RETURN ONLY JSON:
-        {{
-            "new_context": "NEWLY_GENERATED_CONTEXT",
-            "new_answer": "NEWLY_GENERATED_ANSWER",
-        }}
+        {
+            "title": "NEWLY_GENERATED_CONTEXT",
+            "context": "NEWLY_GENERATED_ANSWER",
+            "question": "NEWLY_GENERATED_QUESTION",
+            "context": "NEWLY_GENERATED_ANSWER"
+        }
     """
 
 
-def main():
-    done = False
-    available_commands = ["exit", "no", "yes"]
+def generateExample(prompt):
     client = OpenAI()
+    response: ChatCompletion = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {
+                "role": "system",
+                "content": """
+                    You are helpful assistant that creates examples for training QA
+                    """,
+            },
+            {"role": "user", "content": prompt},
+        ],
+    )
+    try:
+        stripped_response = response.choices[0].message.content.strip().replace("`", "").replace("json", "")
+        structured_response = json.loads(stripped_response)
 
-    # initialise model
+        return structured_response
 
-    trainer_class = Trainer
-    eval_kwargs = {}
-    compute_metrics = None
-    # For QA, we need to use a tweaked version of the Trainer (defined in helpers.py)
-    # to enable the question-answering specific evaluation metrics
-    trainer_class = QuestionAnsweringTrainer
+    except json.JSONDecodeError as e:
+        print(f"JSON decoding failed: {e}")
 
-    model_class = AutoModelForQuestionAnswering
-    # Initialize the model and tokenizer from the specified pretrained model/checkpoint
-    model = model_class.from_pretrained("google/electra-small-discriminator")
-    # Make tensor contiguous if needed https://github.com/huggingface/transformers/issues/28293
-    if hasattr(model, "electra"):
-        for param in model.electra.parameters():
-            if not param.is_contiguous():
-                param.data = param.data.contiguous()
 
-    tokenizer = AutoTokenizer.from_pretrained("google/electra-small-discriminator", use_fast=True)
-
-    json_data = []
-    with open("./scripts/adversarial_date_excel.csv", "r") as csv_file:
-        csv_reader = csv.DictReader(csv_file)
-        for row in csv_reader:
-            json_data.append(row)
-
-    index_of_example = 0
-    generated_answers = []
-
+def main():
+    path_to_data = "datasets/data.json"
+    done = False
     while not done:
-        original_example = json_data[index_of_example]
-        context, question, answers = original_example["context"], original_example["question"], original_example["answers"]
-        prompt = create_complexity_prompt(context, question, answers)
+        prompt = _create_prompt()
 
-        # response: ChatCompletion = client.chat.completions.create(
-        #     model="gpt-4o",
-        #     messages=[
-        #         {
-        #             "role": "system",
-        #             "content": """
-        #                 You are an AI system which receives some context a question and an answer.
-        #                 And for the same question, will produce a bit different context with a new answer which doesn't have specific dates.
+        example = generateExample(prompt=prompt)
 
-        #                 You will use many different ways in not clearly saying the data, or giving similar events nearby with a date where
-        #                 the answer should happen at a similar time.
-        #             """,
-        #         },
-        #         {"role": "user", "content": prompt},
-        #     ],
-        # )
+        temp_dir = tempfile.mkdtemp()
 
+        path_to_json = Path(f"{temp_dir}/example.json")
+
+        new_data = _convert_and_save_to_json([example], path_to_json)
+
+        path_to_results = Path(f"{temp_dir}/results")
+
+        # Define the arguments
+        args = [
+            "python",
+            "run.py",
+            "--do_eval",
+            "--task",
+            "qa",
+            "--dataset",
+            f"{path_to_json}",
+            "--model",
+            "./model_training/trained_model_electra_small_squad",
+            "--output_dir",
+            f"{path_to_results}",
+        ]
+
+        # Run the command
         try:
-            # stripped_response = response.choices[0].message.content.strip().replace("`", "").replace("json", "")
-            # structured_response = json.loads(stripped_response)
-            structured_response = {"context": "mock context", "answer": "mock answer"}
+            result = subprocess.run(args, check=True, capture_output=True, text=True)
+            print("Command executed successfully!")
+            print("Output:\n", result.stdout)
+        except subprocess.CalledProcessError as e:
+            print("Error occurred while running the command!")
+            print("Error:\n", e.stderr)
 
-            response_with_past_data = {
-                **structured_response,
-                "title": str(index_of_example),
-                "context": context,
-                "question": question,
-                "answers": answers,
-            }
+        path_to_eval_metrics = path_to_results / "eval_metrics.json"
+        # Open and read the JSON file
 
-            new_data = [
-                {
-                    "title": str(index_of_example),
-                    "context": structured_response['new_context'],
-                    "question": ,
-                    "answers": answers,
-                }
-            ]
+        df = pd.read_json(path_to_data)
 
-            df = pd.DataFrame(new_data)
+        with open(path_to_eval_metrics, "r") as json_file:
+            result = json.load(json_file)
 
-            print(f"{index_of_example + 1} AI answer generated! ✅ ")
-            print(structured_response)
-            print("Does example make sense? Answer yes or no.")
+            # exact_match = result["eval_exact_match"]
+            f1_score = result["eval_f1"]
 
-        except json.JSONDecodeError as e:
-            print(f"JSON decoding failed: {e}")
+            if f1_score < 50:
+                print("Added example!")
+                df_new = pd.DataFrame(new_data)
+                df = pd.concat([df, df_new])
+            else:
+                print("Example too easy, moving on.")
 
-        single_example = [structured_response]
-
-        def prepare_eval_dataset(exs):
-            return prepare_validation_dataset_qa(exs, tokenizer)
-
-        eval_dataset_featurized = single_example.map(
-            prepare_eval_dataset,
-            batched=False,
-            num_proc=1,
-            # should define columns here
-            remove_columns=single_example.column_names,
-        )
-
-        trainer = trainer_class(
-            model=model,
-            # train_dataset=train_dataset_featurized,
-            eval_dataset=eval_dataset_featurized,
-            tokenizer=tokenizer,
-        )
-
-        result = trainer.evaluate()
-
-        command = input()
-
-        if command not in available_commands:
-            print(f"Command {command} not available. Did you mean one of these: {available_commands}?")
-            continue
-
-        if command == "exit":
-            done = True
-            print("Script finished!")
-
-        if command == "yes":
-            generated_answers.append(response_with_past_data)
-
-        if command == "no":
-            pass
+        df.to_json(path_to_data, orient="records")
 
 
 if __name__ == "__main__":
