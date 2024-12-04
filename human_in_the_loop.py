@@ -75,7 +75,7 @@ def generateExample(prompt):
 
 
 def main():
-    path_to_data = "datasets/data.json"
+    path_to_data = "datasets/data_human_in_the_loop_main.json"
     done = False
     while not done:
         prompt = _create_prompt()
