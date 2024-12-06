@@ -12,28 +12,31 @@ from openai import ChatCompletion, OpenAI
 client = OpenAI()
 
 def _convert_and_save_to_json(input_data: list, output_path: str):
-    output_data = []
+    try:
+        output_data = []
 
-    for item in input_data:
-        answer_start = item["context"].lower().find(item["answer"].lower())
-        if answer_start == -1:
-            print(f"Answer not found for {item['question']}")
-            continue
+        for item in input_data:
+            answer_start = item["context"].lower().find(item["answer"].lower())
+            if answer_start == -1:
+                print(f"Answer not found for {item['question']}")
+                continue
 
-        converted_item = {
-            "id": str(uuid.uuid4()),
-            "title": item["title"],
-            "context": item["context"],
-            "question": item["question"],
-            "answers": {"text": [item["answer"]], "answer_start": [answer_start]},
-        }
-        output_data.append(converted_item)
+            converted_item = {
+                "id": str(uuid.uuid4()),
+                "title": item["title"],
+                "context": item["context"],
+                "question": item["question"],
+                "answers": {"text": [item["answer"]], "answer_start": [answer_start]},
+            }
+            output_data.append(converted_item)
 
-    with open(output_path, "w") as file:
-        file.write(json.dumps(output_data, indent=2, ensure_ascii=False))
+        with open(output_path, "w") as file:
+            file.write(json.dumps(output_data, indent=2, ensure_ascii=False))
 
-    return output_data
-
+        return output_data
+    except Exception as e:
+        print(e)
+        return None
 
 def _create_prompt():
     return """
@@ -80,7 +83,13 @@ def generateExample(prompt):
 
 
 def main(experiment_name):
+
+    # COMMENT THIS OUT IF TO GENERATE ON THE SAME FILE
     path_to_data = f"./datasets/{experiment_name}/human_in_loop.json"
+    with open(path_to_data, 'w') as file:
+        file.write('[]')
+        pass
+
     done = False
     while not done:
         prompt = _create_prompt()
@@ -92,6 +101,8 @@ def main(experiment_name):
         path_to_json = Path(f"{temp_dir}/example.json")
 
         new_data = _convert_and_save_to_json([example], path_to_json)
+        if not new_data:
+            continue
 
         path_to_results = Path(f"{temp_dir}/results")
 
@@ -138,7 +149,7 @@ def main(experiment_name):
             else:
                 print("Example too easy, moving on.")
 
-        df.to_json(path_to_data, orient="records")
+        df.to_json(path_to_data, orient='records', indent=2)
 
 
 if __name__ == "__main__":

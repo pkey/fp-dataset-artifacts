@@ -1,0 +1,16 @@
+[
+  {
+    "id":"f0b37cd6-c43f-45b6-ad17-40c51ff6b8ba",
+    "title":"The Development of Quantum Computing",
+    "context":"Quantum computing is an area of computing focused on developing computer technology based on the principles of quantum theory, which explains the behavior of energy and material on the atomic and subatomic levels. The field began in the 1980s when physicist Richard Feynman and computer scientist David Deutsch proposed a model of a quantum computer. This groundbreaking concept introduced a computational system that could outperform classical computers for certain tasks, utilizing qubits instead of traditional bits. A qubit can exist simultaneously as both a 0 and a 1, unlike a classical bit which is either a 0 or a 1. This property, called superposition, allows quantum computers to solve complex problems more efficiently. For instance, quantum computers are believed to be able to break modern encryption standards, a task considered infeasible for classical computers due to their computational limits.",
+    "question":"What property allows quantum computers to solve complex problems more efficiently compared to classical computers?",
+    "answers":{
+      "text":[
+        "This property, called superposition, allows quantum computers to solve complex problems more efficiently."
+      ],
+      "answer_start":[
+        625
+      ]
+    }
+  }
+]

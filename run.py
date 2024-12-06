@@ -88,7 +88,7 @@ def main():
     )
 
     training_args, args = argp.parse_args_into_dataclasses()
-    wandb.init(project="NLP_FINAL_THESIS", name=training_args.output_dir)
+    # wandb.init(project="NLP_FINAL_THESIS", name=training_args.output_dir)
 
     # Dataset selection
     # IMPORTANT: this code path allows you to load custom datasets different from the standard SQuAD or SNLI ones.
