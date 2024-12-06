@@ -50,7 +50,7 @@ ifeq ($(strip $(EXPERIMENT_NAME)),)
 else
 	python3 run.py --do_eval --task qa \
 		--dataset squad \
-		--model "$(MODEL_TRAINING_PATH)/train/electra_$(ELECTRA_TYPE)-squad-$(EXPERIMENT_NAME)" \
+		--model "$(MODEL_TRAINING_PATH)/train/electra_$(ELECTRA_TYPE)-squad_WITH_CUSTOM-$(EXPERIMENT_NAME)" \
 		--output_dir "$(MODEL_TRAINING_PATH)/eval/electra_$(ELECTRA_TYPE)-squad+custom-ON_SQUAD-$(EXPERIMENT_NAME)"
 endif
 

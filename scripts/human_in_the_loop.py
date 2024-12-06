@@ -39,6 +39,8 @@ def _convert_and_save_to_json(input_data: list, output_path: str):
         print(e)
         return None
 
+# Temporal Preference Error
+# Proximity or Lexical Bias
 def _create_prompt():
     return """
         Produce a randomly generated passage or a paragraph on any topic, generate a question from it
@@ -49,8 +51,9 @@ def _create_prompt():
         - The context should have at least 5 sentences and involve a narrative, progression of events, or interconnected facts.
         - The question should test the ability to extract specific details, infer connections between sentences, or grasp cause-effect relationships.
         The topic should involve advanced knowledge in history, science, literature, or a technical field.
-        - The single question and context should be based on temporal reasoning and multi-hop, not saying specific dates.
+        - The context must be multi-hop, not saying specific dates.
         - All questions must be "when" type
+        - The category must be "Temporal Preference Error" 
     
         Produce the output in ONLY THIS FORMAT in JSON - RETURN ONLY JSON:
         {

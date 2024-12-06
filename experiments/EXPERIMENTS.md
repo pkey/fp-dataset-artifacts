@@ -1,0 +1,6 @@
+```sql
+-- GETTING ALL QUESTIONS STARTING WITH WHEN 
+SELECT *
+FROM validation
+WHERE question LIKE 'When%';
+```

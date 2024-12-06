@@ -1,0 +1,114 @@
+[
+  {
+    "id":"daf52ba0-ccdf-4f3e-b36b-38285cf401e8",
+    "title":"The Discovery of X-Rays",
+    "context":"In 1895, Wilhelm R\u00f6ntgen conducted experiments with cathode rays in his laboratory in W\u00fcrzburg, Germany. During these experiments, he observed a mysterious glow emanating from a chemically coated screen across the room. Intrigued, he continued his investigations and discovered that these rays could pass through most substances, leaving shadows of objects on pieces of film. R\u00f6ntgen named these mysterious rays 'X-rays' due to their unknown nature. By the following year, in 1896, X-rays were rapidly incorporated into medical diagnostics, revolutionizing the field of medicine. R\u00f6ntgen's groundbreaking discovery earned him the first Nobel Prize in Physics in 1901.",
+    "question":"When did X-rays become incorporated into medical diagnostics?",
+    "answers":{
+      "text":[
+        "By the following year, in 1896"
+      ],
+      "answer_start":[
+        450
+      ]
+    }
+  },
+  {
+    "id":"5df35eb4-63c2-4e9f-9c99-cc18210cfe63",
+    "title":"Origins of Quantum Mechanics",
+    "context":"In 1900, Max Planck introduced the quantum theory, proposing that energy is quantized in discrete units. This revolutionary idea set the stage for the development of quantum mechanics. In 1905, Albert Einstein further expanded on Planck's concept by explaining the photoelectric effect, solidifying the role of quanta in physics. By 1925, Werner Heisenberg developed matrix mechanics, one of the first complete formulations of quantum mechanics. The following year, Erwin Schr\u00f6dinger introduced wave mechanics, which stood alongside Heisenberg's matrix approach as a complementary description. These events gradually led to the full acceptance of quantum mechanics by the late 1920s.",
+    "question":"When did Erwin Schr\u00f6dinger introduce wave mechanics?",
+    "answers":{
+      "text":[
+        "The following year, Erwin Schr\u00f6dinger introduced wave mechanics, which stood alongside Heisenberg's matrix approach as a complementary description."
+      ],
+      "answer_start":[
+        446
+      ]
+    }
+  },
+  {
+    "id":"df3c810c-16ab-4789-bfce-5cbac61dce17",
+    "title":"Development of Quantum Mechanics",
+    "context":"Quantum mechanics, a fundamental theory in physics, emerged in the early 20th century, reshaping the scientific understanding of atomic and subatomic behavior. In 1900, Max Planck introduced the concept of quantized energy levels, laying the groundwork for further discoveries. By 1925, Werner Heisenberg developed matrix mechanics, an early formulation of quantum theory. The following year, Erwin Schr\u00f6dinger contributed by introducing wave mechanics, offering an alternative yet equivalent representation. In 1927, the landmark Solvay Conference was held in Brussels, where prominent physicists debated the philosophical implications of the theory. Finally, in 1935, Albert Einstein, Boris Podolsky, and Nathan Rosen published the EPR paper, questioning the completeness of quantum mechanics and provoking further investigations.",
+    "question":"When did Erwin Schr\u00f6dinger contribute to quantum mechanics by introducing wave mechanics?",
+    "answers":{
+      "text":[
+        "The following year, Erwin Schr\u00f6dinger contributed by introducing wave mechanics, offering an alternative yet equivalent representation."
+      ],
+      "answer_start":[
+        373
+      ]
+    }
+  },
+  {
+    "id":"8e0089c5-beda-4920-89b1-0d7af4f7980f",
+    "title":"NEWLY_GENERATED_CONTEXT",
+    "context":"In December 1895, the renowned physicist Wilhelm Conrad R\u00f6ntgen discovered X-rays, which would soon revolutionize medical imaging. His groundbreaking research piqued the curiosity of the scientific community, leading to further exploration of electromagnetic radiation. By early 1896, numerous scientists worldwide were conducting experiments to understand the properties and potential uses of X-rays in diagnosing illnesses. In the subsequent months, hospitals began to incorporate new techniques into their medical practices. By mid-1897, X-rays became a standard tool in hospitals across Europe and North America, drastically improving diagnostic capabilities and patient outcomes.",
+    "question":"When did hospitals begin to incorporate new X-ray techniques into their medical practices?",
+    "answers":{
+      "text":[
+        "In the subsequent months"
+      ],
+      "answer_start":[
+        426
+      ]
+    }
+  },
+  {
+    "id":"575522c7-9308-447a-abbf-71e542d10fac",
+    "title":"The Discovery of Penicillin",
+    "context":"In 1928, Alexander Fleming returned from a two-week vacation to his laboratory at St. Mary's Hospital in London. There, he observed an unusual occurrence: a mold called Penicillium notatum had killed off the surrounding bacteria in a petri dish. Although Fleming published his findings in 1929, it wasn't until the early 1940s, during World War II, that penicillin was mass-produced and became widely used as an antibiotic, saving countless lives. The process of large-scale production was pioneered by scientists like Howard Florey and Ernst Boris Chain, who worked tirelessly to optimize the cultivation and extraction of penicillin.",
+    "question":"When did penicillin become widely used as an antibiotic?",
+    "answers":{
+      "text":[
+        "the early 1940s"
+      ],
+      "answer_start":[
+        311
+      ]
+    }
+  },
+  {
+    "id":"1aa8bd71-2e15-4158-8d5a-3ede50bd12b3",
+    "title":"The Discovery of Penicillin",
+    "context":"In 1928, Alexander Fleming was working at St. Mary's Hospital in London when he observed that a mold called Penicillium notatum had contaminated one of his petri dishes and killed the surrounding bacteria. Initially, this observation was not given much attention, and it wasn't until 1939 that a team at Oxford University, including Howard Florey and Ernst Boris Chain, began to investigate the potential of the substance for treating bacterial infections. This research led to the successful development and mass production of penicillin by the early 1940s, profoundly transforming the field of medicine. World War II further accelerated its distribution and use, as it was found to significantly reduce the number of infection-related deaths among wounded soldiers.",
+    "question":"When did Alexander Fleming make his initial observation about Penicillium notatum?",
+    "answers":{
+      "text":[
+        "1928"
+      ],
+      "answer_start":[
+        3
+      ]
+    }
+  },
+  {
+    "id":"5b40e84a-3b4f-4fd0-9a49-e3b1eece999c",
+    "title":"The Discovery of Penicillin",
+    "context":"In 1928, Alexander Fleming, a Scottish bacteriologist, went on a two-week vacation from his research at St. Mary's Hospital in London. Upon his return, Fleming noticed that a Petri dish containing Staphylococcus bacteria had accidentally been left open. Remarkably, the dish was contaminated with a blue-green mold, later identified as Penicillium notatum. Fleming observed that where the mold grew, the bacteria were no longer present. This accidental discovery became the cornerstone for developing antibiotics, revolutionizing medicine. However, it was not until 1942 that penicillin was finally mass-produced and used extensively to treat soldiers during World War II.",
+    "question":"When did Alexander Fleming discover the mold that led to penicillin?",
+    "answers":{
+      "text":[
+        "In 1928"
+      ],
+      "answer_start":[
+        0
+      ]
+    }
+  },
+  {
+    "id":"bbe3f0d1-9ecf-4698-b3ac-8168274589d5",
+    "title":"The Discovery of Electromagnetism",
+    "context":"In the early 19th century, Hans Christian \u00d8rsted, a Danish physicist, discovered a pivotal connection between electricity and magnetism. This significant event occurred in 1820 when \u00d8rsted observed that a compass needle deflected from magnetic north when an electric current from a battery was switched on and off. This discovery laid the groundwork for future research in electromagnetism, leading to further advancements by scientists like Andr\u00e9-Marie Amp\u00e8re and Michael Faraday. In 1831, Faraday demonstrated that a changing magnetic field could induce an electric current, further solidifying the importance of \u00d8rsted\u2019s initial findings. By the mid-19th century, James Clerk Maxwell developed a set of equations that mathematically described the principles of electromagnetism, building upon the work of his predecessors.",
+    "question":"When did Hans Christian \u00d8rsted discover the connection between electricity and magnetism?",
+    "answers":{
+      "text":[
+        "1820"
+      ],
+      "answer_start":[
+        172
+      ]
+    }
+  }
+]
