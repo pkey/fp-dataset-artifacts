@@ -1,4 +1,5 @@
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -48,7 +49,9 @@ def _create_prompt():
         - The context should have at least 5 sentences and involve a narrative, progression of events, or interconnected facts.
         - The question should test the ability to extract specific details, infer connections between sentences, or grasp cause-effect relationships.
         The topic should involve advanced knowledge in history, science, literature, or a technical field.
-
+        - The single question and context should be based on temporal reasoning and multi-hop, not saying specific dates.
+        - All questions must be "when" type
+    
         Produce the output in ONLY THIS FORMAT in JSON - RETURN ONLY JSON:
         {
             "title": "NEWLY_GENERATED_CONTEXT",
@@ -157,6 +160,7 @@ if __name__ == "__main__":
     if len(args) != 2:
         sys.exit("Please specify an experiment name")
 
+    os.environ['WANDB_MODE'] = 'disabled'
     experiment_name = args[1]
 
     main(experiment_name)

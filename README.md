@@ -43,7 +43,8 @@ python3 scripts/to_squad_format.py EXPERIMENT_NAME='example'
 python3 scripts/split_dataset.py EXPERIMENT_NAME='example'
 
 # If you want to generate some questions for EXPERIMENT with AI 
-python3 scripts/human_in_the_loop.py EXPERIMENT_NAME='example'
+mkdir datasets/temporal_human_in_the_loop
+python3 scripts/human_in_the_loop.py EXPERIMENT_NAME='temporal_human_in_the_loop'
 ```
  
 #### Other dataset commands 
