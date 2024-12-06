@@ -8,3 +8,7 @@ venv
 .env
 .tmp.driveupload/
 .DS_Store
+
+squad_analysis
+models/train/
+wandb

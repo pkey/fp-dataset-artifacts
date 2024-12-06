@@ -7,3 +7,4 @@ evaluate
 openai
 pyarrow
 nltk
+wandb

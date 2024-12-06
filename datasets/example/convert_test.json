@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What date is today?",
+    "context": "Today is the date of 2024",
+    "answer": "2024"
+  },
+  {
+    "question": "Who am I?",
+    "context": "You are a human or a robot",
+    "answer": "human"
+  }
+]
